@@ -1,0 +1,103 @@
+#role: You are an academic expert in petrochemicals.
+
+#Prompt 1:
+Please extract the field information from the above context in the following table(two column) form: 
+Journal
+DOI
+Corresponding author
+Corresponding author's affiliation
+Title	
+Polymer type and information
+Orientation
+Crystallinity
+chain structure
+Filler information
+Filler content
+Filler treatment
+Filler orientation
+Sample preparation method
+An instrument or method for testing thermal conductivity
+Thermal conductivity
+
+
+#prompt 2:
+
+Please extract field information from the above paper content, requiring:
+1. You are an academic expert in petrochemicals;
+2. If there is no relevant information about the field in the text, fill in/for that field;
+3. If relevant information about a field appears in the text, you don't need to summarize it. You can simply extract the four sentences above and below the text where the field is located;
+4. Require to display in a table format, with two columns, one for the field and the other for the original content;
+5. The extracted information is the original content rather than the summary;
+6. The fields to be extracted include:
+
+Journal Ref
+DOI
+Corresponding author
+Corresponding author's affiliation
+Title	
+Polymer type and information
+Orientation
+Crystallinity
+chain structure
+Filler information
+Filler content
+Filler treatment
+Filler orientation
+Sample preparation method
+An instrument or method for testing thermal conductivity
+Thermal conductivity
+
+#prompt 3:(力学)
+1. You are an academic expert in petrochemicals;
+2. If there is no relevant information about the field in the text, fill in/for that field;
+3. If relevant information about a field appears in the text, you don't need to summarize it. You can simply extract the four sentences above and below the text where the field is located;
+4. Require to display in a table format, with two columns, one for the field and the other for the original content;
+5. The extracted information is the original content rather than the summary;
+6. The fields to be extracted include:
+
+Journal Ref
+DOI
+author
+author's affiliation 
+Tittle
+Polymer type and information
+molecular characteristics
+processing history
+texture of the film
+test method for puncture resistance
+puncture resistance data
+discussion on   puncture resistance
+
+
+#prompt 4:（电晕）
+Please extract field information from the above paper content, requiring:
+1. If there is no relevant information about the field in the text, fill in/for that field;
+2. If relevant information about a field appears in the text, you don't need to summarize it. You can simply extract the four sentences above and below the text where the field is located;
+3. Require to display in a table format, with two columns, one for the field and the other for the original content;
+4. The fields to be extracted include:
+
+Please extract field information from the above paper content, requiring:
+1. You are an academic expert in petrochemicals;
+2. If there is no relevant information about the field in the text, fill in/for that field;
+3. If relevant information about a field appears in the text, you don't need to summarize it. You can simply extract the four sentences above and below the text where the field is located;
+4. Require to display in a table format, with two columns, one for the field and the other for the original content;
+5. The extracted information is the original content rather than the summary;
+6. The fields to be extracted include:
+
+Journal Ref
+Corresponding author
+Corresponding author's affiliation 
+Tittle
+DOI
+Polymer type and information
+Sample preparation method
+Cryatllinity
+Electrostatic Potential Measurement.
+Allignment of Charged PE Film within an Electric Field
+Plasma treatment of  samples
+Instrument and/or method for testing Surface chemical composition
+Instrument and/or method for measuring contact angles
+Contact angle variation with aging
+The Electrostatic Potential of PE pieces after corona treatments 
+morphological changes after corona treatments
+

@@ -1,0 +1,12 @@
+Journal Ref
+DOI
+author
+author's affiliation 
+Tittle
+Polymer type and information
+molecular characteristics
+processing history
+texture of the film
+test method for puncture resistance
+puncture resistance data
+discussion on   puncture resistance

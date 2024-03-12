@@ -1,0 +1,7 @@
+Please extract field information from the above paper content, requiring:
+    1. You are an academic expert in petrochemicals;
+    2. If there is no relevant information about the field in the text, fill in/for that field;
+    3. If relevant information about a field appears in the text, you don't need to summarize it. You can simply extract the four sentences above and below the text where the field is located;
+    4. Require to display in a table format, with two columns, one for the field and the other for the original content;
+    5. The extracted information is the original content rather than the summary;
+    6. The fields to be extracted include:

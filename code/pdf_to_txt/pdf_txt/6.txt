@@ -1,0 +1,3903 @@
+doi:1 .1 16/j.polymer.2  5. 5.137 
+Does the length of the short chain branch affect the mechanical properties
+
+
+of linear low density polyethylenes? An investigation based on
+
+
+films of copolymers of ethylene/1-butene, ethylene/1-hexene and
+
+
+ethylene/1-octene synthesized by a single site metallocene catalyst
+
+
+Pankaj Guptaa,1, Garth L. Wilkesa,*, Ashish M. Sukhadiab, Rajendra K. Krishnaswamyb, Mark J. Lambornb, Stephen M. Wharryb, Chung C. Tsob, Paul J. DesLauriersb,
+
+
+Todd Mansfieldc, Frederick L. Beyerd
+
+
+aDepartment of Chemical Engineering, Virginia Polytechnic Institute and State University, Blacksburg, VA 24 61, USA bChevron Phillips Chemical Company, Bartlesville, OK, USA
+
+
+cProcter and Gamble Company, Cincinnati, OH, USA dUS Army Research Laboratory, Aberdeen, MD, USA
+
+
+Available online 12 July 2  5 
+Abstract
+
+
+Three nearly identical linear low density polyethylene resins based on copolymers of ethylene with 1-butene (B), 1-hexene (H) and
+
+
+1-octene (O) were utilized to investigate the effect of short chain branch length on the mechanical properties of blown and compression
+
+
+molded (quenched and slow cooled) films. The content of short chain comononer in the three copolymers was ca. 2.5–2.9 mol% that
+
+
+corresponded to a density of  .917– .918 g/cm3. Within a given series, the tensile properties of these films do not show any significant
+
+
+difference at slow deformation rates (up to 51  mm/min), even though the DSC and TREF profiles of ‘H’ and ‘O’ differed slightly in
+
+
+comparison to ‘B’. However, at higher deformation rates (ca. 1 m/s), the breaking strength of these films was found to increase with
+
+
+increasing short chain branch length. In addition, the Spencer impact and Elmendorf tear strength of the blown films were also observed to
+
+
+increase with increasing short chain branch length. Further, dart impact strength and high-speed puncture resistance (5.1 m/s) of 1-octene and
+
+
+1-hexene based samples was also observed to be higher than that based on 1-butene. The blown films displayed low and comparable levels of
+
+
+equivalent in-plane birefringence and crystalline orientation by wide angle X-ray scattering. This confirms that the differences in mechanical
+
+
+properties in the blown film series are not attributable to differences in molecular orientation. The deformation behavior of both the
+
+
+compression molded and blown films were also investigated in a well-defined controlled regime by analyzing their essential work of fracture.
+
+
+It was found that the essential work of fracture of films based on 1-hexene and 1-octene was higher than that of films based on 1-butene. While
+
+
+the origin of these differences in mechanical properties with increasing short chain branch length is not fully understood, the present
+
+
+investigation confirms this effect to be pronounced at high deformation rates for both the blown and compression molded quenched films.
+
+
+q 2  5 Elsevier Ltd. All rights reserved.
+
+
+Keywords: Polyethylene; Short chain branching; Mechanical
+
+
+1. Introduction
+
+
+Linear low density polyethylenes (LLDPEs) are made by   32-3861/$ - see front matter q 2  5 Elsevier Ltd. All rights reserved.
+
+
+doi:1 .1 16/j.polymer.2  5. 5.137 
+* Corresponding author. Tel.: C1 54  231 5498; fax: C1 54  231 9511. 
+E-mail address: gwilkes@vt.edu (G.L. Wilkes). 1 Current address: Materials R&D, The Dow Chemical Company,
+
+
+Freeport, 77541, TX, USA. the copolymerization of ethylene and an a-olefin, such as
+
+
+1-butene, 1-hexene, 1-octene, 4-methyl-1-pentene, etc. The
+
+
+a-olefin, present in small amounts in the copolymer,
+
+
+introduces short chain branches (SCB) on the polymer
+
+
+backbone; for instance, the three particularly common
+
+
+comonomers, 1-butene, 1-hexene and 1-octene addressed in
+
+
+this report introduce ethyl, butyl and hexyl branches,
+
+
+respectively. The primary objective of this study is to
+
+
+investigate whether the length of the short chain branch
+
+
+(2.5–2.9 mol%, at a copolymer density of ca.  .917– 
+ .918 g/cm3) affects the mechanical properties of LLDPE
+
+
+Polymer 46 (2  5) 8819–8837 
+www.elsevier.com/locate/polymer
+
+
+P. Gupta et al. / Polymer 46 (2  5) 8819–8837882  films. As will be reviewed below, many studies have
+
+
+attempted to address this same topic but in doing so, many
+
+
+important and influential parameterswere not necessarily well
+
+
+controlled in the respective investigations. We believe the
+
+
+present report has improved on this aspect aswill be discussed.
+
+
+LLDPE resins are typically produced using Ziegler Natta
+
+
+heterogeneous catalysts, whose origins can be traced back to
+
+
+the late 195 s [1]. However, the resins produced by these
+
+
+catalysts are characterized by considerable heterogeneity in
+
+
+their microstructure and melting behavior and are con-
+
+
+sidered to be a mixture of fractions of polyethylene
+
+
+copolymers with a range of molecular weights and short
+
+
+chain branch content. In the mid 199 s, with the commercial
+
+
+advent of high efficiency single site metallocene catalysts,
+
+
+narrow molecular weight distribution LLDPEs with con-
+
+
+siderably more homogenous distribution of short chain
+
+
+branches were produced. Metallocene-based LLDPE resins
+
+
+have now been commercialized using various different
+
+
+catalyst technologies [2–6]. The single site metallocene
+
+
+catalysts produce copolymers that have much narrower
+
+
+molecular weight distributions (ca. 2–3) and a greater
+
+
+uniformity in the distribution of the short chain branching
+
+
+across the width of the molecular weight distribution
+
+
+relative to the Ziegler Natta catalyzed systems.
+
+
+LLDPE resins of all types constitute a major segment of
+
+
+the polyethylene (PE) blown film market worldwide. It is
+
+
+known that the mechanical properties of the LLDPE films
+
+
+are influenced by molecular structural parameters such as
+
+
+molecular weight, molecular weight distribution in addition
+
+
+to the amount as well as the short chain branch distribution
+
+
+(SCBD) across the width of the copolymer molecular
+
+
+weight distribution. Morphological features such as degree
+
+
+of crystallinity, intercrystalline connectivity and preferred
+
+
+orientation are also strongly believed to have an effect of the
+
+
+mechanical properties of blown LLDPE films [7–19].
+
+
+Short chain branching critically affects the crystallinity
+
+
+and thus the morphology and consequently the solid-state
+
+
+properties of the corresponding LLDPE films. As a result, a
+
+
+broad range of properties of LLDPEs can be obtained by
+
+
+varying the amount of SCB and the SCBD. In addition, the
+
+
+length of the short chain branch may also play an important
+
+
+role in governing the mechanical properties—the specific
+
+
+issue that will be addressed in this study. Early on, Cady
+
+
+[2 ] investigated the effects of the type of short chain
+
+
+branching (SCB) and SCBD on the dart impact and
+
+
+Elmendorf tear strength of blown films of LLDPEs based
+
+
+on 1-butene, 1-hexene and 1-octene that were synthesized
+
+
+using Zeigler Natta catalyst chemistry. For similar density
+
+
+and melt flow index, the 1-butene based resins performed
+
+
+poorly in comparison to those based on 1-hexene and
+
+
+1-octene, even though it had a more homogenous SCBD.
+
+
+However, comparison of two different 1-octene based resins
+
+
+that differed in their SCBD indicated better mechanical
+
+
+performance for the 1-octene based resin that had a more
+
+
+homogenous SCBD. No comment was made on the relative
+
+
+amounts of the short chain branching in each of the resins, %
+
+
+crystallinity or orientation of the blown films. However, it
+
+
+was concluded that the combination of the short chain
+
+
+branch length and a more homogenous SCBD leads to better
+
+
+mechanical properties of LLDPE blown films. In a similar
+
+
+study utilizing LLDPE resins based on 1-butene, 1-hexene
+
+
+and 1-octene that had densities in the range of  .919– 
+ .921 g/cm3, melt flow indices of  .9–1 dg/min and
+
+
+polydispersities of 3.3–4.1, Liu and Baker [21] observed
+
+
+the impact strength to increase with increasing short chain
+
+
+branch length. It was suggested that the longer short chain
+
+
+branches lead to a larger fraction of tie molecules in the
+
+
+interlamellar region that causes the observed increase in
+
+
+impact strength. However, in this study as well, both the
+
+
+comonomer content and the SCBD varied simultaneously,
+
+
+thereby making the interpretation of the corresponding
+
+
+effects uncertain. In a third study, Kim and Park [22] observed
+
+
+a similar trend for Zeigler-Natta catalyzed 1-butene, 1-hexene
+
+
+and 1-octene based LLDPE blown films that had relatively
+
+
+larger polydispersities (w6), varying comonomer compo-
+
+
+sition (4.3, 3.7 and 2.8 mol% of 1-butene, 1-hexene and
+
+
+1-octene, respectively) and varying branch density (21, 17 and
+
+
+13 CH3/1    C for 1-butene, 1-hexene and 1-octene based
+
+
+resins, respectively). The differences in the dart impact and
+
+
+Elmendorf tear strengths of the blown films based on the three
+
+
+resins were attributed to the differences in short chain
+
+
+branching distributions and increased imperfections in the
+
+
+crystallographic order and decreased lamellar thickness
+
+
+with increasing short chain branch length.
+
+
+Wolfe [23] studied the effect of comonomer type on the
+
+
+slow crack growth resistance of high-density polyethylene
+
+
+using the PENT (ASTM F1473) test. Of the two
+
+
+comonomers investigated (‘B’ and ‘H’), the HDPE based
+
+
+on 1-hexene failed after 4   h compared to 3  h in the case
+
+
+of HDPE based on 1-butene. No comment, however, was
+
+
+made on the molecular weight, distribution of the short
+
+
+chain branches and orientation of molecular chains in the
+
+
+pipe resins utilized.
+
+
+By investigating LLDPE resins based on 1-butene and
+
+
+1-octene, Kale et al. [24] compared the intrinsic tear
+
+
+strengths for two sets of resins (each set had two resins
+
+
+based each on 1-butene and 1-octene) of densities  .912 and
+
+
+ .921 g/cm3, respectively. The resins had similar poly-
+
+
+dispersities (2.12–2.25), melt flow indices ( .93–1. 2) but
+
+
+different short chain branch comonomer content. For the
+
+
+ .912 g/cm3 set of resins, the mol% of 1-butene was 4.17 
+and that of 1-octene was 3. 4; for the  .921 g/cm3 set of
+
+
+resins, these were 3. 4 and 1.77 mol%, respectively, for
+
+
+1-butene and 1-octene. Despite the differences in their
+
+
+comonomer content and the lack of information on the
+
+
+SCBD, the higher intrinsic tear strength of the 1-octene
+
+
+based LLDPE resins relative to the 1-butene based resins
+
+
+was speculated to be due to enhanced tie molecule
+
+
+formation with increasing short chain branch length.
+
+
+Further, the observed difference in the melting point versus
+
+
+mole fraction comonomer relationships for 1-butene and
+
+
+1-octene based LLDPE resins was suggested to be due to the
+
+
+P. Gupta et al. / Polymer 46 (2  5) 8819–8837 8821 incorporation of small amounts of 1-butene into the
+
+
+crystalline phase and/or variations in the commoner
+
+
+sequence distributions. However, Alizadeh et al. [25] and
+
+
+Alamo et al. [26] have shown that the melting point
+
+
+depression with increasing mole fraction of the short chain
+
+
+branch comonomer is independent of the type of the
+
+
+comonomer, i.e. at any given mole fraction of 1-butene,
+
+
+1-pentene, 1-hexene and 1-octene in metallocene catalyzed
+
+
+copolymers with polyethylene, the melting point depression
+
+
+of all these copolymers was observed to be comparable.
+
+
+Further, Alizadeh et al. [25] observed that at any given
+
+
+mol% of the short chain branch comonomer, the degree of
+
+
+crystallinity was also very comparable for LLDPE based on
+
+
+1-butene, 1-pentene, 1-hexene and 1-octene. These obser-
+
+
+vations clearly suggest that the degree/probability of branch
+
+
+exclusion from the lamellar crystal is independent of the
+
+
+comonomer type, viz. 1-butene, 1-hexene and 1-octene.
+
+
+Therefore, in turn, one would expect no differences in tie
+
+
+molecule formation for the three LLDPE materials based on
+
+
+1-butene, 1-hexene and 1-octene.
+
+
+Kennedy et al. [27] also studied the tensile stress–strain
+
+
+behavior of metallocene catalyzed LLDPE resins based on
+
+
+1-butene, 1-hexene, 1-octene and 4-methyl-1-pentene. It
+
+
+was observed that the nominal-stress strain curves, that were
+
+
+measured at low deformation rate of  .   4 m/s (1 in./min)
+
+
+compared to high deformation rates involved during the
+
+
+impact ( .2–4 m/s) and Elmendorf tear testing ( .1–7 m/s),
+
+
+were dominated by strain hardening for all the LLDPEs
+
+
+resins excepting those based on 1-butene. The yield stress
+
+
+and initial modulus were related to the degree of crystal-
+
+
+linity regardless of the short chain branch comonomer.
+
+
+More importantly, for the highest molecular weights studied
+
+
+(MwO1  ,    g/mol) the force-elongation curves
+
+
+(recorded at low deformation rates of  .   4 m/s) for the
+
+
+four resins were observed to be similar to one another for the
+
+
+same short chain branch content. This last observation is
+
+
+important for until the present report, the tensile stress strain
+
+
+behavior of LLDPE resins, particularly based on 1-butene,
+
+
+1-hexene or 1-octene, have not been systematically studied
+
+
+at high deformation rates similar to those involved in dart or
+
+
+Spencer impact and Elmendorf tear strength testing. In
+
+
+addition, the dart or Spencer impact strength and Elmendorf
+
+
+tear resistance measurements, although standard ASTM
+
+
+measurements in industry are characterized by non-uniform
+
+
+deformation rates.
+
+
+It is important to note that most of the studies that relate
+
+
+to the influence exerted by the branch length involve
+
+
+comparisons of LLDPE films from resins that either have
+
+
+different short chain branch contents, different comonomer
+
+
+distribution profile (SCBD), different polydispersities or
+
+
+different short chain branch density on the main ethylene
+
+
+backbone. As a result, it is extremely difficult to properly
+
+
+interpret the results and separate the effects of the individual
+
+
+parameters (mentioned above) on the physical properties of
+
+
+LLDPE resins due to their simultaneous variation. Thus, in
+
+
+this study, three LLDPE resins based on 1-butene, 1-hexene
+
+
+and 1-octene, that have been carefully synthesized [28] 
+using the same single site metallocene based catalyst, were
+
+
+examined to specifically investigate the effect of the
+
+
+comonomer type (short chain branch length), viz.
+
+
+1-butene, 1-hexene and 1-octene on the mechanical proper-
+
+
+ties of blown and compression molded LLDPE films. As
+
+
+will be discussed later, these three resins were very
+
+
+comparable in terms of their molecular, rheological,
+
+
+comonomer content and SCBD aspects. As a result, any
+
+
+differences arising out of structural differences from other
+
+
+origins, while not fully eliminated, were minimized. Results
+
+
+from the earlier study [28] showed that while the tensile
+
+
+properties, at nominal deformation rates, of the blown films
+
+
+were indistinguishable, the Elmendorf tear, dart impact and
+
+
+Spencer impact properties of the 1-butene based films were
+
+
+significantly lower than the corresponding 1-hexene and
+
+
+1-octene based films. The difference between 1-hexene and
+
+
+1-octene films was much smaller with a slight advantage for
+
+
+the 1-octene films. In this study, we attempt to further
+
+
+investigate the effect of the type of the short chain branch on
+
+
+the mechanical properties of LLDPE films since other
+
+
+parameters (like comonomer content, SCBD, molecular
+
+
+weight, molecular weight distribution, polydispersity and
+
+
+density) were established to be essentially constant [28].
+
+
+The mechanical properties were measured utilizing Spencer
+
+
+impact, Elmendorf tear resistance and high-speed puncture
+
+
+resistance measurements as well as in a controlled tensile
+
+
+deformation regime by utilizing the essential work of
+
+
+fracture methodology/technique.
+
+
+2. Essential work of fracture (EWF)
+
+
+Recent studies have indicated that the EWF procedure is
+
+
+a very useful method to study the fracture properties of thin
+
+
+films and ductile materials [29–33]. The concept of EWF
+
+
+was developed initially by Cotterell and Reddel [34] on the
+
+
+basis of ideas proposed by Broberg [35], who suggested that
+
+
+the total work of fracture (Wf) dissipated in a precracked
+
+
+specimen could be represented as a sum of the work
+
+
+consumed into two distinct zones. As shown in Fig. 1, the
+
+
+double-edge-notched-tension (DENT) specimen that is
+
+
+precracked along the horizontal (inwards from the vertical
+
+
+edges) to leave a ligament region ‘l’ that undergoes the actual
+
+
+deformation in tension under a load ‘F’ along the vertical.
+
+
+The regions marked as ‘1’ and ‘2’ depict the fracture process
+
+
+zone (FPZ) and the outer plastic zone, respectively, (OPZ).
+
+
+The work dissipated in the FPZ corresponds to the
+
+
+essential work of fracture (We); and the work required to
+
+
+yield the material in the OPZ is the non-essential work of
+
+
+fracture (Wp) that depends on the geometry of the specimen
+
+
+tested. Thus, the total fracture energy is expressed as (more
+
+
+details are provided elsewhere [34]):
+
+
+Wf ZWe CWp ZweltCwpbl 2t (1) 
+Fig. 1. Sample geometry utilized in the double edge notched tension
+
+
+(DENT) mode. The zones marked with 1 and 2 indicate the fracture process
+
+
+zone (FPZ) and outer plastic zone (OPZ), respectively. The ligament length
+
+
+(denoted as ‘l’) in the present study was 1, 2 or 3 mm.
+
+
+Table 1 
+Rheology, density, molecular weight and its distribution, and comonomer
+
+
+short chain branch content in LLDPE resinsbased on ethylene/1-butene
+
+
+(‘B’), ethylene/1-hexene (‘H’) and ethylene/1-octene (‘O’) [28] 
+Property Resin ‘B’ Resin ‘H’ Resin ‘O’
+
+
+MI (g/1  min)a 1. 9 1. 1 1. 2 
+Density (g/cm3)b  .918  .918  .917 
+Total mol% [X] 2.95 2.47 2.56 
+h  (Pa s) 7.24E3 7.26E3 7.13E3 
+Mw (kg/mol) 99.  98.1 97.9 
+Mn (kg/mol) 44.2 44.2 43.2 
+Mw/Mn 2.24 2.22 2.27 
+a ASTM D1238. b ASTM D15 5. 
+P. Gupta et al. / Polymer 46 (2  5) 8819–88378822 where we is the specific essential work of fracture (per unit
+
+
+ligament area), wp is the specific non-essential work of
+
+
+fracture (per unit volume), l is the ligament length, t is the
+
+
+specimen thickness and b is the plastic zone shape factor.
+
+
+The total specific work of fracture is represented by:
+
+
+wf Z Wf
+
+
+lt Zwe Cbwpl (2) 
+From Eq. (2), it is clear that wf has a linear relationship with
+
+
+the ligament length. In other words, a plot of the wf as a
+
+
+function of l should be linear with the intercept on the
+
+
+ordinate axis and the slope providing we and bwp,
+
+
+respectively. Thus, this method involves testing of speci-
+
+
+mens that have different ligament lengths, and then
+
+
+evaluating the Wf for each specimen (area under the
+
+
+force–displacement curve) followed by suitable normal-
+
+
+ization with respect to the ligament area to give a plot of wf
+
+
+vs. l. The best-fit regression line would then give the slope
+
+
+(bwp) and intercept (we).
+
+
+When plane stress conditions prevail for all ligament
+
+
+lengths, it is assumed [36] that we is a material property (a
+
+
+constant) at a given thickness. Mathematically, for plane
+
+
+stress conditions, the following two relationships should be
+
+
+satisfied:
+
+
+lR ð3w5Þt (3) 
+t/25 we
+
+
+sy (4) 
+Under these conditions, it has been demonstrated theoreti-
+
+
+cally [37] and supported experimentally [37–39] that we is
+
+
+equivalent to Jc, or the J-integral. For a nonlinear elastic
+
+
+body containing a precrack and undergoing deformation, Jc represents the strain energy release rate of nonlinear elastic
+
+
+materials and is given by: [4 ] 
+JC ZK dU
+
+
+dA (5) 
+where U is the potential energy (also the difference between
+
+
+the strain energy stored in the body and the work done by
+
+
+external forces of deformation) and A is the crack area. It
+
+
+can be seen that the units of Jc are also energy/area (the
+
+
+same as we). Thus, the advantage of the EWF method is its
+
+
+experimental simplicity as compared to the J-integral
+
+
+procedure.
+
+
+3. Experimental
+
+
+3.1. Material synthesis
+
+
+The three LLDPE copolymers (based on ethylene-co-1- 
+butene, ‘B’, ethylene-co-1-hexene, ‘H’, and ethylene-co-1- 
+octene, ‘O’) used in this study were synthesized by using a
+
+
+Chevron Phillips’ proprietary zirconium based metallocene
+
+
+catalyst [28]. The copolymerization was conducted in a pilot
+
+
+plant at Chevron Phillips under steady state slurry-loop
+
+
+copolymerization conditions. The comonomers and the
+
+
+catalyst were fed continuously and the polymer fluff was
+
+
+continuously removed from the reactor. The fluff was
+
+
+purged with nitrogen to remove residual solvent and
+
+
+unreacted olefins followed by blending with antioxidants
+
+
+and a processing aid. The polymers were then extruded into
+
+
+pellets.
+
+
+3.2. Characterization of the resins
+
+
+The molecular, rheological and branching characteristics
+
+
+of the three resins are listed in Table 1. The rheological data
+
+
+were obtained using a Rheometrics Scientific Inc., ARES
+
+
+rheometer. Small strain (1 %) oscillatory measurements
+
+
+across a frequency range of  . 3–95 rad/s were made at
+
+
+19  8C under a nitrogen blanket. The resulting complex
+
+
+viscosity versus frequency data was fitted using the modi-
+
+
+fied Carreau–Yasuda (CY) empirical model [41,42] to
+
+
+obtain the zero shear viscosity (h ). The molecular weight,
+
+
+P. Gupta et al. / Polymer 46 (2  5) 8819–8837 8823 and the molecular weight distribution were determined by
+
+
+gel permeation chromatography (GPC). Nuclear magnetic
+
+
+resonance (NMR) was utilized to determine the amount of
+
+
+comonomer and thus the short chain branching incorporated
+
+
+into the respective copolymers. The experimental proce-
+
+
+dures of these two techniques are outlined in detail else-
+
+
+where [43]. In addition, the comonomer composition
+
+
+distribution across the molecular weight distribution of
+
+
+these three copolymers was determined by a recently deve-
+
+
+loped chemometric technique [44] based on size exclusion
+
+
+chromatography and Fourier transform infrared spectros-
+
+
+copy (SEC–FTIR).
+
+
+Temperature rising elution fractionation (TREF) was
+
+
+performed on the three resins to determine the homogeneity
+
+
+of incorporation of SCB in the copolymers. This was done
+
+
+by using a triple detector TREF instrument which was
+
+
+assembled using parts retro-fitted into a Waters 15 C GPC
+
+
+system. The column (12.55 mm ID and 15  mm in length)
+
+
+was packed with #3  stainless steel shot (Vulcan Blast Shot
+
+
+Technology, Brantfor, Ont., Canada). The oven heater pro-
+
+
+vided programmed cooling and heating in the 35–15  8C 
+range. It was controlled externally via West 44   set point
+
+
+programmer. Three detectors, viz. a Foxboro infrared (IR)
+
+
+(3.4 nm), a Viscotek 15 R viscometer and a PDI 15 and
+
+
+9 -degree dual-angle light scattering detector, were utilized
+
+
+for characterization. The viscometer and the light scattering
+
+
+detector were housed in the same oven while the IR cell was
+
+
+heated separately. Sample solutions were prepared in the
+
+
+carrier solvent, 1,2,4-trichlorobenzene (TCB), at 3 mg/mL.
+
+
+In the experiment, 5   mL of the sample solution was
+
+
+injected onto the column at 15  8C and subsequently cooled
+
+
+to 35 8C at a rate of  .72 8C/min, to allow slow and complete
+
+
+crystallization. The column was then slowly re-heated to
+
+
+15  8C at a rate of 1.5 8C/min with a solvent flow rate
+
+
+of  .5 mL/min, during which the polymer molecules
+
+
+re-dissolved and eluted out into the three detectors. Analysis
+
+
+of the data obtained from the IR detector was done to get
+
+
+normalized weight fraction of the fractionated copolymer as
+
+
+a function of the temperature.
+
+
+3.3. Film preparation
+
+
+Blown films were made from each of the three resins
+
+
+under the following conditions: 1   mm (4 in.) die diameter,
+
+
+1.5 mm die gap, 37.5 mm diameter single-screw extruder
+
+
+(L/DZ24, compression ratio 2.2:1), 115 rpm screw speed (ca.
+
+
+27 kg/h output rate), 2.5:1 blow up ratio (BUR) and barrel and
+
+
+die temperatures set to 19  8C. The freeze line height (FLH)
+
+
+was between 2  and 28 cm and cooling was accomplished
+
+
+with a dual lip air ring using ambient air that had a temperature
+
+
+of ca. 2  8C. Films with different thicknesses (12.5–1   mm or  .5–4 mil) were produced this way. These conditions are
+
+
+representative of typical commercial scale LLDPE blown
+
+
+film processing according to scaling procedures established
+
+
+previously [45].
+
+
+In addition to these blown films, unoriented quenched
+
+
+and slow cooled compression molded films were also pro-
+
+
+duced. Preweighed amounts of the copolymer pellets were
+
+
+melted in a mold at 15  8C for 1  min followed by the
+
+
+application of 3    lb f (ca. 135  kg f) for 5 min. Quenched
+
+
+(Q) samples were prepared by being removed from the
+
+
+heater plates followed by being placed on a wooden labora-
+
+
+tory bench and exposed to ambient conditions. The samples
+
+
+took ca. 5 min to cool to ambient temperature (ca. 2  8C).
+
+
+For the slow cooled (SC) samples, the mold containing the
+
+
+molten film was allowed to remain between the heater plates
+
+
+after the pressure was released. The power to the heater
+
+
+plates was then turned off to allow slow cooling of the films.
+
+
+The samples attained room temperature in ca. 8 h. Both the
+
+
+Q and SC films were ca. 125 mm (5 mil) in thickness.
+
+
+3.4. Film characterization
+
+
+The blown films of different thicknesses were tested for
+
+
+their dart impact strength, Spencer impact strength and
+
+
+Elmendorf tear resistance according to ASTM D-17 9 
+(method A), ASTM D-342  (although a special in-house
+
+
+pendulum was utilized to ensure failures) and ASTM
+
+
+D-1922 standards, respectively, at ambient conditions. In
+
+
+addition, high-speed puncture resistance of the LLDPE
+
+
+copolymers, at a high impact velocity (5.1 m/s), was also
+
+
+investigated. For this test, quenched compression molded
+
+
+and slow cooled plaques of approximately 3.35 mm
+
+
+thickness were employed. The compression molded speci-
+
+
+mens (corresponding to ‘B’, ‘H’ and ‘O’) were clamped in a
+
+
+circular fixture that is 76 mm in diameter. A 23.76 kg mass
+
+
+tup/dart (13 mm diameter hemispherical end) was dropped
+
+
+on the clamped specimens at an impact velocity of 5.1 m/s
+
+
+(corresponding to a drop height of 1 m). The direction of
+
+
+impact was parallel to the specimen thickness, and the point
+
+
+of impact was at the center of the clamped specimen. The
+
+
+tup/dart was equipped with a load sensor to measure the load
+
+
+response as a function of time, during the impact event. A
+
+
+separate photo sensor provided a measurement of the initial
+
+
+impact velocity. At a given weight of the tup/dart assembly
+
+
+and its impact velocity, the specimen load-deflection data
+
+
+for the impact event was recorded. Total energy (J) to
+
+
+rupture as measured from the load-deflection curve was
+
+
+used to characterize the impact performance. The quantities
+
+
+(energy to rupture) measured from this test are not fixed
+
+
+material properties as they depend on the test specimen size
+
+
+(thickness) and the specific test conditions.
+
+
+Blown films that were 25 mm in thickness (each from
+
+
+resins based on 1-butene, 1-hexene and 1-octene) in
+
+
+addition to the compression molded films were chosen for
+
+
+the rest of the characterization methods utilized including
+
+
+refractive index measurements, differential scanning calori-
+
+
+metry (DSC) and essential work of fracture analysis. Flat
+
+
+plate wide angle X-ray scattering (WAXS) patterns of the
+
+
+blown films were obtained at ambient conditions using a
+
+
+Philips PW172  X-ray generator. Four layers of each of
+
+
+the 25 mm (1 mil) thick blown film (based on 1-butene,
+
+
+P. Gupta et al. / Polymer 46 (2  5) 8819–88378824 1-hexene and 1-octene) were carefully aligned and stacked
+
+
+on the sample holder to obtain sufficient scattering intensity
+
+
+for exposure of the WAXS pattern at 4  kV, 2  mA and 4 h.
+
+
+The sample to imaging plate distance was 5 cm. The X-ray
+
+
+beam was parallel to the normal of the sample plane.
+
+
+Pin-hole collimated small-angle X-ray scattering
+
+
+(SAXS) profiles of compression molded films were
+
+
+collected at ambient temperature using a Rigaku Ultrax18 
+rotating anode X-ray generator operated at 4  kV and
+
+
+6  mA. A pyrolytic graphite monochromator was used to
+
+
+filter out all radiation except the Cu Ka doublet, with an
+
+
+average wavelength of 1.5418 Å. The camera used 2  , 1   
+and 3   nm pinholes for X-ray collimation. Two-dimen-
+
+
+sional data sets were collected using a molecular metrology
+
+
+2D multi-wire area detector, located ca. 65 cm from the
+
+
+sample. After azimuthal averaging, the raw data was
+
+
+corrected for detector noise, absorption, and background
+
+
+noise. The data were then placed on an absolute scale using
+
+
+a type 2 glassy carbon sample 1. 7 mm thickness,
+
+
+previously calibrated at the advanced photon source at the
+
+
+Argonne National Laboratory, as a secondary standard. All
+
+
+the SAXS profiles presented have been masked in the low
+
+
+scattering vector region where the beam stop influenced the
+
+
+profiles.
+
+
+Refractive index measurements were conducted at
+
+
+ambient conditions on all the compression molded films
+
+
+and the 25 mm (1 mil) thick blown films using a Metricon
+
+
+Prism coupler Model 2 1  along the three coordinates.
+
+
+Measurements in the normal (ND), machine (MD) and
+
+
+transverse direction (TD) were recorded. An average of 3–5 
+measurements was reported in each direction. Thermal
+
+
+behavior was investigated on a Seiko SSC/52   DSC. The
+
+
+heating and cooling traces were recorded at 2  8C/min in a
+
+
+nitrogen-purged atmosphere to study the melting and
+
+
+crystallization of these samples. Small angle light scattering
+
+
+(SALS) patterns in the Hn configuration were recorded at
+
+
+ambient conditions by utilizing a He–Ne laser at 633 nm.
+
+
+The sample to imaging plate distance was 11 cm.
+
+
+Crystalline, amorphous and interfacial contents in
+
+
+compression molded films were estimated by analyzing
+
+
+the free induction decay (FID) data obtained from NMR
+
+
+(method described below), although Alamo et al. [26] and
+
+
+Mandelkern et al. [46,47] have utilized a different method
+
+
+involving analysis of Raman spectra on LLDPEs based on
+
+
+1-butene, 1-hexene and 1-octene. In the present study, all
+
+
+NMR measurements on compression molded films were
+
+
+made using an Auburn IMR analyzer operating at 2  MHz.
+
+
+Morphological analysis was accomplished by fitting the free
+
+
+induction decay (FID) to a three-component model, viz.
+
+
+crystalline, amorphous and interfacial. The data was
+
+
+obtained using a 9 8 pulse (2 ms), 1 s pulse delay (which
+
+
+was much greater than five times T1) and a 17 ms dead time
+
+
+to eliminate signal contamination from the probe ring down.
+
+
+Each FID consisted of 3   points, where each data point
+
+
+was sampled every 1 ms, with 16  transients acquired to
+
+
+improve signal-to-noise. The model utilized to fit the data
+
+
+was based on the procedure suggested by Kristiansen [48].
+
+
+The signal intensity versus time for hydrogen nuclei located
+
+
+in the crystalline domain is represented by [49,5 ]:
+
+
+PðtÞZ
+
+
+ffiffiffiffi p
+
+
+6
+
+
+r exp K
+
+
+1
+
+
+2 b2t2 
+  cos atffiffiffiffi
+
+
+at p C
+
+
+ffiffiffiffiffiffiffi 6at
+
+
+p
+
+
+r" #(
+
+
+C sin atffiffiffiffi
+
+
+at p S
+
+
+ffiffiffiffiffiffiffi 6at
+
+
+p
+
+
+r" #) (6) 
+where a is related to the hydrogen–hydrogen distance and b
+
+
+is related to the width of Gaussian broadening. Since, a and
+
+
+b are associated with the crystalline domain, and more
+
+
+specifically a function of the hydrogen–hydrogen distance,
+
+
+these two parameters are expected to be constant. Therefore,
+
+
+a series of ten resins with densities from  .918 to  .96  were
+
+
+analyzed. The values found for a and b did not vary much
+
+
+and average values obtained were: aZ1. 7 eC 5, bZ 72,94 . These were used in all the fits reported in this study.
+
+
+The two functions C[x] and S[x] are also referred as Fresnell
+
+
+functions.
+
+
+The best fit of the signal intensity–time relationship for
+
+
+the hydrogen nuclei located in the non-crystalline domains,
+
+
+viz. interfacial and amorphous, can be expressed as the
+
+
+Weilbullian function:
+
+
+IðtÞZA exp K ðtÞd
+
+
+T2
+
+
+  (7) 
+where two separate sets of values of the pre-exponential
+
+
+factor, A, spin–spin relaxation time, T2, and the Weilbullian
+
+
+factor, d, were utilized for amorphous and interfacial
+
+
+domains, respectively. The three equations were then solved
+
+
+simultaneously by putting the FID data into an Excel
+
+
+spreadsheet and using Microsoft Solver to find the best least
+
+
+squared fit between the experimental data and the model.
+
+
+Tensile stress–strain curves were recorded at 1 m/s on a
+
+
+specialized MTS system 81 . The servohydraulic actuator
+
+
+was operated in displacement control. The force transducer
+
+
+(Kistler 9712B5 ) was mounted directly to the crosshead.
+
+
+The force signal was amplified with a Kistler 5 1 B and
+
+
+acquired with a Nicolet Integra oscilloscope at data
+
+
+acquisition rates of 1 –4  kHz, depending on specimen
+
+
+type. The specimen geometry utilized for tensile tests was
+
+
+rectangular, 75!17 mm2. The distance between the jaws of
+
+
+the tensile tester was 1  mm. For the DENT mode,
+
+
+specimens of 25.4!25.4 mm2 (1!1 in.2) with ligament
+
+
+lengths of 1, 2 and 3 mmwere tested at 1 m/s. It is noted that
+
+
+for blown films, the specimens deformed in the MD
+
+
+direction are representative of the measurement in the TD
+
+
+as the crack propagates in the TD. Likewise, the samples
+
+
+deformed in the TD are representative of the measurements
+
+
+in the MD. Thus, the EWF results for blown films are
+
+
+reported corresponding to the direction of the propagation of
+
+
+the crack. For a thorough regressional analysis, at least five
+
+
+specimens were tested at each ligament length. Prior to
+
+
+P. Gupta et al. / Polymer 46 (2  5) 8819–8837 8825 testing, the specimens were weighed to compute the average
+
+
+thickness of the film in the ligament region. Individual
+
+
+force–displacement curves were integrated by a computer
+
+
+program to calculate the total fracture energy. This was then
+
+
+normalized by the area of the ligament to provide the
+
+
+specific fracture energy (wf) and then plotted against the
+
+
+ligament length (l). Regression analysis of this data was
+
+
+performed to obtain the values of the intercept which equals
+
+
+the essential work of fracture, we.
+
+
+4. Results and discussion
+
+
+As can be seen in Table 1, the three copolymers (‘B’, ‘H’
+
+
+and ‘O’) are essentially identical in their basic molecular
+
+
+and rheological characteristics. These three resins have a
+
+
+very similar melt flow index (1. 1–1. 9 g/1  min) and
+
+
+density ( .917– .918 g/cm3). The number average (Mn) and
+
+
+weight average molecular weight (Mw) obtained from the
+
+
+GPC are nearly identical (43.2–44.2 and 97.9–99 kg/mol,
+
+
+respectively). The GPC curves for each of the three resins,
+
+
+as shown in Fig. 2 are also comparable. This behavior is
+
+
+further supported by very similar zero shear rate viscosity
+
+
+values (7.13–7.26 kPa s). The polydispersity (2.22–2.27),
+
+
+that reflects the breadth of the molecular weight distribution,
+
+
+and the total comonomer content (2.47–2.95 mol%), as
+
+
+obtained by NMR, is also very similar for each of these three
+
+
+resins. The NMR data also indicate the presence of small
+
+
+levels of ethyl branches in the ‘H’ and ‘O’ resin ( .12 and
+
+
+ .15 mol%, respectively). This is due to the generation of a
+
+
+small level of ‘in situ’ ethyl branches that are indistinguish-
+
+
+able from the ethyl branches introduced by 1-butene in the
+
+
+copolymerization of ‘B’ copolymer. For the ‘H’ and ‘O’
+
+
+resins, these ethyl branches were detected by NMR in
+
+
+addition to the butyl and hexyl branches, respectively. Thus, Fig. 2. Molecular weight distribution and the number of short chain
+
+
+branches (corresponding to each resin) per 1    carbon atoms of the
+
+
+backbone of the three LLDPE resins (indicated on the secondary ordinate
+
+
+axis). the total mol% reported in Table 1 reflects the total amount
+
+
+of short chain branches (including the very small amount of
+
+
+ethyl branches in addition to the butyl or hexyl branches,
+
+
+respectively, for the ‘H’ and ‘O’ resins). Nevertheless, the
+
+
+total comononer content ([X] mol%) required to make a
+
+
+ .918 g/cm3 density is somewhat higher for the 1-butene
+
+
+copolymer than those based on 1-hexene and 1-octene. The
+
+
+short chain branching distribution data is plotted in Fig. 2 
+(secondary ordinate axis). The number of short chain
+
+
+branches/1    C atoms in each of three resins is essentially
+
+
+uniform (9–11/1    C) across the width of the molecular
+
+
+weight distribution. Despite some scatter at the low and
+
+
+high-end of the molecular weight distribution that is
+
+
+attributed to higher error in the measurements [44], the
+
+
+three copolymer resins indicate a similar SCBD. Another
+
+
+parameter that indicates the uniformity of the distribution of
+
+
+short chain branches across the MWD is the % relative
+
+
+monomer dispersity (%RMD) index, as determined by
+
+
+solution NMR [51,52]. RMD is the tendency of the
+
+
+comonomer units to be either ‘isolated’ (%RMDZ1  ) or
+
+
+‘clustered’ (%RMD!1  ). The values of the three resins
+
+
+utilized in this study are essentially the same, viz. 99.1, 99.7 
+and 99.3% for ‘B’, ‘H’ and ‘O’, respectively.
+
+
+The information from the chemometric technique to
+
+
+determine the SCBD (as reported in Fig. 2) does not indicate
+
+
+the distribution of the short chain branches along a given
+
+
+polymer chain. To ascertain any difference in this
+
+
+distribution for the three copolymers, TREF was performed
+
+
+on each of the LLDPE resins. These results are provided in
+
+
+Fig. 3. All three resins (‘B’, ‘H’ and ‘O’) possess the general
+
+
+comonomer distribution profile characteristic of the resins
+
+
+produced by single site metallocene catalysts [53,54]. In the
+
+
+Ziegler–Natta catalyzed LLDPE resins, a low temperature
+
+
+peak (between 45 and 55 8C) that is due to the elution of a
+
+
+soluble fraction heavily concentrated with comonomers and
+
+
+Fig. 3. TREF profiles of the three LLDPE resins based on 1-butene, 1- 
+hexene and 1-octene.
+
+
+P. Gupta et al. / Polymer 46 (2  5) 8819–88378826 a broad peak in the 55–8  8C range that is due to the elution
+
+
+of ‘branched’ fraction made up of polymer molecules of
+
+
+various comonomer contents are also observed [55].
+
+
+However, the absence of the low temperature peaks (in
+
+
+the range of 45–8  8C) in the TREF profiles of metallocene
+
+
+catalyzed LLDPE resins utilized in this study indicate a
+
+
+homogenous incorporation of the short chain comonomer in
+
+
+the linear ethylene backbone as compared to resins
+
+
+synthesized by Ziegler–Natta catalysts. A closer inspection
+
+
+of the three profiles in Fig. 3 indicates some differences that
+
+
+are most likely attributable to some level of difference in the
+
+
+SCB distribution (along a given polymer chain) among the
+
+
+three copolymers utilized in this study. These differences
+
+
+show that resin ‘B’ has the most homogeneous crystal-
+
+
+lizability/solubility behavior in comparison to ‘H’ and ‘O’.
+
+
+These differences were primarily manifested in the ‘second
+
+
+heating’ DSC results on blown and compression molded
+
+
+films (results discussed in detail later, Figs. 8(b) and 9(b)),
+
+
+where the presence of a low temperature shoulder on the
+
+
+melting endotherms of ‘H’ and ‘O’ in comparison to ‘B’ was
+
+
+observed. This difference in the second melting DSC
+
+
+behavior of ‘H’ and ‘O’ in comparison to ‘B’ could arise
+
+
+from the slightly more homogenous distribution of SCB
+
+
+(along the ethylene backbone) in ‘B’ than ‘H’ and ‘O’, as
+
+
+indicated by TREF profiles. However, the SCBD data in
+
+
+Fig. 2 and the near 1  % RMD values of the three resins
+
+
+indicate that the overall or average SCB distribution across
+
+
+the MWD is in fact very similar for all three copolymers.
+
+
+Hence, we believe that the magnitude of any differences that
+
+
+may be observed in physical properties (discussed later)
+
+
+cannot simply be attributed to this difference in the TREF
+
+
+profiles.
+
+
+The refractive index data on compression molded and
+
+
+25 mm (1 mil) thick blown films is listed in Table 2. As can
+
+
+be observed, within a given series (be it quenched, slow
+
+
+cooled or blown) the average refractive index for the three
+
+
+resins is essentially the same. As expected, the average
+
+
+refractive indices of the slow cooled films are somewhat
+
+
+higher than the corresponding quenched and blown films.
+
+
+For the blown films, the refractive index was observed to be
+
+
+slightly higher in the MD than that in TD, as might also be
+
+
+expected. The difference in the refractive indices in the MD Table 2 
+Percentage crystallinity of LLDPE compression molded and blown films as calcu
+
+
+Material n(ND) n(TD) n(MD) n
+
+
+B–Q 1.5142 1.5148 1.515  1 
+H–Q 1.5141 1.5141 1.5143 1 
+O–Q 1.5135 1.5147 1.5152 1 
+B–SC 1.5156 1.5167 1.5165 1 
+H–SC 1.5147 1.5168 1.5165 1 
+O–SC 1.5136 1.5161 1.5159 1 
+B-blown 1.5127 1.5132 1.514  1 
+H-blown 1.5129 1.5128 1.514  1 
+O-blown 1.5122 1.5129 1.5137 1 
+Note the birefringence (Dn) of the blown films as computed by the difference in and TD directions, respectively, nMDKnTD, gives the in-
+
+
+plane birefringence, Dn. These are listed as well in the
+
+
+extreme right in Table 2. The small values of Dn do not
+
+
+indicate a high level of orientation along the MD (in
+
+
+comparison to that in TD) in these films. The out-of-plane
+
+
+birefringence, nMDKnND, is  .  13,  .  11 and  .  15 for
+
+
+‘B’, ‘H’ and ‘O’ blown films, respectively. These values are
+
+
+comparable to the in-plane birefringence, thereby indicating
+
+
+a slight uniaxial orientation for these blown films. The
+
+
+WAXS patterns taken with the beam parallel to the sample
+
+
+film normal are shown in Fig. 4. The intensities of the
+
+
+(1 1  ) and (2    ) reflections show some azimuthal
+
+
+dependence, as expected. In particular, the (2  ) reflections
+
+
+are slightly lower in intensity at the equator than that at the
+
+
+meridian, thereby indicating a low a-axis orientation along
+
+
+the MD. This is a common observation for polyethylene
+
+
+blown films produced at low stress levels. As expected, the
+
+
+(11 ) plane reflections, on the other hand, have a relatively
+
+
+lower meridianal intensity than that observed equatorially.
+
+
+Returning to the refractive index data in Table 2, the
+
+
+density of the films from the average refractive index was
+
+
+calculated by the following relationship [56]:
+
+
+rZ 1
+
+
+r
+
+
+  n2 K1 
+n2 C2 
+  (8) 
+where rZ .3278. From the density of the samples, the %
+
+
+crystallinity (volume) was computed by the following
+
+
+relationship:
+
+
+%Xc Z rKra
+
+
+rc Kra
+
+
+  !1   (9) 
+where r is the sample density, ra is the density of 1  % 
+amorphous polyethylene and rc is the density of 1  % 
+crystalline PE. The values of ra and rc were taken as  .85 
+and 1 g/cm3 [57], respectively. The density and %Xc for all
+
+
+the LLDPE films are listed in Table 2. For the samples in a
+
+
+given series (be it quenched, slow cooled or blown), the
+
+
+films (based on ‘B’, ‘H’ and ‘O’) had essentially the same
+
+
+density and consequently %Xc within limits of experimental
+
+
+error. This is in agreement with the results reported by
+
+
+Alizadeh et al. [25] (as pointed out earlier), who observed a
+
+
+very comparable degree of crystallinity for compression
+
+
+lated by refractive index measurements
+
+
+r (g/cm3) % Xc (vol.) Dn (nMDKnTD)
+
+
+.5145  .9192 44.3G .4 –
+
+
+.5141  .9186 43.9G .1 –
+
+
+.5141  .9186 43.9G .9 –
+
+
+.5162  .9216 46. G .6 –
+
+
+.5158  .921  45.6G1.2 –
+
+
+.5149  .9197 44.6G1.4 –
+
+
+.513   .9169 42.7G .7  .   8 
+.5129  .9167 42.5G .7  .  12 
+.5126  .9162 42.2G .8  .   9 
+the refractive indices in the MD and TD directions.
+
+
+Fig. 4. Flat plate WAXS patterns of the 25 mm thick blown films.
+
+
+Fig. 5. Small angle X-ray scattering on compression molded films.
+
+
+P. Gupta et al. / Polymer 46 (2  5) 8819–8837 8827 molded quenched LLDPE films based on 1-butene,
+
+
+1-pentene, 1-hexene and 1-octene at a given mol% of the
+
+
+short chain branch comonomer. Their work did not support
+
+
+the notion that any of the short chain branches are included
+
+
+in the crystalline lattice. In the present study, the density and
+
+
+consequently the %Xc of the blown and quenched films are
+
+
+lower than the slow cooled samples, as expected.
+
+
+The lamellar scale lengths in the quenched and slow
+
+
+cooled compression molded films are indicated by SAXS
+
+
+results in Fig. 5. As can be seen, within a given series, the
+
+
+scattering patterns are essentially identical for ‘B’, ‘H’ and
+
+
+‘O’. It is clear that the differences in TREF profiles in Fig. 3 
+do not affect the SAXS behavior on the lamellar scale for
+
+
+both the series investigated (compression molded quenched
+
+
+and slow cooled). As expected, the long period is larger in
+
+
+slow cooled films (223 Å) than that in quenched films
+
+
+(2 5 Å). In addition, the results from the free induction
+
+
+decay NMR experiments, that gives information on the
+
+
+P. Gupta et al. / Polymer 46 (2  5) 8819–88378828 relative contents of ‘rigid’ (crystalline), ‘intermediate’
+
+
+(interfacial) and ‘mobile or liquid-like’ (amorphous) phases
+
+
+indicated that the content of these phases was very similar
+
+
+for ‘B’, ‘H’ and ‘O’ within a given series in the compression
+
+
+molded samples (Fig. 6). For the compression molded
+
+
+quenched samples, the weight fractions of crystalline,
+
+
+interfacial and amorphous domains are ca. 59.5, 29.8 and
+
+
+11.3%, respectively, in ‘B’, ‘H’ and ‘O’ films, while the
+
+
+respective values for the compression molded slow cooled
+
+
+are 63.1, 24.5 and 12.7%. The calculated crystalline content
+
+
+in the slow cooled films is larger than for the quenched
+
+
+films, as expected. However, the interfacial content in the
+
+
+slow cooled films is slightly less than that in the quenched
+
+
+films, although the amorphous content is very similar in
+
+
+both the compression molded series. In general, the values
+
+
+of crystallinity obtained from free induction decay NMR
+
+
+tends to be higher than those obtained from DSC. This is due
+
+
+to the fact that taut tie molecules can also contribute to the
+
+
+‘rigid’ phase. Very recently, Yoon et al. [58] utilized SAXS
+
+
+and solid-state NMR method (rotor-encoded rotational echo
+
+
+double resonance technique) to investigate the structure of
+
+
+metallocene catalyzed LLDPEs as a function of comonomer
+
+
+type (1-butene, 1-hexene and 1-octene) and content. They
+
+
+also did not observe any structural differences in their series
+
+
+of ‘B’, ‘H’ and ‘O’ materials investigated that had a ca.
+
+
+3 mol% comonomer content.
+
+
+Returning to the present study, larger scale lengths at the
+
+
+micro level for our materials were characterized by SALS.
+
+
+The spherulitic scale lengths in the compression molded
+
+
+quenched and slow cooled films are indicated by the Hn
+
+
+SALS in Fig. 7. As can be seen, the SALS patterns (within a
+
+
+given series, be it quenched or slow cooled), are similar for
+
+
+the ‘B’, ‘H’ and ‘O’. These ‘four-lobed’ patterns are
+
+
+characteristic of a spherulitic morphology. However, when
+
+
+comparing the patterns of the slow cooled with that of the
+
+
+quenched films, it appears that the slow cooled films have Fig. 6. Crystalline, interfacial and amorphous contents in compression
+
+
+molded films as determined by free induction decay NMR. larger but less well-defined spherulitic structures than the
+
+
+quenched films. This was also supported by the surface
+
+
+analysis of these films by scanning electron microscopy
+
+
+(SEM) (results not shown here). The SALS patterns in the
+
+
+Hn configuration can be utilized to calculate the average size
+
+
+of the spherulites by use of the following relationship
+
+
+[59–61]:
+
+
+4pR
+
+
+lm sin
+
+
+qmax
+
+
+2
+
+
+  Z 4:13 (1 ) 
+where R, is the radius of the spherulites, lm is the
+
+
+wavelength in the scattering medium and qmax is the angle
+
+
+of intensity maxima in one of the lobes of the Hn pattern.
+
+
+The calculated diameter for the quenched films was in the
+
+
+range of 2.9–3.6 mm (B–Q: 3.3 mm, H–Q: 2.9 mm and O–Q:
+
+
+3.6 mm) whereas the slow cooled films were in the range of
+
+
+3.8–4.2 mm (B–SC: 3.8 mm, H–SC: 4.2 mm and O–SC:
+
+
+4.2 mm). As expected, the size of the spherulites in the slow
+
+
+cooled films is larger than that in quenched films.
+
+
+Furthermore, the SEM analysis on these films indicated a
+
+
+broad distribution of sizes (data not shown).
+
+
+The first and second DSC heating–cooling profiles of the
+
+
+blown films are shown in Fig. 7(a) and (b), respectively. The
+
+
+first heating (Fig. 8(a)) is extremely comparable for each of
+
+
+the three, ‘B’, ‘H’ and ‘O’ blown films, with melting
+
+
+transition peaks in the range of 117–119 8C. The first
+
+
+cooling curves indicate a lower temperature primary
+
+
+crystallization exotherm peak for ‘B’ (93 8C) than the ‘H’
+
+
+(95.5 8C), which in turn is slightly lower than ‘O’ (96.5 8C).
+
+
+It might be postulated that a lower primary crystallization
+
+
+temperature peak (higher effective degree of undercooling)
+
+
+indicates crystallization of relatively smaller-sized crystals
+
+
+as compared to the sample that crystallized at a higher
+
+
+temperature. The slightly smaller-sized lamellar crystals
+
+
+should therefore begin to melt at a lower temperature. This
+
+
+is confirmed by the endotherm peak positions in the second
+
+
+heating cycles, where ‘B’ shows the peak endotherm at
+
+
+116.5 8C whereas ‘H’ and ‘O’ show the second melting
+
+
+endotherm peaks at 117.5 8C. The second heating profiles
+
+
+are shown in Fig. 8(b). A distinct ‘shoulder’ in the second
+
+
+cycle melting endotherm at 1 9–113 8C for the ‘H’ and ‘O’
+
+
+films (Fig. 8(b)) can be clearly seen in comparison to the ‘B’
+
+
+film, which does not show a distinct shoulder. This
+
+
+difference in the second melting DSC behavior of ‘H’ and
+
+
+‘O’ in comparison to ‘B’ could arise from the more
+
+
+interchain homogeneity of SCB in ‘B’ than ‘H’ and ‘O’, as
+
+
+indicated by TREF profiles in Fig. 3. Another noticeable and
+
+
+identical feature in the first and second cooling curves is the
+
+
+presence of a small exotherm transition at 63 8C for each of
+
+
+the three films within a given series, be it blown, quenched
+
+
+or slow cooled. This secondary crystallization is postulated
+
+
+to lead to the formation of a second population of lamellar
+
+
+crystals that are thinner than those formed during the
+
+
+primary crystallization process at higher temperatures.
+
+
+The DSC results of the compression molded films are
+
+
+Fig. 7. Small angle light scattering results in the Hn configuration on compression molded films.
+
+
+P. Gupta et al. / Polymer 46 (2  5) 8819–8837 8829 shown in Fig. 9, where only the heating curves are shown.
+
+
+Based on the first heating curves (Fig. 9(a)), the melting
+
+
+peaks of the quenched and slow cooled films are in the range
+
+
+of 115–117 8C. Only the slow cooled films of ‘H’ and ‘O’
+
+
+show a slightly broader melting endotherm than that of ‘B’.
+
+
+These samples were left in the insulated DSC chamber and
+
+
+allowed to cool down to room temperature in about 2 h after
+
+
+which they were heated again and the corresponding second
+
+
+heating curves were recorded (Fig. 9(b)). As can be seen, a
+
+
+behavior similar to what was observed for the blown films is
+
+
+noted. Specifically, the presence of a ‘shoulder’ on the
+
+
+melting endotherms of ‘H’ and ‘O’ (for both quenched and
+
+
+slow cooled) is much more distinct and marked as these
+
+
+samples were cooled very slowly after the first melting (as
+
+
+against a cooling rate of 2  8C/min for the blown films). As
+
+
+stated earlier, the slightly broader first melting endotherms
+
+
+of ‘H’ and ‘O’ than ‘B’ and the difference in the second
+
+
+melting DSC behavior of ‘H’ and ‘O’ in comparison to ‘B’
+
+
+could arise from the slightly more homogenous distribution
+
+
+of SCB (along the ethylene backbone) in ‘B’ than ‘H’ and
+
+
+‘O’, as indicated by TREF profiles in Fig. 3. Nevertheless, it
+
+
+can be said that the thermal behavior based on the first
+
+
+heating responses of these films ‘B’, ‘H’ and ‘O’ (be it
+
+
+quenched or blown) are very similar. In the compression
+
+
+molded slow cooled films, whether the slightly broader first
+
+
+melting endotherms of ‘H’ and ‘O’ play a role in governing
+
+
+the mechanical properties at slow deformation rates of these
+
+
+films will become clear in the following discussion.
+
+
+The tensile properties of the 25 mm thick blown films and
+
+
+compression molded films that were measured at slow draw
+
+
+rates, ca.  .   4– .  8 m/s, (25–51  mm/min) are shown in
+
+
+Fig. 1 . The yield and breaking strength are essentially the
+
+
+same for the films based on ‘B’, ‘H’ and ‘O’ in each
+
+
+direction (MD or TD). For the LLDPE blown films, due to
+
+
+preferential orientation of the lamellar crystals, the TD
+
+
+modulus tends to be higher than the MD modulus [13].
+
+
+However, for the films investigated here, the low levels of
+
+
+orientation translates to the modulus being only marginally
+
+
+higher along the TD. Likewise, the tensile properties of the
+
+
+compression molded films (Fig. 1 (b)) at conventional draw
+
+
+rates indicate very comparable yield and breaking strengths
+
+
+for films based on ‘B’, ‘H’ and ‘O’, within a given series.
+
+
+Within the limits of error, the tensile modulus is also very
+
+
+similar for films based on three resins in each series. These
+
+
+results clearly indicate that the slight differences in the
+
+
+TREF profiles in Fig. 3 and differences in first melting DSC
+
+
+profiles of compression molded slow cooled films really do
+
+
+not play any role in governing the mechanical properties
+
+
+when obtained at slow deformation rates (up to  .  8 m/s).
+
+
+To ascertain any differences in the tensile properties at
+
+
+Fig. 8. DSC melting and cooling curves of blown LLDPE films. The (a) first
+
+
+and (b) second heating–cooling cycles measured at 2  8C/min are shown.
+
+
+Fig. 9. DSC melting endotherms of compression molded LLDPE films. The
+
+
+(a) first and (b) second heating curves measured at 2  8C/min are shown.
+
+
+P. Gupta et al. / Polymer 46 (2  5) 8819–8837883  higher deformation rates, the stress strain behavior was
+
+
+measured at a higher deformation rate of 1 m/s (about two
+
+
+orders of magnitude higher than before). These results are
+
+
+shown in Fig. 11(a) and (b) for 25 mm thick blown and
+
+
+compression molded films. Due to the extremely high rate of
+
+
+data acquisition, the ‘ringing’ characteristics of the load
+
+
+path’s mechanical elements (primarily the load cell/grip
+
+
+assembly) appear as oscillations in the ‘yield’ region of the
+
+
+curves. However, the yield strength values of both the blown
+
+
+and compression molded films are readily distinguished,
+
+
+and all fall in the range of 17–2  MPa. The ‘H’ and ‘O’
+
+
+blown films also show a higher breaking strain than that for
+
+
+corresponding ‘B’ films (Fig. 11(a)). Likewise, B–Q and
+
+
+B–SC underwent failure before yielding or plastic drawing
+
+
+could take place whereas, with the exception of the ‘O–SC’,
+
+
+the compression molded ‘H’ and ‘O’ materials yield, draw
+
+
+and undergo significant post ‘natural draw ratio’ defor-
+
+
+mation before failure (Fig. 11(b)). A noticeable trend was
+
+
+observed in the breaking strengths. The breaking strength of
+
+
+the 1-butene based films (‘B’) is distinctly lower than that
+
+
+for the 1-hexene (‘H’) and 1-octene (‘O’) based films,
+
+
+regardless of film type (quenched, slow cooled or blown).
+
+
+For the blown films, the ‘B’ films have a breaking strength
+
+
+of ca. 21–24 MPa as compared to that of 31–36 MPa for ‘H’
+
+
+and ‘O’ films. In either direction (MD or TD) the ‘H’ and
+
+
+‘O’ films also show distinctly greater strain hardening when
+
+
+compared to the ‘B’ films, and this accounts for the higher
+
+
+values of the breaking strengths. Similarly, strain hardening
+
+
+can be observed in the ‘H’ and ‘O’ compression molded
+
+
+films. The quenched and slow cooled films of ‘B’ do not
+
+
+undergo any strain hardening and display much lower
+
+
+breaking strengths (6–1  MPa) as compared to the high
+
+
+values of the ‘H’ and ‘O’ films (16–26 MPa). Note that
+
+
+when the breaking strengths of the compression molded and
+
+
+blown films corresponding to the same resin are compared,
+
+
+the blown films have superior properties. Comparing the
+
+
+results in Figs. 9 and 1 , it can be inferred that the breaking
+
+
+strength of blown films of ‘B’ is lower than that of ‘H’ and
+
+
+‘O’, an effect that is evident only at high deformation rates.
+
+
+Further tests conducted on the blown films to measure
+
+
+Fig. 1 . Tensile properties of (a) 25 mm thick blown films and (b)
+
+
+compression molded films at  .   4– .  8 m/s (25–51  mm/min).
+
+
+Fig. 11. Engineering stress–strain curves of (a) blown and (b) compression
+
+
+molded films at 1 m/s.
+
+
+Fig. 12. Dart impact strength of blown films at  .1–1 m/s.
+
+
+P. Gupta et al. / Polymer 46 (2  5) 8819–8837 8831 their dart impact strength, Spencer impact strength and
+
+
+Elmendorf tear properties, where high deformation rates of
+
+
+ .1–1,  .1–7 and  .2–4 m/s, respectively, were utilized, also
+
+
+confirm this behavior. As shown in Fig. 12, the dart impact
+
+
+strength, at any given film gage, of ‘B’ is significantly lower
+
+
+than that of ‘H’ and ‘O’. During the dart impact testing,
+
+
+some of the films, especially at higher gage, did not rupture
+
+
+at the maximum allowable force corresponding to the
+
+
+falling dart of 14   g. Hence, those values are reported as
+
+
+‘O14   g’ in Fig. 12. Turning to the results in Fig. 13(a)
+
+
+and (b), it is clearly noted that Elmendorf tear and Spencer
+
+
+impact strength increase with increasing short chain branch
+
+
+length at any given blown film thickness. Furthermore,
+
+
+within samples of the same copolymer type (‘B’, ‘H’ or ‘O’)
+
+
+these properties increase with increasing blown film
+
+
+thickness, as would be expected. Of particular importance
+
+
+is that for any given direction (MD or TD), the Elmendorf
+
+
+tear strength and Spencer impact strength increase in the
+
+
+order: ‘O’O‘H’O‘B’. The results of the puncture resistance
+
+
+measurements on compression molded quenched and slow
+
+
+cooled plaques are given in Fig. 14, which again support that
+
+
+the materials based on 1-butene are inferior to those based
+
+
+on 1-hexene and 1-octene. The load-deformation curves are
+
+
+plotted in Fig. 14(a) for the representative samples
+
+
+corresponding to ‘B’, ‘H’ and ‘O’, respectively, in each
+
+
+series (quenched and slow cooled). Five specimens
+
+
+Fig. 13. (a) Elmendorf tear strength at  .1–7 m/s and (b) Spencer impact
+
+
+strength at  .2–4 m/s of blown films as a function of the film thickness.
+
+
+Fig. 14. (a) Sample load–deformation curves corresponding to ‘B’, ‘H’ and
+
+
+‘O’; (b) high speed puncture resistance and deformation at break of ‘B’, ‘H’
+
+
+and ‘O’ materials measured in terms of total rupture energy.
+
+
+P. Gupta et al. / Polymer 46 (2  5) 8819–88378832 corresponding each to ‘B’, ‘H’ and ‘O’ in each series
+
+
+(quenched and slow cooled) were tested (load-deformation
+
+
+curves of representative specimens shown Fig. 14(a)). The
+
+
+results indicated a good reproducibility for each material
+
+
+type. The average integrated energy to rupture and the
+
+
+deformation to failure are plotted in Fig. 14(b). As can be
+
+
+seen, within a given series, be it quenched and slow cooled,
+
+
+the total deformation to failure (plotted on the secondary
+
+
+axis of Fig. 14(b)), of ‘H’ and ‘O’ is higher than that of ‘B’,
+
+
+indicating an increased ductile failure in ‘H’ and ‘O’. This
+
+
+was also confirmed visually by the fact that the deformed
+
+
+‘H’ and ‘O’ samples had a longer and ductile sleeve
+
+
+(relative to that in ‘B’) that emanated from the region where
+
+
+the mechanically driven tup exited the sample. This is also
+
+
+reflected as higher total rupture energies for ‘H’ and ‘O’
+
+
+(55–61 J) than ‘B’ (3 –37 J). However, in all these tests,
+
+
+viz. dart impact, Spencer impact and Elmendorf Tear the
+
+
+rate of deformation of the films is not well-defined. In a dart
+
+
+impact measurement, a falling dart ruptures the film held in
+
+
+tension and the equivalent force to rupture is recorded in
+
+
+terms of the mass of the falling dart. In the case of the
+
+
+Spencer impact strength measurements, a piece of film is
+
+
+held in tension and punctured with a hemispherical head
+
+
+attached to a swinging pendulum whereas in Elmendorf tear
+
+
+resistance, the precut film sample is ruptured by a swinging
+
+
+pendulum. In the puncture resistance measurements the
+
+
+sample is held in tension and punctured by a pneumatically
+
+
+driven tup/dart. In either configuration, the deformation rate
+
+
+of the film can be visualized to be a maximum at the
+
+
+initiation (when the pendulum or the ball/dart hits the film)
+
+
+and then decreases thereafter as the crack progresses (as
+
+
+most of the energy carried by the pendulum or the ball/dart
+
+
+has already been spent in overcoming the initial resistance).
+
+
+Thus, the rates of deformation (reported above) are at best
+
+
+estimates and never an exact value, as the deformation
+
+
+process of the samples is not well-controlled.
+
+
+To characterize the deformation of the films in a more
+
+
+well-defined extensional regime, tear resistance properties
+
+
+were measured by utilizing the essential work of fracture
+
+
+(recall earlier discussion of this methodology). Here, precut
+
+
+films that have a specified ligament length were deformed
+
+
+in a tensile manner at 1 m/s to investigate their tear
+
+
+resistance properties. A typical stress–displacement behav-
+
+
+ior for the blown film based on resin ‘H’ is shown for two
+
+
+ligament lengths, viz. 1 and 3 mm in Fig. 15(a) and (b).
+
+
+Fig. 15. Sample engineering stress–displacement curves in the double edge
+
+
+notched tensile test (DENT) mode of ethylene/1-hexene blown film in the
+
+
+TD for ligament lengths of (a) 1 mm and (b) 3 mm. Data for four samples
+
+
+(corresponding to each ligament length and marked as i, ii, iii and iv) are
+
+
+shown to indicate reproducibility.
+
+
+Fig. 16. Essential fracture energy of (a) blown and (b) compression molded
+
+
+LLDPE films.
+
+
+P. Gupta et al. / Polymer 46 (2  5) 8819–8837 8833 Three stress–displacement curves (marked as i, ii and iii)
+
+
+corresponding to three specimens (with the same ligament
+
+
+length) are shown to indicate the reproducibility in the data.
+
+
+The tear specimens satisfy the plane stress conditions [Eqs.
+
+
+(3) and (4) in Section 2] and fail right after the yield and do
+
+
+not undergo any plastic stretching that is characteristic of
+
+
+the samples in a conventional tensile deformation test.
+
+
+Further, the larger ligament length specimens had a larger
+
+
+strain at break. This is due to the fact that at larger ligament
+
+
+lengths, there is more material in the ligament that
+
+
+undergoes deformation in comparison to that in the smaller
+
+
+ligament lengths. However, the yield stress is practically the
+
+
+same at both the ligament lengths, as expected. Stress–
+
+
+displacement curves were obtained in a similar fashion for
+
+
+the 25 mm thick blown films of ‘B’ and ‘O’ and all the
+
+
+compression molded films. Based on the procedure outlined
+
+
+in Section 2, the specific fracture energy, obtained by
+
+
+integrating the stress–strain curve, was fitted by a linear
+
+
+relationship when plotted against the ligament length. The
+
+
+intercepts of these plots, then gave the essential work of
+
+
+fracture. These results are shown in Fig. 16. For the blown
+
+
+films (Fig. 16(a)) in each of the direction (MD or TD), the
+
+
+essential work of fracture is observed to increase with
+
+
+increasing short chain branch length, a result consistent with
+
+
+the impact strength and Elmendorf tear resistance measure-
+
+
+ments. As stated before, when a blown film specimen is
+
+
+stretched along the MD, the crack propagates along the TD.
+
+
+Therefore, when the specimen is being stretched along the
+
+
+MD, the measured EWF is representative of the TD
+
+
+direction. Consequently, the EWF along the TD is greater
+
+
+than that along the MD. This is consistent with the tear
+
+
+resistance being greater along the TD than along the MD
+
+
+(Fig. 13(a)), which in turn is a manifestation of the preferred
+
+
+lamellar orientation [13,14] (although only slight in this
+
+
+study). For the compression molded quenched films
+
+
+(Fig. 16(b)), the essential work of fracture of films based
+
+
+on 1-butene was also observed to be less than that of the
+
+
+1-hexene and 1-octene films. However, within the limits of
+
+
+experimental error, the EWF results of the slow cooled films
+
+
+do not indicate a strong dependence on the short chain
+
+
+P. Gupta et al. / Polymer 46 (2  5) 8819–88378834 branch length. Thus, based on the results discussed so far, it
+
+
+can be inferred that the mechanical properties of the films of
+
+
+the three essentially identical linear low density polyethy-
+
+
+lene copolymers based on 1-butene, 1-hexene and 1-octene
+
+
+show a dependence on the length of short chain branch only
+
+
+at high rates of deformation. This is summarized in Table 3, 
+where at slower rates of deformation, the mechanical
+
+
+properties were observed to be similar but quite different at
+
+
+higher deformation rates. This is due to the fact that these
+
+
+films are very similar in their molecular, rheological and
+
+
+structural aspects that any effects due to the different short
+
+
+chain lengths (present in small amounts of ca. 2.5–3 mol%)
+
+
+do not get reflected at slower deformation rates. However, at
+
+
+high deformation rates, these effects become prominent
+
+
+such that the mechanical properties of films based on
+
+
+1-butene were observed to be lower than those based on
+
+
+1-hexene and 1-octene. Recalling that the primary objective
+
+
+of this study was to further investigate the effect of the
+
+
+length of short chain branch on the physical properties of
+
+
+LLDPEs, the results presented here have shown that the
+
+
+length of the short chain branch does play an important role
+
+
+in influencing the mechanical properties of the LLDPEs in
+
+
+agreement with earlier results [28] and furthermore
+
+
+established that this effect is pronounced only at high rates
+
+
+of deformation.
+
+
+With regards to the origin of the effect of the difference in
+
+
+short chain branch length on the mechanical properties
+
+
+when measured at high rates of deformation, it seems
+
+
+difficult to attribute this to the amorphous phase in view of
+
+
+the low mole percentage of the branches and the fact that the
+
+
+rheological behavior of at least the melt state shows no
+
+
+significant differences. We did investigate the DMA
+
+
+(dynamic mechanical analysis) behavior of the film
+
+
+materials (data not shown) but did not find any distinct
+
+
+variations between the materials although we admit that the
+
+
+DMA tests were determined in the lower frequency range
+
+
+( .  1–1  Hz). We conjecture that the origin of the effect of
+
+
+the difference in short chain branch length on the
+
+
+mechanical properties is coupled to its influence on the
+
+
+deformation behavior of the crystalline phase. It has been
+
+
+speculated [21,24,62,63] that a short chain branch prevents
+
+
+the formation of crystalline regions in its immediate vicinity
+
+
+leading to an increased probability of the main chain to
+
+
+which it is attached to be incorporated into two different Table 3 
+Dependence of mechanical properties on deformation rate
+
+
+Test Estimated rate of deformat
+
+
+Stress strain  .   2– .  8a 
+Stress strain 1 
+Dart impact  .1–1 
+Elmendorf tear  .1– .7 
+Spencer impact  .2–4 
+Puncture resistance 5.1 
+Tear resistance (EWF) 1 
+a 12–51  mm/min (conventional crosshead speeds). lamellae, thereby establishing that portion of the chain as a
+
+
+bridge or a tie molecule. If this supposition is true, then the
+
+
+enhanced properties, associated with plastic deformation
+
+
+(ductility, toughness, tear resistance, etc.), could be due to
+
+
+an increasing number of tie molecules with increasing molar
+
+
+content of short chain branches. However, this postulate
+
+
+does not explain the EWF results on slow cooled films
+
+
+where the essential work of fracture was not observed to be
+
+
+strongly dependent on the branch length. For the three series
+
+
+of films investigated in this study, viz. the blown, quenched
+
+
+and slow cooled, the latter had the slowest rate of
+
+
+crystallization and hence the highest opportunity to form a
+
+
+more thermodynamically desirable equilibrium structure.
+
+
+Thus, if tie molecule formation is favored at longer branch
+
+
+lengths that consequently result in larger values of strength,
+
+
+then this effect (‘O’w‘H’O‘B’) should be more pro-
+
+
+nounced in the EWF results on slow cooled in comparison to
+
+
+blown and quenched films. However, this is not the case.
+
+
+Therefore, it is difficult to envision the increased formation
+
+
+of tie molecules with increasing short chain branch length.
+
+
+We, however, postulate that during the process of
+
+
+deformation at high rates (1 m/s), the length of the short
+
+
+chain branch may play an important role when it is pulled
+
+
+into and potentially through the chain folded lamellar
+
+
+regions as they deform. A very simplified schematic of this
+
+
+concept is shown in Fig. 17. The magnitude of the resistance
+
+
+offered by a shorter branch length undergoing deformation
+
+
+through the crystalline regions could be lower than that
+
+
+experienced by a longer branch length. Furthermore, for
+
+
+LLDPEs that have only a few mol% (!5 mol%) of the short
+
+
+chain branch comonomer, it is possible that this effect would
+
+
+be pronounced at higher rates of deformation. This is
+
+
+because at lower rates ( .   4 m/s) of deformation the
+
+
+polymer chains have a longer time scale to respond to the
+
+
+deformation, and consequently the resistance offered by
+
+
+the branch during deformation may be independent of its
+
+
+length. However, while this explanation is a hypothesis that
+
+
+might explain the observed phenomena, it is yet to be
+
+
+confirmed. Future investigations need to be conducted to
+
+
+gain an in-depth understanding of the mechanism of
+
+
+deformation and their rate dependence at the molecular
+
+
+level.
+
+
+In the past, some attempts to investigate the slow crack
+
+
+growth in polyethylenes have been conducted, [64–66] 
+ion (m/s) Properties
+
+
+Very similar
+
+
+Very different
+
+
+Very different
+
+
+Very different
+
+
+Very different
+
+
+Very different
+
+
+Different
+
+
+Fig. 17. A schematic showing the possible exclusion of the short chain branches from the chain folded regions leading to the formation of tie molecules. It is
+
+
+hypothesized that the length of the short chain branch plays a role during tensile deformation at extreme strain rates. The dotted square on lamella 1 is enlarged
+
+
+on the right.
+
+
+P. Gupta et al. / Polymer 46 (2  5) 8819–8837 8835 however, investigating the specific behavior of the SCB
+
+
+during deformation especially at a higher rate is not trivial
+
+
+as the choice of a suitable experiment that will allow such a
+
+
+characterization is difficult. Another potential way to
+
+
+investigate such behavior at high deformation rates might
+
+
+be by the dynamic modeling of the deformation phenomena
+
+
+that could trace a given SCB as it is pulled through the
+
+
+crystalline regions during the deformation at higher rate.
+
+
+Certainly, as such modeling codes become more predictive,
+
+
+the approach may help to address the distinct differences
+
+
+observed in our study.
+
+
+5. Summary
+
+
+Three LLDPE resins synthesized by a single site
+
+
+metallocene catalyst using 1-butene, 1-hexene, and
+
+
+1-octene as co-monomers were characterized to be
+
+
+essentially identical in terms of their molecular weight
+
+
+and distribution melt rheology, density, crystallinity, and
+
+
+short chain branching content. The resins were also very
+
+
+homogenous with respect to the short chain branch
+
+
+distribution across their MWD, although very slight
+
+
+differences were observed in the TREF profiles of the
+
+
+three resins. Therefore, this sample set allows us to evaluate
+
+
+the exclusive influence exerted by the short chain branch
+
+
+length on the physical properties of the resulting films;
+
+
+many previous attempts by other workers to accomplish
+
+
+the same objective have been confounded by samples
+
+
+that differed substantially in their chemical composition.
+
+
+The physical properties of isotropic compression molded
+
+
+(slow-cooled and quenched) films as well as blown films of
+
+
+the subject LLDPEs were investigated using a variety of
+
+
+tests carried out at widely differing deformation rates. The
+
+
+blown films made from these resins had low levels of
+
+
+equivalent in-plane birefringence and the flat plate WAXS
+
+
+measurements indicated low a-axis orientation along the
+
+
+MD (Keller–Machin low stress row structure). Within the
+
+
+compression molded quenched and slow cooled series,
+
+
+the lamellar and spherulitic scale lengths as determined by
+
+
+SAXS and SALS indicated very similar dimensions
+
+
+corresponding to ‘B’, ‘H’ and ‘O’. The blown and
+
+
+compression molded films formed from these resins were
+
+
+also found to be similar to each other (within a given series,
+
+
+be it blown, quenched or slow cooled) in terms of
+
+
+crystallinity, and overall crystallization characteristics,
+
+
+although, slightly broader melting endotherms of ‘H’ and
+
+
+‘O’ in comparison to ‘B’ were observed in the first melting
+
+
+profiles of compression molded slow cooled films.
+
+
+However, the tensile properties of slow cooled ‘B’, ‘H’
+
+
+and ‘O’at slow deformation rates (up to 51  mm/min) were
+
+
+very similar, thereby clearly indicating that these slight
+
+
+differences in the TREF behavior and differences in first
+
+
+melting DSC profiles of compression molded slow cooled
+
+
+films really do not play any role in governing the final
+
+
+mechanical properties of the LLDPE films obtained at
+
+
+slower deformation rates (up to 51  mm/min).
+
+
+At higher deformation rates (1 m/s), however, the
+
+
+breaking strength was observed to increase with increasing
+
+
+short chain branch length for all the samples investigated
+
+
+(blown, quenched and slow cooled). This is consistent with
+
+
+an earlier study [28] utilizing the same polymers and films
+
+
+P. Gupta et al. / Polymer 46 (2  5) 8819–88378836 investigated here, where the impact and tear strength of
+
+
+blown films based on 1-octene and 1-hexene were found to
+
+
+be considerably better than those of films based on 1-butene.
+
+
+While the deformation rates in the above mentioned tests are
+
+
+quite high, the rates change considerably during the
+
+
+measurement. Therefore, the deformation characteristics
+
+
+of the subject films were also studied in a well-defined and
+
+
+controlled regime by analyzing the essential work of
+
+
+fracture for the blown and compressed films. For the
+
+
+blown films, the essential work of fracture was found to
+
+
+increase systematically with increasing short chain branch
+
+
+length. For the compression molded films, the 1-hexene and
+
+
+1-octene based films performed better than the 1-butene
+
+
+films. In general, the mechanical properties of 1-octene
+
+
+based systems were somewhat enhanced relative to those
+
+
+based on 1-hexene. However, this is not an all inclusive
+
+
+statement, as the compression molded films of ‘O’
+
+
+performed equally to ‘H’ in high speed tensile (breaking
+
+
+strength at 1 m/s), puncture resistance and EWF tear tests.
+
+
+From these results, it can be concluded that the length of the
+
+
+short chain branch length plays a crucial role in determining
+
+
+the mechanical properties of LLDPE, especially at high
+
+
+deformation rates. It is hypothesized that the magnitude of
+
+
+the resistance offered by a shorter branch length undergoing
+
+
+deformation through the crystalline regions could be lower
+
+
+than that offered by a longer branch length. However,
+
+
+further studies to gain a better understanding of the
+
+
+underlying physical process of deformation need to be
+
+
+conducted.
+
+
+Acknowledgements
+
+
+The financial support of the US Army Research
+
+
+Laboratory and US Army Research Office under contract/-
+
+
+grant number DAAD19- 2-1- 275. Macromolecular Archi-
+
+
+tecture for Performance (MAP) MURI is gratefully
+
+
+acknowledged. The authors would like to thank Chevron
+
+
+Phillips Chemical Company and Procter and Gamble
+
+
+Company for their collaboration and support.
+
+
+References
+
+
+[1] Natta GJ. Polym Sci 1959;34:531–49. 
+[2] Lai S, Knight GW. Proceedings of the 51st annual technical
+
+
+conference. New Orleans, LA, USA: Society of Plastics Engineers;
+
+
+1993, p. 1188. 
+[3] Montagna AA, Floyd JC. Hydrocarbon Process, Int Ed 1994;73: 
+57–6 . 
+[4] Benedikt GM, Goodall BL. Metallocene catalyzed polymers—
+
+
+materials, properties, processing and markets. Ont., Canada:
+
+
+ChemTec Publishing; 1999. 
+[5] Benedikt GM. Metallocene technology in commercial applications.
+
+
+Ont., Canada: ChemTec Publishing; 1998. 
+[6] Sukhadia AM. J Plast Film Sheeting 1998;14:54–75. 
+[7] Bubeck RA, Baker HM. Polymer 1982;23:168 –4. 
+[8] Maddams WF, Preedy JE. J Appl Polym Sci 1978;22:2721–37. 
+[9] Maddams WF, Preedy JE. J Appl Polym Sci 1978;22:2739–49. 
+[1 ] Maddams WF, Preedy JE. J Appl Polym Sci 1978;22:2751–9. 
+[11] White JL, Cakmak M. Adv Polym Tech 1988;8:27. 
+[12] Pazur RJ, Prud’homme RE. Macromolecules 1996;29:119–28. 
+[13] Krishnaswamy RK, Lamborn MJ. Polym Eng Sci 2   ;4 :2385–96. 
+[14] Krishnaswamy RK, Sukhadia AM. Polymer 2   ;41:92 5–17. 
+[15] Haber A, Kamal MR. Proceedings of the 45th annual technical
+
+
+conference, Los Angeles, CA, USA: Society of Plastics Engineers;
+
+
+1987; p. 446. 
+[16] Lee C, Peat I, Wild L, Fernando A. Proceedings of the 46th annual
+
+
+technical conference, Atlanta, GA, USA: Society of Plastics Engin-
+
+
+eers; 1988; p. 183. 
+[17] Firdaus V, Tong PP. J Plast Film Sheeting 1992;8:333–4 . 
+[18] Crotty VJ, Firdaus V. Proceedings of the 51st annual technical
+
+
+conference, New Orleans, LA, USA; Society of Plastics Engineers;
+
+
+1993; p. 21 . 
+[19] Patel RM, Butler TI, Walton KL, Knight GW. Polym Eng Sci 1994; 
+34:15 6–14. 
+[2 ] Cady LD. Plast Eng 1987;43:25–7. 
+[21] Liu TM, Baker WE. Polym Eng Sci 1992;32:944–55. 
+[22] Kim Y-M, Park J-K. J Appl Polym Sci 1996;61:2315–24. 
+[23] Wolfe AR. Plastics pipes X: Plastics pipeline systems for the
+
+
+millennium, conference papers, Goeteborg, September 14–17, 1998. 
+p. 95–1 2. 
+[24] Kale LT, Plumley TA, Patel RM, Redwine OD, Jain P. J Plast Film
+
+
+Sheeting 1995;12:27–39. 
+[25] Alizadeh A, Richardson L, Xu J, McCartney S, Marand H,
+
+
+Cheung YW, et al. Macromolecules 1999;32:6221–35. 
+[26] Alamo RG, Viers BD, Mandelkern L. Macromolecules 1993;26: 
+574 –7. 
+[27] Kennedy MA, Peacock AJ, Failla MD, Lucas JC, Mandelkern L.
+
+
+Macromolecules 1995;28:14 7–21. 
+[28] Sukhadia AM, Welch MB, Krishnaswamy RK, Palackal SJ. Proceed-
+
+
+ings of the 58th annual technical conference. vol. 2. Orlando, FL,
+
+
+USA: Society of Plastics Engineers; 2   . p. 1578–82. 
+[29] Ferrer-Balas D, Maspoch ML, Martinez AB, Santana OO. Polymer
+
+
+2   ;42:1697–7 5. 
+[3 ] Chan WYF, Williams JG. Polymer 1994;35:1666–72. 
+[31] Maspoch ML, Ferrer-Balas D, Gordillo A, Satana OO, Martinez AB.
+
+
+J Appl Polym Sci 1999;73:177–87. 
+[32] Maspoch ML, Perez-Gamez GA, Sanchez-Soto M, Velasco JI.
+
+
+Polymer 2  2;43:4177–83. 
+[33] Ferrer-Balas D, Maspoch ML, Martinez AB, Ching E, Li RKY,
+
+
+Mai Y-W. Polymer 2  1;42:2665–74. 
+[34] Cotterell B, Reddel JK. Int J Fract 1977;13:267–77. 
+[35] Broberg KB. Int J Fract 1968;4:11. 
+[36] Luna P, Bernal C, Cisilino A, Frontini P, Cotterell B, Mai Y-W.
+
+
+Polymer 2  3;44:1145–5 . 
+[37] Wu J, Mai Y-W, Cotterell B. J Mater Sci 1993;28:3373–84. 
+[38] Paton CA, Hashemi S. J Mater Sci 1992;27:2279–9 . 
+[39] Marchal Y, Delannay F. Mater Sci Tech 1998;14:1163–8. 
+[4 ] Mai Y-W, Powell P. J Polym Sci, Part B: Polym Phys 1991;29: 
+785–93. 
+[41] Bird RB, Armstrong RC, Hassager O. Dynamics of polymeric liquids.
+
+
+Fluid mechanics. vol. 1 1977. 
+[42] Rohlfing DC, Janzen J. Metallocene-based Polyolefins 2   ;2: 
+419–34. 
+[43] Hsieh ET, Tso CC, Byers JD, Johnson TW, Fu Q, Cheng SZD.
+
+
+J Macromol Sci Phys 1997;B36:615–28. 
+[44] DesLauriers PJ, Rohlfing DC, Hsieh ET. Polymer 2  2;43:159–7 . 
+[45] Sukhadia AM. J Plast Film Sheeting 1994;1 :213. 
+[46] Failla M, Alamo RG, Mandelkern L. Polym Test 1992;11:151–9. 
+[47] Glotin M, Mandelkern L. Colloid Polym Sci 1982;26 :182–92. 
+[48] Hansen EW, Kristiansen PE, Pedersen B. J Phys Chem B 1998;1 2: 
+5444–5 . 
+[49] Pake GE. J Chem Phys 1948;16:327–36. 
+[5 ] Look DC, Lowe IJ, Northby JA. J Chem Phys 1966;44:3441–52. 
+P. Gupta et al. / Polymer 46 (2  5) 8819–8837 8837 [51] Hsieh ET, Randall JC. Macromolecules 1982;15:14 2–6. 
+[52] Hsieh ET, Randall JC. Macromolecules 1982;15:353–6 . 
+[53] Fonseca CA, Harrison IR. Thermochim Acta 1998;313:37–41. 
+[54] Yau WW, Gillespie D. Polymer 2  1;42:8947–58. 
+[55] Tso CC, DesLauriers PJ. Polymer 2  4;45:2657–63. 
+[56] Pepper RE, Samuels RJ. In Encyclopedia of Polymer Science and
+
+
+Engineering, Wiley, NY, 1988;14:261–98. 
+[57] Hamada F, Wunderlich B, Sumida T, Hayashi S, Nakajima A. J Phys
+
+
+Chem 1968;72:178–85. 
+[58] Yoon DY, Cho TY, Shin EJ, Jeong W, Heck B, Strobl G, et al. Polym
+
+
+Mater Sci Eng 2  4;91:242–3. 
+[59] Stein RS, Plaza A. J Polym Sci 196 ;45:519–2 . 
+[6 ] Clark RJ, Miller RL, Stein RS, Wilson PR. J Polym Sci 196 ;42: 
+275–7. 
+[61] Wilkes GL, Stein RS. Structure and properties of oriented polymers.
+
+
+2nd ed 1997. 
+[62] Chum PS, Kruper WJ, Guest MJ. J Adv Mater 2   ;12:1759–67. 
+[63] Bubeck RA. Mater Sci Eng 2  2;39:1–28. 
+[64] Herman JN, Biesenberger JA. Polym Eng Sci 1966;6:341–8. 
+[65] Clutton EQ, Rose LJ, Capaccio G. Plast Rubber Compos Process Appl
+
+
+1998;27:478–82. 
+[66] Huang YL, Brown N. J Polym Sci, Part B: Polym Phys 1991;29: 

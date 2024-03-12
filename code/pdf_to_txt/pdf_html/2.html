@@ -1,0 +1,623 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title>Decreased Thermal Conductivity of Polyethylene Chain Influenced by Short Chain Branching</title>
+<meta http-equiv="Content-Type" content="text/html; charset="UTF-8">
+</head>
+<body>
+<div style="page-break-before:always; page-break-after:always"><div><p>Danchen Luo
+School of Electrical and Power Engineering,
+</p>
+<p>China University of Mining and Technology,
+</p>
+<p>Xuzhou 221116, China
+</p>
+<p>Congliang Huang1
+</p>
+<p>School of Electrical and Power Engineering,
+</p>
+<p>China University of Mining and Technology,
+</p>
+<p>Xuzhou 221116, China;
+</p>
+<p>Department of Mechanical Engineering,
+</p>
+<p>University of Colorado,
+</p>
+<p>Boulder, CO 80309-0427
+</p>
+<p>e-mail: huangcl@cumt.edu.cn
+</p>
+<p>Zun Huang
+School of Electrical and Power Engineering,
+</p>
+<p>China University of Mining and Technology,
+</p>
+<p>Xuzhou 221116, China
+</p>
+<p>Decreased Thermal Conductivity
+of Polyethylene Chain Influenced
+by Short Chain Branching
+In this paper, we have studied the effect of short branches (side chains) on the thermal
+conductivity (TC) of a polyethylene (PE) chain. With a reverse nonequilibrium molecular
+dynamics (RNEMD) method, TCs of the pristine PE chain and the PE-ethyl chain are
+simulated and compared. It shows that the branch has a positive effect to decrease the
+TC of a PE chain. The TC of the PE-ethyl chain decreases with the number density
+increase of branches, until the density becomes larger than about eight ethyl per 200 seg-
+ments, where the TC saturates to be only about 40% that of a pristine PE chain. Because
+of different weights, different branches will cause a different decrease of TCs, and a
+heavy branch will lead to a lower TC than a light one. This study is expected to provide
+some fundamental guidance to obtain a polymer with a low TC.
+[DOI: 10.1115/1.4038003]
+</p>
+<p>Keywords: thermal conductivity, polymer, side chain, molecular dynamics simulation,
+spectral energy density
+</p>
+<p>1 Introduction
+</p>
+<p>Not only a high thermal conductivity (TC) but also a quite low
+TC is desired for polymers because of their wide applications
+[1&#8211;6], such as a high TC for application as a thermal interface
+material [7,8] and a low TC for application as a thermal insulation
+material. Single polymer chains and highly aligned polymer fibers
+have attracted a wide attention due to their potential high TC
+[9&#8211;16]. Although a single polymer chain may possess a high TC,
+polymers are generally regarded as a thermal insulator because of
+their very low thermal conductivities on the order of 0.1 W m&#2;1
+</p>
+<p>K&#2;1 [17]. One of the reasons for the low TC is that the polymer
+chains are randomly coiled in the polymers, which effectively
+shortens the mean free path (MFP) of heat-carrying phonons
+[18,19]. Another reason is that the TC of these polymers can be
+significantly influenced by the morphology of individual chains
+[14&#8211;17,20&#8211;22]. Besides these two reasons, the method to further
+decrease the TC of a polymer is still desired to develop a thermal
+insulator.
+</p>
+<p>There have already been some methods to reduce the TC of a
+polymer chain. Liao et al. [23] tuned the TC of a polymer chain
+by atomic mass modifications and found that heavy substituents
+hinder heat transport substantially. Robbins and Minnich [16]
+found that even perfectly crystalline polynorbornene has an
+exceptionally low TC near the amorphous limit due to extremely
+strong anharmonic scattering. Most recently, Ma and Tian [24]
+studied the influence of the side chains on the TC of bottlebrush
+polymers, and predicted that side chains dominate the heat con-
+duction and could lead to a lower TC. Some other studies also
+shown that chain segment disorder, or the random rotations of
+segments in a chain, will lead to a lower TC [15,25&#8211;28].
+</p>
+<p>In this paper, we take the effect of branches into account to
+probe a way to reduce the TC of a polymer. Considering the com-
+plex structure of a polymer, we just focus on the polyethylene
+(PE) chain. Results turn out that the TC of a PE chain with
+branches can be decreased to be only 40% that of a pristine chain.
+The paper is organized as follows: first, a reverse nonequilibrium
+</p>
+<p>molecular dynamics (RNEMD) method is introduced; and then
+the effects of backbone chain length, branching chain location,
+branching chain type, and the number density of branching chains
+are simulated and discussed. This study is expected to provide
+some fundamental guidance to obtain a polymer with a low TC.
+</p>
+<p>2 Simulation Method
+</p>
+<p>The materials studio is applied to build the initial configuration
+of the PE chain and the modified PE chain. The PE chain is estab-
+lished by replicating the PE segments which is the unit cell of
+PE&#8217;s idealized bulk lattice structure with a length of 2.507 A&#778;. The
+schematic structures of a pristine PE chain and a PE-ethyl chain
+are shown in Fig. 1. After building the PE chain, with the COM-
+PASS II potential [29&#8211;32], we first relax the system in an NVT
+(constant number of atoms, temperature, and volume) ensemble at
+a temperature of 300 K for 125 ps, where the Nose&#8211;Hoover ther-
+mostat [33,34] is applied to obtain the constant temperature. And
+then, a NVE (constant number of atoms, volume, and energy)
+ensemble is used to release the thermal stress. In the simulation
+process, we double-check that the total energy has reached mini-
+mum and becomes unchangeable at the end of NVT and NVE
+ensembles to make sure that our systems have already been
+equilibrated.
+</p>
+<p>To calculate TC, the RNEMD [35,36] simulation is performed
+on the well equilibrated structures to establish a temperature gra-
+dient. In the RNEMD method, each of the simulation boxes is
+divided into several slabs with a periodic boundary in the heat
+transfer direction. As that shown in Fig. 2, the simulation system
+is divided into several slabs (20 to 200 slabs, depending on the
+chain length), slab 0 is the &#8220;hot&#8221; slab, and the slab N/2 is the
+&#8220;cold&#8221; slab. Other slabs are used to obtain the temperature distri-
+butions. The heat flux is created by exchanging velocities of par-
+ticles in cold and hot slabs. The cold slab donates its &#8220;hottest&#8221;
+particles (particles with the highest kinetic energy) to the hot slab
+in exchange for the latter&#8217;s &#8220;coolest&#8221; particles (particles with the
+lowest kinetic energy). Performing this exchange periodically
+results in the heating up of the hot slab and cooling down of the
+cold slab. This process eventually yields a steady-state tempera-
+ture gradient due to thermal conduction through slabs separating
+the cold and hot slabs. The TC is calculated exactly by the
+relationship
+</p>
+<p>1Corresponding author.
+Contributed by the Heat Transfer Division of ASME for publication in the
+</p>
+<p>JOURNAL OF HEAT TRANSFER. Manuscript received December 30, 2016; final
+manuscript received July 26, 2017; published online October 25, 2017. Assoc.
+Editor: Alan McGaughey.
+</p>
+<p>Journal of Heat Transfer MARCH 2018, Vol. 140 / 031302-1Copyright VC 2018 by ASME
+</p>
+<p><b>Downloaded From: http://heattransfer.asmedigitalcollection.asme.org/ on 10/26/2017 Terms of Use: http://www.asme.org/about-asme/terms-of-use</b></p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>k
+</p>
+<p>Pm
+</p>
+<p>2
+&#2;2
+</p>
+<p>h &#2; &#2;2
+c
+</p>
+<p>&#2; &#3;
+</p>
+<p>2tA @T=@Z&#240; &#222; (1)
+</p>
+<p>where the sum is taken over all transfer events during the simula-
+tion time t, m is the mass of the atoms, and &#2;c and &#2;h are the
+velocities of the identical mass particles that participate in the
+exchange procedure from the cold and hot slabs, respectively. A is
+the cross-sectional area which is selected to be 14.7 A&#778;2 with a
+branch-caused uncertainty less than 1.6% as listed in Table 1.
+Such a small difference between cross-sectional areas will not
+lead to a large TC difference as that caused by branches (will be
+discussed later). The TC present in this work could be scaled by a
+different cross-sectional area for a comparison. With a time-step
+</p>
+<p>of 1 fs, a total simulation time of 0.1 ns is taken to get a good lin-
+ear temperature distribution. The temperature which is adopted to
+calculate the temperature gradient is averaged through every 1000
+simulation steps (1 ps). The temperature fluctuation in the simula-
+tion can be reduced by this average method. With heat flux printed
+out every 0.1 ps, the TC is calculated at the last step. The tempera-
+ture distribution in a PE chain with a length of 100 segments is
+shown in Fig. 2 as an example. The linear temperature region is
+fitted to obtain the temperature gradient for the calculation of the
+effective TC by using the Fourier&#8217;s law. The TC calculated at dif-
+ferent simulation times is shown in Fig. 3. It shows that 0.1 ns is
+long enough to get a converged TC.
+</p>
+<p>3 Results and Discussion
+</p>
+<p>First, the length dependence of the TC of a pristine PE chain is
+investigated and compared with that in early researches. And
+then, the TC of the pristine PE chains with different lengths is
+compared with that of a PE-ethyl chain. Third, the effect of the
+branch arrangement is considered. Finally, the influence of the
+branch type and the number density of branches are taken into
+account.
+</p>
+<p>3.1 Length Dependence of TC. Thermal conductivities of
+the pristine PE chain with different chain lengths at 300 K are first
+simulated and presented in Fig. 4(a). Previous works [14,37,38]
+about the pristine PE chains are also added in Fig. 4(a) for com-
+parison. As that shown in Fig. 4(a), there is an obvious increase of
+the TC with the increase of the chain length. Even with the length
+increasing to be 200 nm, the TC still not converges, which sug-
+gests that some portion of the phonons can still travel ballistically
+</p>
+<p>Fig. 1 Schematic structures of PE chains: (a) a pristine PE chain with a length of ten seg-
+ments and (b) a PE-ethyl chain
+</p>
+<p>Fig. 2 Temperature distribution of a pristine PE chain with a
+length of 100 segments (25 nm)
+</p>
+<p>Table 1 Cross-sectional areas (A&#778;2) used in the TC calculation
+</p>
+<p>50 segments 75 segments 100 segments
+</p>
+<p>Pristine PE 14.502 14.469 14.539
+PE-ethyl 14.872 14.717 14.697
+PE-benzene 14.718 14.902 14.890
+PE-phenoxy 14.858 14.750 14.822
+PE-ethoxy 14.717 14.848 14.730
+PE-methoxy 14.741 14.729 14.601
+PE-ethylene 14.769 14.650 14.671
+PE-hydroxy 14.524 14.649 14.561
+</p>
+<p>Fig. 3 TC of a pristine PE chain with a length of 100 segments
+</p>
+<p>031302-2 / Vol. 140, MARCH 2018 Transactions of the ASME
+</p>
+<p><b>Downloaded From: http://heattransfer.asmedigitalcollection.asme.org/ on 10/26/2017 Terms of Use: http://www.asme.org/about-asme/terms-of-use</b></p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>in such a length. Our simulation work confirms that the TC of a
+pristine PE chain will increase with the increasing number of seg-
+ments (or chain length), and the TC of a single PE chain is several
+orders of magnitude larger than that of a PE polymer. In Fig. 4(a),
+the TC difference between different works should be attributed to
+the application of different simulation methods, considering that
+the nonequilibrium molecular dynamics method is applied in our
+and the work of Hu et al. and the equilibrium molecular dynamics
+method is utilized in the work of Ni et al. and Liu and Yang. It
+seems that a nonequilibrium molecular dynamics method will
+give a higher TC than an equilibrium molecular dynamics method.
+This was also noticed in other studies [39,40], and some explana-
+tions can be found there.
+</p>
+<p>Plotting 1/k against 1/L in Fig. 4(b), we can see that with the
+increase of 1/L, the 1/k first increases rapidly and then saturates to
+a linear increase. The method by extrapolating the linear relation-
+ship between the inverse of the TC (1/k) and the inverse of the
+sample length (1/L) to get the TC with an infinite length fails.
+This failure is attributed to the divergent thermal conductivity at
+1/L! 0 where 1/k! 0, which has already been carefully studied
+and explained with theoretical and molecular dynamics methods
+in Ref. [41], more details can be found there.
+</p>
+<p>Thermal conductivities of the pristine PE chain and the PE-
+ethyl chain with lengths ranging from 100 to 500 segments (or
+25.07&#8211;125.35 nm) are compared in Fig. 5. It turns out that both
+TCs of the pristine PE chain and the PE-ethyl chain increase with
+the increasing length, and the TC of a PE-ethyl chain is only about
+75% that of a pristine PE chain. To illustrate the underlying mech-
+anism of the lower TC of the PE-ethyl chain, the vibrational den-
+sity of states (VDOS) is calculated by using the Fourier transform
+</p>
+<p>of the velocity autocorrelation function. Results are compared
+between the pristine PE chain and the PE-ethyl chain with 50 seg-
+ments, as shown in Fig. 6. Considering the low-frequency
+(&lt;20 THz) phonons dominate the TC due to their high group
+velocities and long MFPs [23], the lower VDOS of the PE-ethyl
+chain in the low frequency should be responsible for the lower
+TC, where the branch acts as a center of low-frequency-phonon
+scattering.
+</p>
+<p>To further illustrate the phonon scattering caused by the branch-
+ing chains, the phonon spectral energy density (SED) of the pris-
+tine PE and PE-ethyl chains is calculated based on the velocity
+output of MD simulations. The atomic velocities are obtained by a
+NVE simulation at a temperature of 300 K. The frequency resolu-
+tion is selected to be 0.01 THz with 0.1 ns NVE simulations, and
+the wave-number is 0.02j/(2p/a), where j&#188; 2pn/aN, here a is the
+lattice constant, N is the total number of unit cells along the heat
+transfer direction (N&#188; 50 in this work), and n is an integer ranging
+from 0 to N&#2; 1. More details about the calculation can be found
+in Refs. [42&#8211;45]. Results are shown in Fig. 7 with the shading sig-
+nifying the magnitude of the SED. The SED of a pristine PE chain
+in Fig. 7(a) coincides with that in Ref. [16] which confirms the
+reliability of our calculation. For each phonon mode in Fig. 7, the
+range of frequencies is related to the anharmonicity of the poten-
+tial and the rate of the phonon scattering. The situation when
+branch atoms move far away from equilibrium positions may lead
+to a significant broadening of the peaks in Fig. 7. Fitting the shape
+of peak and valley profiles of SED at all branches to the Lorent-
+zian function [42&#8211;45], the phonon relaxation time is obtained and
+shown in Fig. 8. It shows that the magnitude of the phonon relaxa-
+tion time is greatly reduced by branching chains, which should be
+</p>
+<p>Fig. 4 TC of a pristine PE chain: (a) compared with results simulated by Ni et al. [37], Hu et al.
+[38], and Liu and Yang [14] and (b) inverse of the TC plotted against the inverse of the chain
+length
+</p>
+<p>Fig. 5 Length dependence of TCs of the PE chain and the PE-
+ethyl chain Fig. 6 VDOS of the PE and PE-ethyl chains
+</p>
+<p>Journal of Heat Transfer MARCH 2018, Vol. 140 / 031302-3
+</p>
+<p><b>Downloaded From: http://heattransfer.asmedigitalcollection.asme.org/ on 10/26/2017 Terms of Use: http://www.asme.org/about-asme/terms-of-use</b></p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>responsible for the lower TC of the PE-ethyl chain. The redistribu-
+tion of phonons and the smearing acoustic branches of the
+PE-ethyl chain in Fig. 7(b) proves the result in Fig. 8 that there is
+a more severe phonon scattering for a PE-ethyl chain than a pris-
+tine PE chain.
+</p>
+<p>3.2 Influence of Branch Arrangements. The influence of
+branch locations is considered in this part. For a pristine PE chain,
+there are different locations from the simulation region boundary
+to the branching ethyl. Five special locations are selected to
+branch a short chain, labeled as P1, P2, P3, P4, and P5, respec-
+tively, as that shown in Fig. 9(a). The result in Fig. 9(b) confirms
+that the presence of a branching chain can truly reduce the TC,
+and the average TC of a PE-ethyl chain is about 0.7 times that of a
+pristine PE chain. Our simulations also indicate that there is
+almost a same TC for different locations in Fig. 9(b). This is
+attributed to the periodic boundary condition in the simulation.
+The small TC discrepancies between different locations should be
+caused by the different distance of the branch from the simulation
+boundary. If the boundary and the branching chains are both
+thought as defects on a pristine PE chain, the TC with ethyl
+located at the middle of the chain (P1) will be lower than other
+TCs (P2, P3, P4, and P5), because of the small distance from the
+</p>
+<p>Fig. 7 SEDs of a pristine PE chain (a) and a PE-ethyl chain
+with a branch number density of one branch per ten segments
+(b). The shading signifies the magnitude of the SED.
+</p>
+<p>Fig. 8 The phonon relaxation times in a pristine PE chain and
+a PE-ethyl chain
+</p>
+<p>Fig. 9 TC of the PE-ethyl chain with different branch locations: (a) structures with 100 seg-
+ments used in the simulation and (b) effect of branch locations on the TC. Dashed lines stand
+for the pristine PE chains.
+</p>
+<p>Fig. 10 TCs of PE chains with different types of branches
+</p>
+<p>031302-4 / Vol. 140, MARCH 2018 Transactions of the ASME
+</p>
+<p><b>Downloaded From: http://heattransfer.asmedigitalcollection.asme.org/ on 10/26/2017 Terms of Use: http://www.asme.org/about-asme/terms-of-use</b></p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>middle of the chain to the system boundary. This is confirmed by
+results in Fig. 9(b).
+</p>
+<p>3.3 Influence of Branching Chain Types and Number Den-
+sity of Branches. Seven different types of short chains are
+branched on the middle segment of a PE chain, respectively, for
+comparisons. They are different from the weight and the type of
+chemical bonds between the backbone and the branch, as shown
+in Fig. 10, which are listed as phenoxy group, phenyl group,
+ethoxy group, methoxy group, ethyl group, ethylene group, and
+hydroxy group, respectively. The black, red, and blue columns in
+Fig. 10 stand for different chain lengths. The relative masses of
+different branches are also shown in Fig. 10. We can see that all
+types of branches can lead to a decrease of TC, and a heavy
+branch leads to a lower TC than a light one, except for the ethyl-
+ene group for which TC may be further decreased by a different
+bond. It agrees with the conclusion in Ref. [23] that a chain modi-
+fied by a heave atom possesses a lower TC than that modified by a
+light one, where the modifying atom can be thought a special
+short branch. We conclude that different branches will lead to a
+different decrease of thermal conductivities because of the differ-
+ent weights. More studies are still needed to probe the effect of
+bonds between the backbone and the branch on the TC.
+</p>
+<p>The effect of the number density of branches is studied in this
+part. The number density of branches is defined as the number of
+branches divided by the number of PE segments. Two hundred
+segments (50.14 nm) are applied as a periodic unit in the simula-
+tion, and the ethyl group is selected as the branch. Considering
+there are different locations on a PE chain to branch an ethyl
+group, we only consider two special location arrangements, i.e.,
+the aligned arrangement and the fork arrangement, as that shown
+in Fig. 11(a). For the aligned arrangement of ten branching ethyl,
+they are equally distributed on the PE chain, only a part of the
+chain is shown in Fig. 11(a); for the fork arrangement of ten
+branching ethyl, every two branching ethyl are located at the same
+segment of the PE chain, as that shown in Fig. 11(a). The corre-
+sponding TC of these two arrangements is shown in Fig. 11(b). It
+shows that a larger number density of branches leads to a lower
+TC for both arrangements. With an increase of the number density
+of branches, the TC of a PE-ethyl chain finally converges to be
+only about 40% that of the pristine PE chain. This can be under-
+stood by that with the increase of the number density, the distance
+between branches is reduced, and the long-MFP phonons will be
+decreased until the TC converges to a constant value. It can be
+predicted that if a PE-ethyl chain instead of a pristine PE chain is
+used to build up a polymer, the TC of the polymer will be much
+reduced, because of the lower TC of the PE-ethyl chain and the
+additional mass of branches. What kind of a chain will lead to a
+lower TC is the key point of this paper, and more studies are still
+needed to figure out the effect of long branches on the TC of a
+pristine chain [24].
+</p>
+<p>4 Conclusions
+</p>
+<p>It is desirable to further reduce the TC of a polymer for devel-
+oping a thermal insulation material. In this paper, we take
+branches into account to probe a way to reduce the TC of a chain.
+With the RNEMD method, the TCs of the pristine PE chain and
+the PE-ethyl chain are simulated and compared. Influences of the
+chain length, branch arrangements, types, and number density of
+branches are considered. Our results suggest that the branch has a
+positive effect to reduce the TC of a PE chain. If the number den-
+sity of ethyl branches becomes larger than eight ethyls per 200
+segments, the TC of a PE-ethyl chain converges to be only about
+40% that of a pristine PE chain. This conclusion will not be influ-
+enced by the branch arrangements. Different branches cause a dif-
+ferent decrease of thermal conductivities because of their different
+weights, and a heavy branch leads to a lower TC than a light one.
+This study is expected to provide some fundamental guidance to
+obtain a polymer with a low TC.
+</p>
+<p>Funding Data
+</p>
+<p>&#3; National Natural Science Foundation of China (Grant No.
+51406224).
+</p>
+<p>References
+[1] Li, G., Shrotriya, V., Yao, Y., Huang, J., and Yang, Y., 2007, &#8220;Manipulating
+</p>
+<p>Regioregular Poly (3-Hexylthiophene): [6,6]-Phenyl-C61-Butyric Acid Methyl
+Ester Blends-Route Towards High Efficiency Polymer Solar Cells,&#8221; J. Mater.
+Chem., 17(30), pp. 3126&#8211;3140.
+</p>
+<p>[2] Nie, Z., and Kumacheva, E., 2008, &#8220;Patterning Surfaces With Functional Poly-
+mers,&#8221; Nat. Mater., 7(4), pp. 277&#8211;290.
+</p>
+<p>[3] Liu, C., 2007, &#8220;Recent Developments in Polymer MEMS,&#8221; Adv. Mater.,
+19(22), pp. 3783&#8211;3790.
+</p>
+<p>[4] Ryan, A. J., 2008, &#8220;Nanotechnology: Squaring Up With Polymers,&#8221; Nature,
+456(7220), pp. 334&#8211;336.
+</p>
+<p>[5] Bruening, M., and Dotzauer, D., 2009, &#8220;Polymer Films: Just Spray It,&#8221; Nat.
+Mater., 8(6), pp. 449&#8211;450.
+</p>
+<p>[6] Charnley, M., Textor, M., and Acikgoz, C., 2011, &#8220;Designed Polymer Struc-
+tures With Antifouling-Antimicrobial Properties,&#8221; React. Funct. Polym., 71(3),
+pp. 329&#8211;334.
+</p>
+<p>[7] Han, Z., and Fina, A., 2011, &#8220;Thermal Conductivity of Carbon Nanotubes and
+Their Polymer Nanocomposites: A Review,&#8221; Prog. Polym. Sci., 36(7), pp.
+914&#8211;944.
+</p>
+<p>[8] Singh, V., Bougher, T. L., Weathers, A., Cai, Y., Bi, K., Pettes, M. T., McMe-
+namin, S. A., Lv, W., Resler, D. P., Gattuso, T. R., Altman, D. H., Sandhage, K.
+H., Shi, L., Henry, A., and Cola, B. A., 2014, &#8220;High Thermal Conductivity of
+Chain-Oriented Amorphous Polythiophene,&#8221; Nat. Nanotechnol., 9(5), pp.
+384&#8211;390.
+</p>
+<p>[9] Henry, A., and Chen, G., 2008, &#8220;High Thermal Conductivity of Single Polyeth-
+ylene Chains Using Molecular Dynamics Simulations,&#8221; Phys. Rev. Lett.,
+101(23), p. 235502.
+</p>
+<p>[10] Cao, B. Y., Li, Y. W., Kong, J., Chen, H., Xu, Y., Yung, K.-L., and Cai, A.,
+2011, &#8220;High Thermal Conductivity of Polyethylene Nanowire Arrays Fabri-
+cated by an Improved Nanoporous Template Wetting Technique,&#8221; Polymer,
+52(8), pp. 1711&#8211;1715.
+</p>
+<p>Fig. 11 TC of a PE chain with different number density of branches: (a) two special branch
+arrangements (only a part is shown here) and (b) TC comparison between two arrangements
+</p>
+<p>Journal of Heat Transfer MARCH 2018, Vol. 140 / 031302-5
+</p>
+<p><b>Downloaded From: http://heattransfer.asmedigitalcollection.asme.org/ on 10/26/2017 Terms of Use: http://www.asme.org/about-asme/terms-of-use</b></p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>[11] Henry, A., Chen, G., Plimpton, S. J., and Thompson, A., 2010, &#8220;1D-to-3D Tran-
+sition of Phonon Heat Conduction in Polyethylene Using Molecular Dynamics
+Simulations,&#8221; Phys. Rev. B, 82(14), p. 144308.
+</p>
+<p>[12] Jiang, J. W., Zhao, J., Zhou, K., and Rabczuk, T., 2012, &#8220;Superior Thermal
+Conductivity and Extremely High Mechanical Strength in Polyethylene Chains
+From Ab Initio Calculation,&#8221; J. Appl. Phys., 111(12), p. 124304.
+</p>
+<p>[13] Shen, S., Henry, A., Tong, J., Zheng, R., and Chen, G., 2010, &#8220;Polyethylene
+Nanofibres With Very High Thermal Conductivities,&#8221; Nat. Nanotechnol., 5(4),
+pp. 251&#8211;255.
+</p>
+<p>[14] Liu, J., and Yang, R., 2012, &#8220;Length-Dependent Thermal Conductivity of Sin-
+gle Extended Polymer Chains,&#8221; Phys. Rev. B, 86(10), p. 104307.
+</p>
+<p>[15] Luo, T., Esfarjani, K., Shiomi, J., Henry, A., and Chen, G., 2011, &#8220;Molecular
+Dynamics Simulation of Thermal Energy Transport in Polydimethylsiloxane
+(PDMS),&#8221; J. Appl. Phys., 109(7), p. 074321.
+</p>
+<p>[16] Robbins, A. B., and Minnich, A. J., 2015, &#8220;Crystalline Polymers With Excep-
+tionally Low Thermal Conductivity Studied Using Molecular Dynamics,&#8221; Appl.
+Phys. Lett., 107(20), p. 201908.
+</p>
+<p>[17] Umur, A., Gemert, M. J. C. V., and Ross, M. G., 1986, Introduction to Physical
+Polymer Science, Wiley, Hoboken, NJ.
+</p>
+<p>[18] Hu, Y., Zeng, L., Minnich, A. J., Dresselhaus, M. S., and Chen, G., 2015,
+&#8220;Spectral Mapping of Thermal Conductivity Through Nanoscale Ballistic
+Transport,&#8221; Nat. Nanotechnol., 10(8), pp. 701&#8211;706.
+</p>
+<p>[19] Zeng, L., Collins, K. C., Hu, Y., Luckyanova, M. N., Maznev, A. A., Huber-
+man, S., Chiloyan, V., Zhou, J., Huang, X., Nelson, K. A., and Chen, G., 2015,
+&#8220;Measuring Phonon Mean Free Path Distributions by Probing Quasiballistic
+Phonon Transport in Grating Nanostructures,&#8221; Sci. Rep., 5(1), p. 17131.
+</p>
+<p>[20] Henry, A., and Chen, G., 2009, &#8220;Anomalous Heat Conduction in Polyethylene
+Chains: Theory and Molecular Dynamics Simulations,&#8221; Phys. Rev. B, 79(14),
+p. 144305.
+</p>
+<p>[21] Sasikumar, K., and Keblinski, P., 2011, &#8220;Effect of Chain Conformation in the
+Phonon Transport Across a Si-Polyethylene Single-Molecule Covalent
+Junction,&#8221; J. Appl. Phys., 109(11), p. 114307.
+</p>
+<p>[22] Savin, A. V., and Savina, O. I., 2014, &#8220;Dependence of the Thermal Conductiv-
+ity of a Polymer Chain on Its Tension,&#8221; Phys. Solid State, 56(8), pp.
+1664&#8211;1672.
+</p>
+<p>[23] Liao, Q., Zeng, L., Liu, Z., and Liu, W., 2016, &#8220;Tailoring Thermal Conductivity
+of Single-Stranded Carbon-Chain Polymers Through Atomic Mass Mod-
+ification,&#8221; Sci. Rep., 6(1), p. 34999.
+</p>
+<p>[24] Ma, H., and Tian, Z., 2017, &#8220;Effects of Polymer Topology and Morphology on
+Thermal Transport: A Molecular Dynamics Study of Bottlebrush Polymers,&#8221;
+Appl. Phys. Lett., 110(9), p. 091903.
+</p>
+<p>[25] Zhang, T., Wu, X., and Luo, T., 2014, &#8220;Polymer Nanofibers With Outstanding
+Thermal Conductivity and Thermal Stability: Fundamental Linkage Between
+Molecular Characteristics and Macroscopic Thermal Properties,&#8221; J. Phys.
+Chem. C, 118(36), pp. 21148&#8211;21159.
+</p>
+<p>[26] Zhang, L., Ruesch, M., Zhang, X., Bai, Z., and Liu, L., 2015, &#8220;Tuning Thermal
+Conductivity of Crystalline Polymer Nanofibers by Interchain Hydrogen
+Bonding,&#8221; RSC Adv., 5(107), pp. 87981&#8211;87986.
+</p>
+<p>[27] Zhang, T., and Luo, T., 2012, &#8220;Morphology-Influenced Thermal Conductivity
+of Polyethylene Single Chains and Crystalline Fibers,&#8221; J. Appl. Phys., 112(9),
+p. 094304.
+</p>
+<p>[28] Ma, H., and Tian, Z., 2015, &#8220;Effects of Polymer Chain Confinement on Thermal
+Conductivity of Ultrathin Amorphous Polystyrene Films,&#8221; Appl. Phys. Lett.,
+107(7), p. 073111.
+</p>
+<p>[29] Luo, T., and Lloyd, J. R., 2012, &#8220;Enhancement of Thermal Energy Transport
+Across Graphene/Graphite and Polymer Interfaces: A Molecular Dynamics
+Study,&#8221; Adv. Funct. Mater., 19(12), pp. 587&#8211;596.
+</p>
+<p>[30] Sun, H., 1998, &#8220;COMPASS: An Ab Initio Force-Field Optimized for
+Condensed-Phase Applications Overview With Details on Alkane and Benzene
+Compounds,&#8221; J. Phys. Chem. B, 102(38), pp. 7338&#8211;7364.
+</p>
+<p>[31] Sun, H., Ren, P., and Fried, J. R., 1998, &#8220;The COMPASS Force Field: Parame-
+terization and Validation for Phosphazenes,&#8221; Comput. Theor. Polym. Sci.,
+8(1&#8211;2), pp. 229&#8211;246.
+</p>
+<p>[32] Rigby, D., Sun, H., and Eichinger, B. E., 1997, &#8220;Computer Simulations of Poly
+(Ethylene Oxide): Force Field, PVT Diagram and Cyclization Behavior,&#8221;
+Polym. Int., 44(3), pp. 311&#8211;330.
+</p>
+<p>[33] Nose, S., 1984, &#8220;A Unified Formulation of the Constant Temperature Molecular
+Dynamics Methods,&#8221; Rev. Faith Int. Affairs, 81(1), p. 511.
+</p>
+<p>[34] Hoover, W. G., 1985, &#8220;Canonical Dynamics: Equilibrium Phase-Space Distri-
+butions,&#8221; Phys. Rev. A, 31(3), pp. 1695&#8211;1697.
+</p>
+<p>[35] M&#8364;ullerplathe, F., 1997, &#8220;A Simple Nonequilibrium Molecular Dynamics Method
+for Calculating the Thermal Conductivity,&#8221; J. Chem. Phys., 106(14), p. 6082.
+</p>
+<p>[36] Huang, C., Wang, Q., and Rao, Z., 2015, &#8220;Thermal Conductivity Prediction of
+Copper Hollow Nanowire,&#8221; Int. J. Therm. Sci., 94, pp. 90&#8211;95.
+</p>
+<p>[37] Ni, B., Watanabe, T., and Phillpot, S. R., 2009, &#8220;Thermal Transport in Polyeth-
+ylene and at Polyethylene-Diamond Interfaces Investigated Using Molecular
+Dynamics Simulation,&#8221; J. Phys.: Condens. Matter, 21(8), p. 084219.
+</p>
+<p>[38] Hu, G. J., Cao, B. Y., and Li, Y. W., 2014, &#8220;Thermal Conduction in a Single
+Polyethylene Chain Using Molecular Dynamics Simulations,&#8221; Chin. Phys.
+Lett., 31(8), p. 086501.
+</p>
+<p>[39] Termentzidis, K., Merabia, S., Chantrenne, P., and Keblinski, P., 2011, &#8220;Cross-
+Plane Thermal Conductivity of Superlattices With Rough Interfaces Using
+Equilibrium and Non-Equilibrium Molecular Dynamics,&#8221; Int. J. Heat Mass
+Transfer, 54(9), pp. 2014&#8211;2020.
+</p>
+<p>[40] Landry, E. S., Hussein, M. I., and McGaughey, A. J. H., 2008, &#8220;Complex Super-
+lattice Unit Cell Designs for Reduced Thermal Conductivity,&#8221; Phys. Rev. B,
+77(18), p. 184302.
+</p>
+<p>[41] Hu, L., Evans, W. J., and Keblinski, P., 2011, &#8220;One-Dimensional Phonon
+Effects in Direct Molecular Dynamics Method for Thermal Conductivity Deter-
+mination,&#8221; J. Appl. Phys., 110(11), p. 113511.
+</p>
+<p>[42] Qian, X., Gu, X. K., and Yang, R. G., 2016, &#8220;Lattice Thermal Conductivity of
+Organic-Inorganic Hybrid Perovskite CH3NH3PbI,&#8221; Appl. Phys. Lett., 108(6),
+p. 063902.
+</p>
+<p>[43] Li, C. J., Li, G., and Zhao, H. J., 2015, &#8220;Thermal Conductivity Variation of Gra-
+phene With Patterned Double-Side Hydrogen Doping,&#8221; J. Appl. Phys., 118(7),
+p. 075102.
+</p>
+<p>[44] Thomas, J. A., Turney, J. E., Iutzi, R. M., Amon, C. H., and McGaughey, A. J.,
+2010, &#8220;Predicting Phonon Dispersion Relations and Lifetimes From the Spec-
+tral Energy Density,&#8221; Phys. Rev. B, 81(8), p. 081411.
+</p>
+<p>[45] Feng, T., Qiu, B., and Ruan, X., 2015, &#8220;Anharmonicity and Necessity of Pho-
+non Eigenvectors in the Phonon Normal Mode Analysis,&#8221; J. Appl. Phys.,
+117(19), p. 195102.
+</p>
+<p>031302-6 / Vol. 140, MARCH 2018 Transactions of the ASME
+</p>
+<p><b>Downloaded From: http://heattransfer.asmedigitalcollection.asme.org/ on 10/26/2017 Terms of Use: http://www.asme.org/about-asme/terms-of-use</b></p>
+
+</div></div>
+</body></html>

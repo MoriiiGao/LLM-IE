@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>模型示例</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .form-container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            width: 90%; /* 调整容器宽度 */
+        }
+
+        .form-group {
+            margin-bottom: 20px; /* 增加组件之间的距离 */
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px; /* 增加标签与输入框之间的距离 */
+        }
+
+        textarea,
+        .output {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+            height: 300px; /* 调整输入输出框的高度 */
+            overflow-y: auto; /* 添加垂直滚动条 */
+            resize: vertical; /* 允许垂直调整大小 */
+            white-space: pre-wrap; /* 保持空格和换行 */
+            font-family: Arial, sans-serif; /* 设置字体 */
+        }
+
+        .output {
+            background-color: #e9ecef;
+            color: #495057;
+            margin-bottom: 20px; /* 增加输出框与按钮之间的距离 */
+        }
+
+        button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+            width: 100px; /* 调整按钮宽度 */
+            margin-right: 5px; /* 为按钮之间添加间隔 */
+            margin-bottom: 5px; /* 增加标签与输入框之间的距离 */
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .button-group {
+            display: flex;
+            justify-content: flex-end; /* 使按钮组靠右对齐 */
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px; /* 在表格和表单之间添加一些空间 */
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="form-container">
+        <div class="form-group">
+            <label for="inputText">输入内容：</label>
+            <textarea id="inputText" name="inputText" placeholder="在此输入..." maxlength="6000" oninput="updateCharacterCount()"></textarea>
+            <div id="characterCount">0 / 6000</div>
+        </div>
+        <div class="button-group">
+            <button type="button" onclick="submitText()">提交</button>
+            <button type="button" onclick="clearText()">清除</button>
+        </div>
+        <div class="form-group">
+            <label>输出内容：</label>
+            <table id="outputTable">
+                <tr>
+                    <th>Field</th>
+                    <th>Original Content</th>
+                </tr>
+                {% for item in data %}
+                <tr>
+                    <td>{{ item.Field }}</td>
+                    <td>{{ item.Content }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+
+    <script>
+        function updateCharacterCount() {
+            var inputLength = $('#inputText').val().length;
+            $('#characterCount').text(inputLength + ' / 6000');
+        }
+
+        function submitText() {
+            var input = $('#inputText').val();
+            $.post('/process', { inputText: input }, function(data) {
+                $('#outputTable').find("tr:gt(0)").remove(); // 清除旧的表格内容
+                data.forEach(function(item) {
+                    $('#outputTable').append('<tr><td>' + item.Field + '</td><td>' + item.Content + '</td></tr>');
+                });
+            });
+        }
+
+        function clearText() {
+            $('#inputText').val('');
+            $('#outputTable').find("tr:gt(0)").remove(); // 清除表格内容
+            updateCharacterCount(); // 更新字符计数
+        }
+
+        // 初始化字符计数
+        updateCharacterCount();
+    </script>
+</body>
+</html>

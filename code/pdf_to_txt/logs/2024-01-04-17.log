@@ -1,0 +1,819 @@
+[INFO] 2024-01-04 17:00:10,862 [main.py:17, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:00:10,862 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/1.pdf
+[INFO] 2024-01-04 17:00:10,863 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:00:10,863 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:00:10,863 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:00:10,879 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:00:22,951 [main.py:17, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:00:22,951 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/1.pdf
+[INFO] 2024-01-04 17:00:22,951 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:00:22,952 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:00:22,952 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:00:22,969 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:00:33,343 [main.py:17, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:00:33,344 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/1.pdf
+[INFO] 2024-01-04 17:00:33,344 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:00:33,344 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:00:33,344 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:00:33,359 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:00:52,070 [main.py:17, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:00:52,070 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/1.pdf
+[INFO] 2024-01-04 17:00:52,070 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:00:52,071 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:00:52,071 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:00:52,085 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:02:23,958 [main.py:17, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:02:23,959 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/1.pdf
+[INFO] 2024-01-04 17:02:23,959 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:02:23,959 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:02:23,960 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:02:23,971 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:02:38,365 [main.py:17, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:02:38,365 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/1.pdf
+[INFO] 2024-01-04 17:02:38,366 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:02:38,366 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:02:38,366 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:02:38,380 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:02:55,338 [main.py:17, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:02:55,339 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/1.pdf
+[INFO] 2024-01-04 17:02:55,339 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:02:55,339 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:02:55,340 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:02:55,350 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:03:11,433 [main.py:17, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:03:11,434 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/1.pdf
+[INFO] 2024-01-04 17:03:11,434 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:03:11,434 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:03:11,434 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:03:11,448 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:03:31,806 [main.py:17, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:03:31,806 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/1.pdf
+[INFO] 2024-01-04 17:03:31,806 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:03:31,807 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:03:31,807 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:03:31,818 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:03:31,819 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/2.pdf
+[INFO] 2024-01-04 17:03:31,819 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:03:31,819 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:03:31,819 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:03:31,831 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:03:31,832 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/3.pdf
+[INFO] 2024-01-04 17:03:31,832 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:03:31,832 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:03:31,833 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:03:31,844 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:03:31,845 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/4.pdf
+[INFO] 2024-01-04 17:03:31,845 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:03:31,845 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:03:31,846 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:03:31,856 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:03:31,856 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/5.pdf
+[INFO] 2024-01-04 17:03:31,858 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:03:31,858 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:03:31,858 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:03:31,868 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:03:31,869 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/6.pdf
+[INFO] 2024-01-04 17:03:31,869 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:03:31,870 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:03:31,870 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:03:31,881 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:03:31,882 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/7.pdf
+[INFO] 2024-01-04 17:03:31,882 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:03:31,883 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:03:31,883 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:03:31,894 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:03:31,894 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/8.pdf
+[INFO] 2024-01-04 17:03:31,894 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:03:31,894 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:03:31,895 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:03:31,905 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:06,007 [main.py:17, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:04:06,007 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/1.pdf
+[INFO] 2024-01-04 17:04:06,007 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:06,007 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:06,007 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:06,020 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:06,020 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/2.pdf
+[INFO] 2024-01-04 17:04:06,021 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:06,021 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:06,021 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:06,032 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:06,033 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/3.pdf
+[INFO] 2024-01-04 17:04:06,033 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:06,034 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:06,034 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:06,047 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:06,048 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/4.pdf
+[INFO] 2024-01-04 17:04:06,048 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:06,048 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:06,048 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:06,060 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:06,061 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/5.pdf
+[INFO] 2024-01-04 17:04:06,061 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:06,061 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:06,062 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:06,073 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:06,074 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/6.pdf
+[INFO] 2024-01-04 17:04:06,075 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:06,075 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:06,075 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:06,085 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:06,086 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/7.pdf
+[INFO] 2024-01-04 17:04:06,087 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:06,087 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:06,087 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:06,098 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:06,098 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/8.pdf
+[INFO] 2024-01-04 17:04:06,098 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:06,100 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:06,100 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:06,112 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:26,443 [main.py:17, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:04:26,443 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/1.pdf
+[INFO] 2024-01-04 17:04:26,443 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:26,443 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:26,444 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:26,455 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:26,456 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/1.txt
+[INFO] 2024-01-04 17:04:26,456 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:26,456 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:26,456 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:26,469 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:26,469 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/2.pdf
+[INFO] 2024-01-04 17:04:26,469 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:26,469 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:26,470 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:26,481 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:26,482 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/2.txt
+[INFO] 2024-01-04 17:04:26,482 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:26,483 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:26,483 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:26,495 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:26,495 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/3.pdf
+[INFO] 2024-01-04 17:04:26,495 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:26,496 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:26,496 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:26,506 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:26,508 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/3.txt
+[INFO] 2024-01-04 17:04:26,508 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:26,509 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:26,509 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:26,521 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:26,522 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/4.pdf
+[INFO] 2024-01-04 17:04:26,522 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:26,522 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:26,523 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:26,534 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:26,535 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/4.txt
+[INFO] 2024-01-04 17:04:26,535 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:26,536 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:26,536 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:26,549 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:26,550 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/5.pdf
+[INFO] 2024-01-04 17:04:26,550 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:26,550 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:26,550 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:26,562 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:26,563 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/5.txt
+[INFO] 2024-01-04 17:04:26,563 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:26,564 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:26,564 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:26,576 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:26,577 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/6.pdf
+[INFO] 2024-01-04 17:04:26,578 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:26,578 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:26,578 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:26,590 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:26,592 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/6.txt
+[INFO] 2024-01-04 17:04:26,593 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:26,593 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:26,593 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:26,604 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:26,605 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/7.pdf
+[INFO] 2024-01-04 17:04:26,605 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:26,605 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:26,606 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:26,617 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:26,617 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/7.txt
+[INFO] 2024-01-04 17:04:26,619 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:26,619 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:26,619 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:26,630 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:26,631 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/8.pdf
+[INFO] 2024-01-04 17:04:26,631 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:26,631 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:26,631 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:26,643 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:04:26,644 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/8.txt
+[INFO] 2024-01-04 17:04:26,645 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:04:26,645 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:04:26,645 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:04:26,655 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:13:38,380 [main.py:17, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:13:38,380 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/1.pdf
+[INFO] 2024-01-04 17:13:38,381 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:13:38,381 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:13:38,381 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:13:38,394 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:13:38,395 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/1.txt
+[INFO] 2024-01-04 17:13:38,395 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:13:38,396 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:13:38,396 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:13:38,409 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:13:38,410 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/2.pdf
+[INFO] 2024-01-04 17:13:38,410 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:13:38,410 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:13:38,411 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:13:38,423 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:13:38,424 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/2.txt
+[INFO] 2024-01-04 17:13:38,424 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:13:38,425 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:13:38,425 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:13:38,437 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:13:38,438 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/3.pdf
+[INFO] 2024-01-04 17:13:38,438 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:13:38,439 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:13:38,439 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:13:38,451 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:13:38,452 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/3.txt
+[INFO] 2024-01-04 17:13:38,452 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:13:38,453 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:13:38,453 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:13:38,465 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:13:38,466 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/4.pdf
+[INFO] 2024-01-04 17:13:38,466 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:13:38,466 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:13:38,466 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:13:38,478 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:13:38,479 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/4.txt
+[INFO] 2024-01-04 17:13:38,479 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:13:38,479 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:13:38,480 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:13:38,492 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:13:38,492 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/5.pdf
+[INFO] 2024-01-04 17:13:38,493 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:13:38,493 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:13:38,493 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:13:38,504 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:13:38,506 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/5.txt
+[INFO] 2024-01-04 17:13:38,506 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:13:38,506 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:13:38,506 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:13:38,520 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:13:38,521 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/6.pdf
+[INFO] 2024-01-04 17:13:38,521 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:13:38,521 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:13:38,521 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:13:38,533 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:13:38,534 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/6.txt
+[INFO] 2024-01-04 17:13:38,534 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:13:38,534 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:13:38,534 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:13:38,546 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:13:38,547 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/7.pdf
+[INFO] 2024-01-04 17:13:38,547 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:13:38,547 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:13:38,547 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:13:38,559 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:13:38,559 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/7.txt
+[INFO] 2024-01-04 17:13:38,559 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:13:38,560 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:13:38,560 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:13:38,572 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:13:38,573 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/8.pdf
+[INFO] 2024-01-04 17:13:38,573 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:13:38,573 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:13:38,573 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:13:38,585 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:13:38,585 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/8.txt
+[INFO] 2024-01-04 17:13:38,586 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:13:38,586 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:13:38,586 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:13:38,599 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:15:14,759 [main.py:17, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:15:14,759 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/1.pdf
+[INFO] 2024-01-04 17:15:14,760 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:15:14,760 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:15:14,760 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:15:14,887 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:15:14,888 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/1.txt
+[INFO] 2024-01-04 17:15:14,888 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:15:14,888 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:15:14,889 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:15:14,936 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:15:14,937 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/2.pdf
+[INFO] 2024-01-04 17:15:14,937 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:15:14,937 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:15:14,937 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:15:14,983 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:15:14,984 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/2.txt
+[INFO] 2024-01-04 17:15:14,984 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:15:14,985 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:15:14,985 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:15:15,031 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:15:15,031 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/3.pdf
+[INFO] 2024-01-04 17:15:15,033 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:15:15,033 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:15:15,033 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:15:15,080 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:15:15,081 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/3.txt
+[INFO] 2024-01-04 17:15:15,081 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:15:15,081 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:15:15,081 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:15:15,128 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:15:15,129 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/4.pdf
+[INFO] 2024-01-04 17:15:15,129 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:15:15,130 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:15:15,130 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:15:15,176 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:15:15,176 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/4.txt
+[INFO] 2024-01-04 17:15:15,177 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:15:15,177 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:15:15,177 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:15:15,221 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:15:15,221 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/5.pdf
+[INFO] 2024-01-04 17:15:15,222 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:15:15,222 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:15:15,222 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:15:15,265 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:15:15,266 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/5.txt
+[INFO] 2024-01-04 17:15:15,266 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:15:15,267 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:15:15,267 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:15:15,311 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:15:15,312 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/6.pdf
+[INFO] 2024-01-04 17:15:15,312 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:15:15,312 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:15:15,313 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:15:15,357 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:15:15,357 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/6.txt
+[INFO] 2024-01-04 17:15:15,358 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:15:15,358 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:15:15,358 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:15:15,404 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:15:15,405 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/7.pdf
+[INFO] 2024-01-04 17:15:15,405 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:15:15,405 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:15:15,405 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:15:15,452 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:15:15,453 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/7.txt
+[INFO] 2024-01-04 17:15:15,453 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:15:15,453 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:15:15,453 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:15:15,500 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:15:15,500 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/8.pdf
+[INFO] 2024-01-04 17:15:15,501 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:15:15,501 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:15:15,501 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:15:15,556 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:15:15,556 [main.py:24, <module>] post file is C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科/pdf_files/8.txt
+[INFO] 2024-01-04 17:15:15,557 [main.py:28, <module>] C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\盈科
+[INFO] 2024-01-04 17:15:15,557 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:15:15,557 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:15:15,604 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:18:30,638 [main.py:17, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:18:30,638 [main.py:24, <module>] post file is D:\YingKe/pdf_files/1.pdf
+[INFO] 2024-01-04 17:18:30,638 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:18:30,638 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:18:30,638 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:18:31,332 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:18:31,334 [main.py:24, <module>] post file is D:\YingKe/pdf_files/1.txt
+[INFO] 2024-01-04 17:18:31,335 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:18:31,335 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:18:31,335 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:18:31,587 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:18:31,600 [main.py:24, <module>] post file is D:\YingKe/pdf_files/2.pdf
+[INFO] 2024-01-04 17:18:31,601 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:18:31,601 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:18:31,601 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:18:33,649 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:18:33,651 [main.py:24, <module>] post file is D:\YingKe/pdf_files/2.txt
+[INFO] 2024-01-04 17:18:33,651 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:18:33,651 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:18:33,651 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:18:33,907 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:18:33,920 [main.py:24, <module>] post file is D:\YingKe/pdf_files/3.pdf
+[INFO] 2024-01-04 17:18:33,920 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:18:33,921 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:18:33,921 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:18:34,585 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:18:34,588 [main.py:24, <module>] post file is D:\YingKe/pdf_files/3.txt
+[INFO] 2024-01-04 17:18:34,588 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:18:34,588 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:18:34,589 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:18:34,873 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:18:34,875 [main.py:24, <module>] post file is D:\YingKe/pdf_files/4.pdf
+[INFO] 2024-01-04 17:18:34,875 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:18:34,876 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:18:34,876 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:18:35,475 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:18:35,477 [main.py:24, <module>] post file is D:\YingKe/pdf_files/4.txt
+[INFO] 2024-01-04 17:18:35,477 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:18:35,478 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:18:35,478 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:18:35,752 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:18:35,755 [main.py:24, <module>] post file is D:\YingKe/pdf_files/5.pdf
+[INFO] 2024-01-04 17:18:35,755 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:18:35,756 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:18:35,756 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:18:36,402 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:18:36,405 [main.py:24, <module>] post file is D:\YingKe/pdf_files/5.txt
+[INFO] 2024-01-04 17:18:36,405 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:18:36,405 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:18:36,406 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:18:36,688 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:18:36,701 [main.py:24, <module>] post file is D:\YingKe/pdf_files/6.pdf
+[INFO] 2024-01-04 17:18:36,702 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:18:36,702 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:18:36,702 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:18:37,641 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:18:37,643 [main.py:24, <module>] post file is D:\YingKe/pdf_files/6.txt
+[INFO] 2024-01-04 17:18:37,644 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:18:37,644 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:18:37,644 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:18:37,927 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:18:37,942 [main.py:24, <module>] post file is D:\YingKe/pdf_files/7.pdf
+[INFO] 2024-01-04 17:18:37,942 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:18:37,942 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:18:37,942 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:18:38,681 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:18:38,684 [main.py:24, <module>] post file is D:\YingKe/pdf_files/7.txt
+[INFO] 2024-01-04 17:18:38,684 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:18:38,684 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:18:38,685 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:18:38,964 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:18:38,966 [main.py:24, <module>] post file is D:\YingKe/pdf_files/8.pdf
+[INFO] 2024-01-04 17:18:38,966 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:18:38,966 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:18:38,966 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:18:39,711 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:18:39,716 [main.py:24, <module>] post file is D:\YingKe/pdf_files/8.txt
+[INFO] 2024-01-04 17:18:39,716 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:18:39,716 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:18:39,717 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:18:39,991 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:07,775 [main.py:17, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:21:07,775 [main.py:24, <module>] post file is D:\YingKe/pdf_files/1.html
+[INFO] 2024-01-04 17:21:07,777 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:07,777 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:07,777 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:08,046 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:08,048 [main.py:24, <module>] post file is D:\YingKe/pdf_files/1.pdf
+[INFO] 2024-01-04 17:21:08,048 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:08,048 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:08,048 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:08,709 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:08,711 [main.py:24, <module>] post file is D:\YingKe/pdf_files/1.txt
+[INFO] 2024-01-04 17:21:08,711 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:08,711 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:08,711 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:08,966 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:08,979 [main.py:24, <module>] post file is D:\YingKe/pdf_files/2.html
+[INFO] 2024-01-04 17:21:08,979 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:08,979 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:08,980 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:09,229 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:09,242 [main.py:24, <module>] post file is D:\YingKe/pdf_files/2.pdf
+[INFO] 2024-01-04 17:21:09,243 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:09,243 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:09,243 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:09,839 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:09,841 [main.py:24, <module>] post file is D:\YingKe/pdf_files/2.txt
+[INFO] 2024-01-04 17:21:09,842 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:09,842 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:09,842 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:10,081 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:10,094 [main.py:24, <module>] post file is D:\YingKe/pdf_files/3.html
+[INFO] 2024-01-04 17:21:10,095 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:10,095 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:10,095 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:10,373 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:10,385 [main.py:24, <module>] post file is D:\YingKe/pdf_files/3.pdf
+[INFO] 2024-01-04 17:21:10,385 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:10,386 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:10,386 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:11,015 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:11,017 [main.py:24, <module>] post file is D:\YingKe/pdf_files/3.txt
+[INFO] 2024-01-04 17:21:11,017 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:11,018 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:11,018 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:11,272 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:11,285 [main.py:24, <module>] post file is D:\YingKe/pdf_files/4.html
+[INFO] 2024-01-04 17:21:11,285 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:11,286 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:11,286 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:11,542 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:11,554 [main.py:24, <module>] post file is D:\YingKe/pdf_files/4.pdf
+[INFO] 2024-01-04 17:21:11,555 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:11,555 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:11,555 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:12,059 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:12,062 [main.py:24, <module>] post file is D:\YingKe/pdf_files/4.txt
+[INFO] 2024-01-04 17:21:12,062 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:12,062 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:12,063 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:12,304 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:12,316 [main.py:24, <module>] post file is D:\YingKe/pdf_files/5.html
+[INFO] 2024-01-04 17:21:12,316 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:12,316 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:12,316 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:12,580 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:12,592 [main.py:24, <module>] post file is D:\YingKe/pdf_files/5.pdf
+[INFO] 2024-01-04 17:21:12,593 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:12,593 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:12,593 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:13,131 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:13,133 [main.py:24, <module>] post file is D:\YingKe/pdf_files/5.txt
+[INFO] 2024-01-04 17:21:13,133 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:13,134 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:13,134 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:13,387 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:13,400 [main.py:24, <module>] post file is D:\YingKe/pdf_files/6.html
+[INFO] 2024-01-04 17:21:13,400 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:13,401 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:13,401 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:13,650 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:13,664 [main.py:24, <module>] post file is D:\YingKe/pdf_files/6.pdf
+[INFO] 2024-01-04 17:21:13,664 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:13,664 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:13,664 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:14,550 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:14,553 [main.py:24, <module>] post file is D:\YingKe/pdf_files/6.txt
+[INFO] 2024-01-04 17:21:14,553 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:14,554 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:14,554 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:14,835 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:14,838 [main.py:24, <module>] post file is D:\YingKe/pdf_files/7.html
+[INFO] 2024-01-04 17:21:14,838 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:14,838 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:14,838 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:15,114 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:15,127 [main.py:24, <module>] post file is D:\YingKe/pdf_files/7.pdf
+[INFO] 2024-01-04 17:21:15,127 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:15,128 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:15,128 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:15,866 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:15,869 [main.py:24, <module>] post file is D:\YingKe/pdf_files/7.txt
+[INFO] 2024-01-04 17:21:15,869 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:15,869 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:15,870 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:16,140 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:16,154 [main.py:24, <module>] post file is D:\YingKe/pdf_files/8.html
+[INFO] 2024-01-04 17:21:16,155 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:16,155 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:16,156 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:16,418 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:16,432 [main.py:24, <module>] post file is D:\YingKe/pdf_files/8.pdf
+[INFO] 2024-01-04 17:21:16,433 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:16,433 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:16,433 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:17,139 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:21:17,141 [main.py:24, <module>] post file is D:\YingKe/pdf_files/8.txt
+[INFO] 2024-01-04 17:21:17,142 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:21:17,142 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:21:17,142 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:21:17,414 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:12,188 [main.py:17, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:22:12,188 [main.py:24, <module>] post file is D:\YingKe/pdf_files/1.html
+[INFO] 2024-01-04 17:22:12,188 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:12,189 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:12,189 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:12,441 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:12,454 [main.py:24, <module>] post file is D:\YingKe/pdf_files/1.pdf
+[INFO] 2024-01-04 17:22:12,454 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:12,454 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:12,455 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:13,192 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:13,194 [main.py:24, <module>] post file is D:\YingKe/pdf_files/1.txt
+[INFO] 2024-01-04 17:22:13,194 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:13,194 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:13,194 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:13,494 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:13,507 [main.py:24, <module>] post file is D:\YingKe/pdf_files/2.html
+[INFO] 2024-01-04 17:22:13,507 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:13,507 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:13,508 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:13,792 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:13,801 [main.py:24, <module>] post file is D:\YingKe/pdf_files/2.pdf
+[INFO] 2024-01-04 17:22:13,802 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:13,802 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:13,802 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:14,521 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:14,523 [main.py:24, <module>] post file is D:\YingKe/pdf_files/2.txt
+[INFO] 2024-01-04 17:22:14,523 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:14,523 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:14,524 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:14,815 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:14,827 [main.py:24, <module>] post file is D:\YingKe/pdf_files/3.html
+[INFO] 2024-01-04 17:22:14,828 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:14,828 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:14,828 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:15,141 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:15,143 [main.py:24, <module>] post file is D:\YingKe/pdf_files/3.pdf
+[INFO] 2024-01-04 17:22:15,144 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:15,144 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:15,144 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:15,864 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:15,867 [main.py:24, <module>] post file is D:\YingKe/pdf_files/3.txt
+[INFO] 2024-01-04 17:22:15,868 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:15,868 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:15,868 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:16,153 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:16,166 [main.py:24, <module>] post file is D:\YingKe/pdf_files/4.html
+[INFO] 2024-01-04 17:22:16,166 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:16,166 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:16,167 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:16,466 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:16,468 [main.py:24, <module>] post file is D:\YingKe/pdf_files/4.pdf
+[INFO] 2024-01-04 17:22:16,469 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:16,469 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:16,469 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:17,080 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:17,082 [main.py:24, <module>] post file is D:\YingKe/pdf_files/4.txt
+[INFO] 2024-01-04 17:22:17,083 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:17,083 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:17,083 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:17,361 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:17,374 [main.py:24, <module>] post file is D:\YingKe/pdf_files/5.html
+[INFO] 2024-01-04 17:22:17,374 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:17,374 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:17,374 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:17,658 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:17,672 [main.py:24, <module>] post file is D:\YingKe/pdf_files/5.pdf
+[INFO] 2024-01-04 17:22:17,672 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:17,672 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:17,673 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:18,306 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:18,308 [main.py:24, <module>] post file is D:\YingKe/pdf_files/5.txt
+[INFO] 2024-01-04 17:22:18,308 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:18,309 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:18,309 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:18,596 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:18,609 [main.py:24, <module>] post file is D:\YingKe/pdf_files/6.html
+[INFO] 2024-01-04 17:22:18,609 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:18,609 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:18,610 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:18,895 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:18,908 [main.py:24, <module>] post file is D:\YingKe/pdf_files/6.pdf
+[INFO] 2024-01-04 17:22:18,908 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:18,909 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:18,909 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:19,846 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:19,847 [main.py:24, <module>] post file is D:\YingKe/pdf_files/6.txt
+[INFO] 2024-01-04 17:22:19,848 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:19,848 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:19,848 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:20,141 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:20,154 [main.py:24, <module>] post file is D:\YingKe/pdf_files/7.html
+[INFO] 2024-01-04 17:22:20,155 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:20,155 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:20,155 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:20,469 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:20,482 [main.py:24, <module>] post file is D:\YingKe/pdf_files/7.pdf
+[INFO] 2024-01-04 17:22:20,483 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:20,483 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:20,483 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:21,243 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:21,245 [main.py:24, <module>] post file is D:\YingKe/pdf_files/7.txt
+[INFO] 2024-01-04 17:22:21,245 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:21,245 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:21,246 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:21,549 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:21,561 [main.py:24, <module>] post file is D:\YingKe/pdf_files/8.html
+[INFO] 2024-01-04 17:22:21,562 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:21,562 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:21,562 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:21,853 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:21,855 [main.py:24, <module>] post file is D:\YingKe/pdf_files/8.pdf
+[INFO] 2024-01-04 17:22:21,855 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:21,856 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:21,856 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:22,588 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:22:22,589 [main.py:24, <module>] post file is D:\YingKe/pdf_files/8.txt
+[INFO] 2024-01-04 17:22:22,590 [main.py:28, <module>] D:\YingKe
+[INFO] 2024-01-04 17:22:22,590 [main.py:30, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:22:22,590 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:22:22,869 [main.py:32, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:35:04,455 [main.py:18, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:35:04,455 [main.py:26, <module>] post file is D:\YingKe/pdf_files/1.html
+[INFO] 2024-01-04 17:35:04,456 [main.py:30, <module>] D:\YingKe
+[INFO] 2024-01-04 17:35:04,456 [main.py:32, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:35:04,456 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:36:10,069 [main.py:18, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:36:10,070 [main.py:26, <module>] post file is D:\YingKe/pdf_files/1.html
+[INFO] 2024-01-04 17:36:10,070 [main.py:30, <module>] D:\YingKe
+[INFO] 2024-01-04 17:36:10,070 [main.py:32, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:36:10,070 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:36:10,315 [main.py:34, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:36:10,328 [main.py:26, <module>] post file is D:\YingKe/pdf_files/1.pdf
+[INFO] 2024-01-04 17:36:10,329 [main.py:30, <module>] D:\YingKe
+[INFO] 2024-01-04 17:36:10,329 [main.py:32, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:36:10,329 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:36:10,574 [main.py:34, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:36:10,587 [main.py:26, <module>] post file is D:\YingKe/pdf_files/2.pdf
+[INFO] 2024-01-04 17:36:10,587 [main.py:30, <module>] D:\YingKe
+[INFO] 2024-01-04 17:36:10,587 [main.py:32, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:36:10,588 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:36:50,660 [main.py:18, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:36:50,661 [main.py:26, <module>] post file is D:\YingKe/pdf_files/1.html
+[INFO] 2024-01-04 17:36:50,661 [main.py:30, <module>] D:\YingKe
+[INFO] 2024-01-04 17:36:50,661 [main.py:32, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:36:50,661 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:38:15,259 [main.py:18, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:38:15,260 [main.py:28, <module>] post file is D:\YingKe/pdf_files/1.html
+[INFO] 2024-01-04 17:38:15,260 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:38:15,260 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:38:15,260 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:39:51,352 [main.py:18, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:39:51,353 [main.py:28, <module>] post file is D:\YingKe/pdf_files/1.pdf
+[INFO] 2024-01-04 17:39:51,353 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:39:51,353 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:39:51,353 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:39:52,031 [main.py:36, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:39:52,033 [main.py:28, <module>] post file is D:\YingKe/pdf_files/2.pdf
+[INFO] 2024-01-04 17:39:52,034 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:39:52,034 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:39:52,034 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:39:52,693 [main.py:36, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:39:52,696 [main.py:28, <module>] post file is D:\YingKe/pdf_files/3.pdf
+[INFO] 2024-01-04 17:39:52,696 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:39:52,696 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:39:52,697 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:39:53,347 [main.py:36, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:39:53,350 [main.py:28, <module>] post file is D:\YingKe/pdf_files/4.pdf
+[INFO] 2024-01-04 17:39:53,350 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:39:53,350 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:39:53,350 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:39:53,892 [main.py:36, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:39:53,894 [main.py:28, <module>] post file is D:\YingKe/pdf_files/5.pdf
+[INFO] 2024-01-04 17:39:53,895 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:39:53,895 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:39:53,895 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:39:54,452 [main.py:36, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:39:54,455 [main.py:28, <module>] post file is D:\YingKe/pdf_files/6.pdf
+[INFO] 2024-01-04 17:39:54,456 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:39:54,456 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:39:54,456 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:39:55,292 [main.py:36, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:39:55,294 [main.py:28, <module>] post file is D:\YingKe/pdf_files/7.pdf
+[INFO] 2024-01-04 17:39:55,295 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:39:55,295 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:39:55,295 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:39:55,955 [main.py:36, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:39:55,958 [main.py:28, <module>] post file is D:\YingKe/pdf_files/8.pdf
+[INFO] 2024-01-04 17:39:55,958 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:39:55,958 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:39:55,958 [extract_txt.py:16, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:39:56,651 [main.py:36, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:44:09,128 [main.py:18, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:44:09,128 [main.py:28, <module>] post file is D:\YingKe/pdf_files/1.pdf
+[INFO] 2024-01-04 17:44:09,129 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:44:09,129 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:44:09,129 [extract_txt.py:17, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:44:57,384 [main.py:18, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:44:57,385 [main.py:28, <module>] post file is D:\YingKe/pdf_files/1.pdf
+[INFO] 2024-01-04 17:44:57,385 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:44:57,385 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:44:57,385 [extract_txt.py:17, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:44:58,102 [main.py:36, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:45:24,842 [main.py:18, <module>] --------------------------start process-------------------------------
+[INFO] 2024-01-04 17:45:24,842 [main.py:28, <module>] post file is D:\YingKe/pdf_files/1.pdf
+[INFO] 2024-01-04 17:45:24,842 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:45:24,843 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:45:24,843 [extract_txt.py:17, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:45:25,553 [main.py:36, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:45:25,556 [main.py:28, <module>] post file is D:\YingKe/pdf_files/2.pdf
+[INFO] 2024-01-04 17:45:25,556 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:45:25,556 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:45:25,557 [extract_txt.py:17, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:45:26,183 [main.py:36, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:45:26,186 [main.py:28, <module>] post file is D:\YingKe/pdf_files/3.pdf
+[INFO] 2024-01-04 17:45:26,187 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:45:26,187 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:45:26,187 [extract_txt.py:17, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:45:26,865 [main.py:36, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:45:26,867 [main.py:28, <module>] post file is D:\YingKe/pdf_files/4.pdf
+[INFO] 2024-01-04 17:45:26,868 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:45:26,868 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:45:26,868 [extract_txt.py:17, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:45:27,405 [main.py:36, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:45:27,408 [main.py:28, <module>] post file is D:\YingKe/pdf_files/5.pdf
+[INFO] 2024-01-04 17:45:27,408 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:45:27,408 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:45:27,408 [extract_txt.py:17, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:45:27,964 [main.py:36, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:45:27,967 [main.py:28, <module>] post file is D:\YingKe/pdf_files/6.pdf
+[INFO] 2024-01-04 17:45:27,968 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:45:27,968 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:45:27,968 [extract_txt.py:17, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:45:28,816 [main.py:36, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:45:28,821 [main.py:28, <module>] post file is D:\YingKe/pdf_files/7.pdf
+[INFO] 2024-01-04 17:45:28,821 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:45:28,821 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:45:28,821 [extract_txt.py:17, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:45:29,500 [main.py:36, <module>] -----------------文件抽取结束--------------------
+[INFO] 2024-01-04 17:45:29,503 [main.py:28, <module>] post file is D:\YingKe/pdf_files/8.pdf
+[INFO] 2024-01-04 17:45:29,503 [main.py:32, <module>] D:\YingKe
+[INFO] 2024-01-04 17:45:29,503 [main.py:34, <module>] -----------------文件抽取开始--------------------
+[INFO] 2024-01-04 17:45:29,503 [extract_txt.py:17, pdfbox_cq] -----------------start method pdfbox_cq--------------------
+[INFO] 2024-01-04 17:45:30,176 [main.py:36, <module>] -----------------文件抽取结束--------------------

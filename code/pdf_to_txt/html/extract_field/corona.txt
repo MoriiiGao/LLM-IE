@@ -1,0 +1,16 @@
+Journal Ref
+Corresponding author
+Corresponding author's affiliation 
+Tittle
+DOI
+Polymer type and information
+Sample preparation method
+Cryatllinity
+Electrostatic Potential Measurement.
+Allignment of Charged PE Film within an Electric Field
+Plasma treatment of  samples
+Instrument and/or method for testing Surface chemical composition
+Instrument and/or method for measuring contact angles
+Contact angle variation with aging
+The Electrostatic Potential of PE pieces after corona treatments 
+morphological changes after corona treatments

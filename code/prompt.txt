@@ -1,0 +1,44 @@
+#Prompt 1:
+Please extract the field information from the above context in the following table(two column) form: 
+Journal
+DOI
+Corresponding author
+Corresponding author's affiliation
+Title	
+Polymer type and information
+Orientation
+Crystallinity
+chain structure
+Filler information
+Filler content
+Filler treatment
+Filler orientation
+Sample preparation method
+An instrument or method for testing thermal conductivity
+Thermal conductivity
+
+
+#prompt 2:
+
+Please extract field information from the above paper content, requiring:
+1. If there is no relevant information about the field in the text, fill in/for that field;
+2. If relevant information about a field appears in the text, you don't need to summarize it. You can simply extract the four sentences above and below the text where the field is located;
+3. Require to display in a table format, with two columns, one for the field and the other for the original content;
+4. The fields to be extracted include:
+
+Journal Ref
+DOI
+Corresponding author
+Corresponding author's affiliation
+Title	
+Polymer type and information
+Orientation
+Crystallinity
+chain structure
+Filler information
+Filler content
+Filler treatment
+Filler orientation
+Sample preparation method
+An instrument or method for testing thermal conductivity
+Thermal conductivity

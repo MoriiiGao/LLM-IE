@@ -1,0 +1,966 @@
+This article was downloaded by: [Chulalongkorn University] On:  3 January 2 15, At: 16:42 Publisher: Taylor & Francis Informa Ltd Registered in England and Wales Registered Number: 1 72954 Registered office: Mortimer House, 37-41 Mortimer Street, London W1T 3JH, UK
+
+
+Journal of Adhesion Science and Technology Publication details, including instructions for authors and subscription information: http://www.tandfonline.com/loi/tast2  
+Aging behavior of oxygen plasma- treated polypropylene with different crystallinities Yo Il Yun , Kwang Soo Kim , Sung-Jin Uhm , Bhanu Bhusan Khatua , Kilwon Cho , Jin Kon Kim & Chan Eon Park Published online:  2 Apr 2 12. 
+To cite this article: Yo Il Yun , Kwang Soo Kim , Sung-Jin Uhm , Bhanu Bhusan Khatua , Kilwon Cho , Jin Kon Kim & Chan Eon Park (2  4) Aging behavior of oxygen plasma-treated polypropylene with different crystallinities, Journal of Adhesion Science and Technology, 18:11, 1279-1291, DOI: 1 .1163/1568561 415882   
+To link to this article:  http://dx.doi.org/1 .1163/1568561 415882   
+PLEASE SCROLL DOWN FOR ARTICLE
+
+
+Taylor & Francis makes every effort to ensure the accuracy of all the information (the “Content”) contained in the publications on our platform. However, Taylor & Francis, our agents, and our licensors make no representations or warranties whatsoever as to the accuracy, completeness, or suitability for any purpose of the Content. Any opinions and views expressed in this publication are the opinions and views of the authors, and are not the views of or endorsed by Taylor & Francis. The accuracy of the Content should not be relied upon and should be independently verified with primary sources of information. Taylor and Francis shall not be liable for any losses, actions, claims, proceedings, demands, costs, expenses, damages, and other liabilities whatsoever or howsoever caused arising directly or indirectly in connection with, in relation to or arising out of the use of the Content.
+
+
+This article may be used for research, teaching, and private study purposes. Any substantial or systematic reproduction, redistribution, reselling, loan, sub-licensing, systematic supply, or distribution in any form to anyone is expressly forbidden. Terms & Conditions of access and use can be found at http://www.tandfonline.com/page/ terms-and-conditions
+
+
+J. Adhesion Sci. Technol., Vol. 18, No. 11, pp. 1279–1291 (2  4)  VSP 2  4. Also available online - www.vsppub.com
+
+
+Aging behavior of oxygen plasma-treated polypropylene with different crystallinities
+
+
+YO IL YUN, KWANG SOO KIM, SUNG-JIN UHM, BHANU BHUSAN KHATUA, KILWON CHO, JIN KON KIM and CHAN EON PARK ∗
+
+
+Polymer Research Institute, Department of Chemical Engineering, Pohang University of Science and Technology, Pohang, 79 -784, South Korea
+
+
+Received in final form 21 June 2  4 
+Abstract—Oxygen plasma-treated quenched and annealed polypropylene (PP) films with different crystallinities were investigated to characterize the surface rearrangement behavior during aging using contact-angle measurements and X-ray photoelectron spectroscopy. Optimum plasma conditions were examined by varying the power, time and pressure. Less crystalline quenched PP showed a larger increase in water contact angle and a larger decrease of oxygen atomic concentration during aging than the more crystalline annealed PP, since the oxygen species, such as hydroxyl groups, introduced by oxygen plasma treatment, oriented towards or diffused faster into the bulk with lower crystallinity. The degree of crosslinking on the surface was enhanced after plasma treatment and, in addition to increased crystallinity, the crosslinked structure induced by plasma treatment restricted chain mobility and lowered the aging rate of the PP surface.
+
+
+Keywords: Plasma treatment; aging; surface rearrangement.
+
+
+1. INTRODUCTION
+
+
+Although polypropylene (PP) possesses good mechanical and chemical properties, its use has been restricted in various applications owing to its low surface energy. The interest in plasma modification of polymer surfaces has gradually increased in the plastics industry for the last 3  years, since it can improve, e.g. the wettability, adhesion, biocompatibility and printability [1–5]. Moreover, plasma treatment can be carried out within only a few nanometers of the surface without altering the bulk properties of the polymer.
+
+
+∗To whom correspondence should be addressed. Tel.: (82-54) 279-2269. Fax: (82-54) 279-8298. E-mail: cep@postech.ac.kr
+
+
+D ow
+
+
+nl oa
+
+
+de d
+
+
+by [
+
+
+C hu
+
+
+la lo
+
+
+ng ko
+
+
+rn U
+
+
+ni ve
+
+
+rs ity
+
+
+] at
+
+
+1 6:
+
+
+42  
+
+
+3 Ja
+
+
+nu ar
+
+
+y 2 
+
+
+15
+
+
+128  Y. I. Yun et al.
+
+
+Although the plasma treatment of polymers has become a mature technology, research aimed at understanding the aging behavior of treated surfaces with time of storage is still continuing. Enhanced hydrophilicity of the PP surface can be obtained from hydrophilic functional groups, such as hydroxyl, which can be introduced by oxygen plasma treatment. However, a commonly observed and troublesome phenomenon is the deterioration of the beneficial surface properties (hydrophilicity) with aging. Such an effect is easily manifested in contact-angle measurements where one observes an increase in contact angle on long-term storage. It has been suggested that this hydrophobic recovery is mainly due to two processes [2, 5–7]: reorientation of polar chemical groups towards the bulk of the material to reduce the surface energy, and the other is the diffusion of polar chemical groups in the polymer matrix.
+
+
+This aging behavior is usually strongly affected by environmental conditions. High temperature helps the polymer chain to move freely and accelerate the surface rearrangement. On the other hand, in a high humidity, the water molecules are adsorbed on the hydrophilic surface and these water molecules disturb the rotation or diffusion of polar groups [1, 2, 6].
+
+
+The surface rearrangement due to reorientation and diffusion at the surface can be reduced by limiting the mobility of polymer chains. The chain mobility mainly occurs in an amorphous region and the mobility in a crystalline region is fairly limited because of an orderly packed structure [8–11]. With highly crystalline polymers, hydrophobic recovery would be reduced because the highly restricted chain mobility in the crystalline region would hinder the rotational and translational motions in the surface region after plasma treatment. Thus the restricted chain mobility decreases the aging rate of the hydrophilic surface with a crystalline polymer.
+
+
+The surface changes after plasma treatment were investigated using X-ray pho- toelectron spectroscopy (XPS) and contact-angle measurements. The effect of crystallinity on aging was studied with quenched and annealed PP. The degree of crosslinking was examined after plasma treatment by measuring the gel content and the effect of crosslink density on aging was also investigated.
+
+
+2. EXPERIMENTAL
+
+
+2.1. Materials
+
+
+Isotactic polypropylene (PP, Mw 25     ) was supplied in the form of pellets by Daehan Yuwha (Ulsan, South Korea). These pellets were pressed and formed into thin sheets ( .5 mm) on stainless steel plates at 22 ◦C for 1  min with a mould force of 5  kN. The molded sheets were then cleaned thoroughly in an ultrasonicator using a 1 : 1 ethanol/water mixture for 2  min, dried using compressed air and stored in a vacuum desiccator with 2 % RH at room temperature.
+
+
+D ow
+
+
+nl oa
+
+
+de d
+
+
+by [
+
+
+C hu
+
+
+la lo
+
+
+ng ko
+
+
+rn U
+
+
+ni ve
+
+
+rs ity
+
+
+] at
+
+
+1 6:
+
+
+42  
+
+
+3 Ja
+
+
+nu ar
+
+
+y 2 
+
+
+15
+
+
+Aging behavior of oxygen plasma-treated PP with different crystallinities 1281 
+2.2. Methods
+
+
+2.2.1. Determination of crystallinity. The crystallization process was conducted after molding the PP samples. To prepare low-crystallinity PP, molten PP films im- mediately after molding were quenched into liquid nitrogen to reduce crystalliza- tion of the polymer. Thermal treatment for a long time (24 h) at high temperature (145◦C) was carried out to increase the degree of crystallinity. The crystallinity of the above two PP samples was determined by differential scanning calorimetry (DSC) according to the standard procedure mentioned in the literature [12]. The empirical heat of fusion for 1  % crystalline PP was set at 187 J/g [13]. The crys- tallinity was also obtained by wide-angle X-ray scattering spectra from X-ray dif- fraction (XRD). As the crystallinity determined from DSC or XRD does not repre- sent surface crystallinity, so surface crystallinity was determined using the grazing incident angle X-ray diffraction (GIXD) at 8C1 beamline of PAL (Pohang Accelera- tion Laboratory). An incident angle of  .1◦ was selected for GIXD and the depth of penetration (τ ) at  .1◦ grazing angle was calculated to be 1   nm from the following equation [14]:
+
+
+τ = sin2 θ − sin2 ψ
+
+
+2µ sin θ cos ψ (α = θ + ψ), (1) 
+where α is the angle of incidence, θ is one-half the scattering angle, ψ is the tilt angle and µ is the linear absorption coefficient. The crystallinities of quenched and annealed PP obtained from DSC, XRD and GIXD are shown in Table 1. 
+2.2.2. Plasma treatment of PP samples. Cleaned PP samples were treated with oxygen plasma using a home-made capacitively-coupled plasma generator operating at 13.56 MHz. To obtain the optimum conditions (power, time and pressure), plasma-generating conditions were varied and the following optimum conditions were selected from the results of water contact-angle measurements: power, pressure and treatment time of 11  W, 3.33 Pa (2.5 × 1 −2 Torr) and 6  s, respectively. Following the plasma treatment, the samples were washed ultrasonically in a 1 : 1 ethanol/water mixture to remove the low-molecular-weight
+
+
+Table 1. Crystallnity (%) of PP obtained using DSC, XRD and GIXD
+
+
+DSCa XRDb GIXDb
+
+
+Quenched PP 47.62 41.34 1 .27 Annealed PP 59.31 52.13 2 .12 
+a Crystallinity was calculated by dividing the melting enthalpy by the fusion energy of 1  % crystalline PP, 187 J/g.
+
+
+b Crystallinity was calculated from the areas under the amorphous and crystalline peaks in XRD and GIXD spectra [15].
+
+
+D ow
+
+
+nl oa
+
+
+de d
+
+
+by [
+
+
+C hu
+
+
+la lo
+
+
+ng ko
+
+
+rn U
+
+
+ni ve
+
+
+rs ity
+
+
+] at
+
+
+1 6:
+
+
+42  
+
+
+3 Ja
+
+
+nu ar
+
+
+y 2 
+
+
+15
+
+
+1282 Y. I. Yun et al.
+
+
+Figure 1. Schematic diagram of contact-angle measurement cell in water environment.
+
+
+materials generated from chain scission and then dried. For the aging studies, the samples were stored in desiccators for 3  days.
+
+
+2.2.3. Contact-angle measurements. Contact-angle measurements on the plasma-treated samples were performed at ambient temperature by the sessile drop method with a contact-angle goniometer (CA-A, Kyowa Surface Science, Japan). The equilibrium contact angle of water on untreated PP was found to be 1  ◦. An average of at least six readings was reported in each case. The error limit in the measurement of contact angle was around ± .5◦. The contact angle of n-octane in water was measured using the transparent glass cell and doubly bent needle as shown in Fig. 1 to investigate the change in PP surfaces in the water environment.
+
+
+2.2.4. XPS analysis. The chemical surface atomic composition of plasma-treated polymer samples was investigated by XPS. The measurements were performed with a Perkin-Elmer PHI-54   Photoelectron Spectrometer using Mg Kα X-ray source (1253.6 eV, 35  W). The C1s and O1s spectra of the samples were recorded with  .2 eV interval energy. The C1s spectra of the untreated and oxygen plasma-treated quenched PP are shown in Fig. 2. The operating pressure during analysis was in the range of 1 −9 Torr. Angle-resolved XPS measurements were carried out at take-off angles of 2 ◦ (3.4 nm depth) and 9 ◦ (1  nm depth) for depth profiling of the treated surfaces both before and after aging, and sampling depth for each take-off angle was calculated from equation (2) [1, 16, 17]:
+
+
+ζ = 3λ sin θ, (2) 
+where ζ is the sampling depth, λ is the inelastic mean free path (IMFP) and θ is the take-off angle. The mean free path of photoelectrons emitted from the samples was calculated using equation (3):
+
+
+λ =  .11ρ−1E .5 k , (3) 
+D ow
+
+
+nl oa
+
+
+de d
+
+
+by [
+
+
+C hu
+
+
+la lo
+
+
+ng ko
+
+
+rn U
+
+
+ni ve
+
+
+rs ity
+
+
+] at
+
+
+1 6:
+
+
+42  
+
+
+3 Ja
+
+
+nu ar
+
+
+y 2 
+
+
+15
+
+
+Aging behavior of oxygen plasma-treated PP with different crystallinities 1283 
+(a)
+
+
+(b)
+
+
+Figure 2. C1s XPS spectra of (a) untreated and (b) oxygen plasma-treated quenched PP. The subpeaks revealed oxygen containing carbon species.
+
+
+where ρ is the density of polymer (PP =  .9 g/cm3) and Ek is the kinetic energy of photoelectron. Initial XPS analysis was carried out 2 h after plasma treatment because it took 2 h to stabilize the pressure (below 1 −9 Torr) in the main chamber. C1s and O1s spectra were obtained after 1, 2, 13 and 3  days to observe the decay of oxygen containing species on the surface. Atomic concentration of oxygen (Coxygen) was calculated from respective peak areas of assumed Gaussian–Lorentzian curves using the following equation:
+
+
+Coxygen = Aoxygen/Soxygen
+
+
+Aoxygen/Soxygen + Acarbon/Scarbon × 1  . (4) 
+D ow
+
+
+nl oa
+
+
+de d
+
+
+by [
+
+
+C hu
+
+
+la lo
+
+
+ng ko
+
+
+rn U
+
+
+ni ve
+
+
+rs ity
+
+
+] at
+
+
+1 6:
+
+
+42  
+
+
+3 Ja
+
+
+nu ar
+
+
+y 2 
+
+
+15
+
+
+1284 Y. I. Yun et al.
+
+
+The carbon (Acarbon) and oxygen (Aoxygen) areas were calculated using the PC software, ‘PeakFit’, and the atomic sensitivity factors (S) based on peak area measurement were taken as  .296 for C1s and  .711 for O1s to normalize the intensities of the signals [18].
+
+
+2.2.5. Measurement of gel content. Gel content was measured before and after oxygen plasma treatment. PP films trapped in the mesh basket made of stainless steel wire were dissolved in hot naphthalene (17 ◦C) for 12 h according to ASTM D 2765. The residual weight of PP in the mesh was measured, and since this residue was mainly from the crosslinked structures, the degree of crosslinking was determined from the gel content.
+
+
+3. RESULTS AND DISCUSSION
+
+
+3.1. Plasma process conditions
+
+
+Power, time and pressure are important factors which affect the hydrophilicity of polymer samples, because the density and the energy of ions impinging on the sample surface depend on these parameters [19–21]. Figure 3 shows the water contact angles on oxygen plasma-treated PP under various treatment powers and times at 3.33 Pa. To obtain the lowest water contact angle, meaning the highest
+
+
+Figure 3. Water contact angle on oxygen plasma-treated quenched polypropylene with different Rf powers and treatment times. (") 3  s, (2) 1 min, (Q) 2 min, and (F) 3 min.
+
+
+D ow
+
+
+nl oa
+
+
+de d
+
+
+by [
+
+
+C hu
+
+
+la lo
+
+
+ng ko
+
+
+rn U
+
+
+ni ve
+
+
+rs ity
+
+
+] at
+
+
+1 6:
+
+
+42  
+
+
+3 Ja
+
+
+nu ar
+
+
+y 2 
+
+
+15
+
+
+Aging behavior of oxygen plasma-treated PP with different crystallinities 1285 
+hydrophilicity of surface, a longer time or high power was required. As the treatment time decreased, more power was needed to obtain a water contact angle under 1  degrees. Low power cannot generate high density of ions with an energy higher than the bond energy of C H to generate radicals on the PP surface and, thus, longer treatment time can increase the number of radicals.
+
+
+The effect of pressure on the oxygen plasma treatment of PP is shown in the Fig. 4 with 1   W for 2 min. The water contact angle decreased as the pressure dropped and the lowest water contact angle was observed at 3.33 Pa. At lower chamber pressures, the mean free paths of the ions and electrons are longer, and the ions can strike the surface with a relatively low loss of kinetic energy. At high pressure, however, the intensity of collisions between the ions and the neutral molecules increases, with the particles losing kinetic energy before colliding with the surface, resulting in low generation of radicals [21]. Below the pressure of 3.33 Pa, the water contact angle increased, as shown in the inset of Fig. 4. At too low pressure, the number of particles (neutral molecules) is low and the generation of ions is little, since ions are generated from the collision of electrons with neutral molecules. Even if the ions strike the surface of the polymer without loss of kinetic energy, the number of collisions between the ions and the surface is not high and there are not enough radicals formed on the surfaces.
+
+
+Figure 4. Water contact angle on oxygen plasma-treated quenched PP as a function of plasma chamber pressure.
+
+
+D ow
+
+
+nl oa
+
+
+de d
+
+
+by [
+
+
+C hu
+
+
+la lo
+
+
+ng ko
+
+
+rn U
+
+
+ni ve
+
+
+rs ity
+
+
+] at
+
+
+1 6:
+
+
+42  
+
+
+3 Ja
+
+
+nu ar
+
+
+y 2 
+
+
+15
+
+
+1286 Y. I. Yun et al.
+
+
+From the above experiment, 3.33 Pa pressure, 1 min time and 11  W Rf power were chosen as optimum process conditions and all oxygen plasma treatments were carried out under these conditions.
+
+
+3.2. XPS results
+
+
+The surfaces of the oxygen plasma treated PP samples were characterized with XPS (Fig. 5). Before aging, the oxygen concentration of the surface with 2 ◦ take-off angle (approx. 3.4 nm depth) was 1 % more than that of the surface with 9 ◦ take- off angle (approx. 1  nm). The decrease of oxygen concentration with increasing depth from the surface reveals that reactions of polymer chains with oxygen plasma occurred in a very shallow surface region. For the generation of oxygen species, carbon radicals had to be formed by the accelerated oxygen ions in the plasma and reaction with the molecular oxygen. Since the oxygen ions could not penetrate into the deep surface region and the molecular oxygen could not diffuse into the bulk layer easily, the oxygen concentration of the oxygen plasma-treated PP surface decreased with increasing take-off angle.
+
+
+Annealed PP, having higher crystalline fraction, had lower concentration of atomic oxygen than quenched PP having lower crystalline fraction. The higher degree of oxygenation of the low crystalline sample indicates a greater chemical reactivity of the sample with plasma. It appeared that the reaction intermediates
+
+
+Figure 5. Reduction of oxygen concentration during aging as measured at different photoelectron take-off angles during XPS measurements. (") 2 ◦ take-off angle, quenched PP; (!) 2 ◦ take-off angle, annealed PP; (a) 9 ◦ take-off angle, quenced PP; (e) 9 ◦ take-off angle, annealed PP.
+
+
+D ow
+
+
+nl oa
+
+
+de d
+
+
+by [
+
+
+C hu
+
+
+la lo
+
+
+ng ko
+
+
+rn U
+
+
+ni ve
+
+
+rs ity
+
+
+] at
+
+
+1 6:
+
+
+42  
+
+
+3 Ja
+
+
+nu ar
+
+
+y 2 
+
+
+15
+
+
+Aging behavior of oxygen plasma-treated PP with different crystallinities 1287 
+(mainly the radicals) were relatively more mobile in the polymer matrix having lower crystalline fraction and, hence, are expected to react more easily with the oxygen ions in the plasma [22]. Morra et al. have reported the influence of crystallinity on the plasma modification of the polymer surface [5]. They concluded that higher reactivity of the polymer, having lower crystalline fraction, was due to greater freedom of motion granted by higher percentage of amorphous domains of the polymer.
+
+
+During aging, both quenched and annealed PP samples showed similar decrease of oxygen concentration and the change was not much in the sampling depth of 1  nm (9 ◦ take-off angle). After 3  days of aging there was 8% decrease in oxygen concentration with quenched PP, but only 4% decrease with annealed PP in the sampling depth of 3.4 nm (2 ◦ take-off angle). This represents, that in the surface depth around 3.4 nm, the migration of polar functional groups of the annealed PP is much reduced due to higher crystallinity. Increase in crystallinity hinders the movement of the polymer chains and, therefore, slows down the aging process due to higher structural regularity and lower free volume in the polymer matrix [8, 23].
+
+
+3.3. Contact angle variation with aging
+
+
+As shown in Fig. 6, an increase of water contact angle on oxygen plasma-treated PP was observed during aging in air. The modified hydrophilic polymer surface after oxygen plasma treatment became hydrophobic again to reduce the interfacial free
+
+
+Figure 6. Water contact angle on oxygen plasma treated quenched PP aged in air (2) and n-octane contact angle on PP aged in water (Q). The data before aging represent the contact angles on untreated PP.
+
+
+D ow
+
+
+nl oa
+
+
+de d
+
+
+by [
+
+
+C hu
+
+
+la lo
+
+
+ng ko
+
+
+rn U
+
+
+ni ve
+
+
+rs ity
+
+
+] at
+
+
+1 6:
+
+
+42  
+
+
+3 Ja
+
+
+nu ar
+
+
+y 2 
+
+
+15
+
+
+1288 Y. I. Yun et al.
+
+
+Figure 7. Increase of water contact angle on oxygen plasma-treated PP with different crystallinities as a function of aging time. (") Quenched PP (low crystallinity) and (!) annealed PP (high crystallinity).
+
+
+energy between the surface and its environment. Hydrophilic groups introduced by oxygen plasma treatment oriented towards or diffused into the bulk, and the surface became hydrophobic. In the water condition, however, the surface of oxygen plasma-treated PP was stable, since the difference in interfacial energy was not high. Before oxygen plasma treatment, because PP was originally hydrophobic, the contact angle of n-octane having similar surface energy as PP was low. But the contact angle of n-octane was high after plasma treatment and it stayed constant during aging in the water condition. In water, the hydrophilic groups formed by plasma treatment did not reorient towards or diffuse into the bulk. The slight decrease of contact angle of n-octane after 1 day aging was due to dissolution of low-molecular-weight materials (LMWM) formed by plasma treatment. The loss of LMWM having hydrophilic groups on the surface decreased the surface energy of PP and hence the contact angle of n-octane.
+
+
+From water contact angle measurements the amount of polar groups formed can be estimated in the surface region (depth  .5 nm) after plasma treatment [24, 25]. Although the contact angles on quenched and annealed PP were almost the same (1 ◦) just after plasma treatment, there was more increase with less crystalline, quenched PP during aging, as shown in Fig. 7. The increase was smaller for the more crystalline, annealed PP and the retention of hydrophilicity was also relatively high. The increase of contact angles after aging was interpreted as a result of migration of polar groups away from the surface to the bulk (depth  .5 nm). The
+
+
+D ow
+
+
+nl oa
+
+
+de d
+
+
+by [
+
+
+C hu
+
+
+la lo
+
+
+ng ko
+
+
+rn U
+
+
+ni ve
+
+
+rs ity
+
+
+] at
+
+
+1 6:
+
+
+42  
+
+
+3 Ja
+
+
+nu ar
+
+
+y 2 
+
+
+15
+
+
+Aging behavior of oxygen plasma-treated PP with different crystallinities 1289 
+Table 2. Fraction of immobile polar groups in quenched and annealed PP after oxygen plasma treatment
+
+
+fm a fim
+
+
+b fnp c
+
+
+Quenched PP  .415  .564  . 21 Annealed PP  .344  .628  . 28 
+a Fraction of mobile polar groups. b Fraction of immobile polar groups. c Fraction of non-polar groups, fnp = 1 − fp (fp = fm + fim).
+
+
+sharp increase of contact angle within 24 h was similar to the sharp decay of atomic oxygen concentration determined from XPS in the depth of 3 nm.
+
+
+The fraction of immobile polar groups (fim) was calculated using the equation suggested by Hyun, and the fim values are shown in Table 2 [11]. Chatelier et al. have defined ‘immobile’ polar groups as those that cannot participate in polymer chain motions transporting the polar groups beyond the range of interfacial potentials [24]. The polymer surface with a higher fim persisted to have a low contact angle after long periods of aging due to the restricted polymer chain movement in the well-ordered crystalline region. From the fim value of oxygen plasma-treated PP, it was observed that the amount of immobile polar groups (fim) of annealed PP was higher than those of quenched PP due to higher surface crystallinity. These immobile polar groups with limited movement caused a low rate of decay of oxygen containing species with more crystalline PP in the XPS experiment. The decrease of hydrophobic recovery with the increase of crystallinity is due to the restriction imposed on the loss of polar surface groups by the ordered crystalline environment.
+
+
+3.4. Crosslinking after plasma treatment
+
+
+In spite of the difference in crystallinity more than 1 % between annealed and quenched PP, the more crystalline PP had only 5◦ lower water contact angle and 2% higher oxygen atomic concentration after 3  days aging. Also the fraction of the immobile polar groups of more crystalline PP was not much more than that of less crystalline PP. If the crystallinity was the only factor affecting the mobility of polymer chains, the differences in water contact angle and oxygen atomic concentration between quenched and annealed PP after aging would be much larger. Therefore, we measured the gel content change after oxygen plasma treatment (Table 3), and observed that the degree of crosslinking of less crystalline PP was higher than that of more crystalline PP. Usually the formation of a three-dimensional network is a well-known consequence of a polymer by inert gas plasma treatment, and the reaction mechanisms were illustrated by Poncin-Epaillard and co-workers as shown in Fig. 8 [27, 28]. The combination of radicals obtained after elimination of CH3 could form the crosslinked structure. A higher degree of crosslinking formed in
+
+
+D ow
+
+
+nl oa
+
+
+de d
+
+
+by [
+
+
+C hu
+
+
+la lo
+
+
+ng ko
+
+
+rn U
+
+
+ni ve
+
+
+rs ity
+
+
+] at
+
+
+1 6:
+
+
+42  
+
+
+3 Ja
+
+
+nu ar
+
+
+y 2 
+
+
+15
+
+
+129  Y. I. Yun et al.
+
+
+Table 3. Gel content (%)a of oxygen plasma-treated polypropylene
+
+
+Before plasma treatment After plasma treatment
+
+
+Quenched PP 3.28 ±  .25 16.73 ±  .39 Annealed PP 3.59 ±  .21 12.12 ±  .43 
+a Gel content = (PP remaining after dissolution/PP before dissolution) ×1  . 
+Figure 8. Reaction mechanisms to produce PP crosslinking. (a) Methyl abstraction; (b) double-bond formation.
+
+
+low crystallinity PP limited the mobility of chains and, thus, reduced the difference in surface rearrangements between low and high crystallinity PP.
+
+
+4. CONCLUSIONS
+
+
+The surface rearrangement of polypropylene (PP) having different crystallnities was studied after oxygen plasma treatment using XPS and contact-angle measurements. Less crystalline PP had a higher susceptibility to attack by plasma and had a higher oxygen concentration on the surface because of the more amorphous fraction on its surface. But during aging, the more crystalline PP had lower water contact angle and higher oxygen concentration than the less crystalline PP. The mobility of polar groups was reduced with increase of degree of crystallinity. After oxygen plasma treatment, an enhancement of crosslinking was observed and the crosslinked structure on the surface limited the reorientation and diffusion of polar functional groups into the bulk.
+
+
+Acknowledgements
+
+
+This work was supported by the Korea Research Foundation (Grant No. KRF-2  2-   5-D    8).
+
+
+D ow
+
+
+nl oa
+
+
+de d
+
+
+by [
+
+
+C hu
+
+
+la lo
+
+
+ng ko
+
+
+rn U
+
+
+ni ve
+
+
+rs ity
+
+
+] at
+
+
+1 6:
+
+
+42  
+
+
+3 Ja
+
+
+nu ar
+
+
+y 2 
+
+
+15
+
+
+Aging behavior of oxygen plasma-treated PP with different crystallinities 1291 
+REFERENCES
+
+
+1. C. M. Chan, Polymer Surface Modification and Characterization. Hanser, Munich (1994). 2. C. M. Chan, T. M. Ko and H. Hiraoka, Surf. Sci. Rep. 24, 1–54 (1996). 3. P. Schamberger, J. Abes and J. Gardella, Colloids Surfaces B 3, 2 3–215 (1994). 4. E. M. Liston, L. Martinu and M. R. Wertheimer, J. Adhesion Sci. Technol. 7, 1 91–1128 (1993). 5. M. Morra, E. Occhiello and F. Garbassi, in: Plasma Surface Modification of Polymers:
+
+
+Relevance to Adhesion, M. Strobel, C. S. Lyons and K. L. Mittal (Eds). VSP, Utrecht (1994). 6. S. Wu, Polymer Interface and Adhesion. Marcel Dekker, New York, NY (1982). 7. R. Paynter, Surf. Interf. Anal. 29, 56–64 (2   ). 8. W. J. Brennan, W. J. Feast, H. S. Munro and S. A. Walker, Polymer 32, 1527–153  (1991). 9. T. Murakami, S. Kuroda and Z. Osawa, J. Colloid Interface Sci. 2 2, 37–44 (1998).
+
+
+1 . T. Yasuda, T. Okuno and K. Yoshida, J. Polym. Sci., Part B; Polym. Phys. 26, 1781–1794 (1988). 11. J. Hyun, Polymer 42, 6473–6477 (2  1). 12. M. B. Olde Riekerink, J. G. A. Terlingen, G. H. M. Engbers and J. Feijen, Langmuir 15, 4847– 
+4856 (1999). 13. B. Wunderlich, Macromolecular Physics. Academic Press, New York, NY (1976). 14. N. S. Murthy, C. Bednarczyk and H. Minor, Polymer 41, 277–284 (2   ). 15. J. F. Rabek, Experimental Methods in Polymer Chemistry: Physical Principles and Applications.
+
+
+Wiley, New York, NY (198 ). 16. C. Jama, J. D. Quensierre, L. Gengembre, V. Moineau, J. Grimblot, O. Dessaux and P. Goud-
+
+
+mand, Surf. Interface Anal. 27, 653–658 (1999). 17. D. Briggs and J. C. Riviere, in: Practical Surface Analysis, Vol. 1. Auger and X-ray Photoelectron
+
+
+Spectroscopy, D. Briggs and M. P. Seah (Eds). John Wiley, Chichester (199 ). 18. J. F. Moulder, W. F. Stickle, D. E. Sobol and K. D. Bomben, in: Handbook of X-ray
+
+
+Photoelectron Spectroscopy, J. Chastain and R. C. King, Jr. (Eds). Physical Electronics, Eden Prairie, MN (1995).
+
+
+19. M. A. Lieberman and A. J. Lichtenberg, Principles of Plasma Discharges and Material Processing. John Wiley, New York, NY (1994).
+
+
+2 . B. Chapman, Glow Discharge Processes. John Wiley, New York, NY (198 ). 21. F. Djennas, E. Prack and Y. Matsuda, IEEE Trans. CHMT 16, 919–924 (1993). 22. R. L. Clough, in: Encyclopedia of Polymer Science and Engineering, J. I. Kroschwitz (Ed.),
+
+
+Vol. 6. Wiley, New York, NY (1988). 23. I. Banik, K. S. Kim, Y. I. Yun, D. H. Kim, C. M. Ryu, C. S. Park, G. S. Sur and C. E. Park,
+
+
+Polymer 44, 1163–117  (2  3). 24. R. C. Chatelier, X. Xie, T. R. Gengenbach and H. J. Griesser, Langmuir 11, 2576–2584 (1995). 25. R. C. Chatelier, X. Xie, T. R. Gengenbach and H. J. Griesser, Langmuir 11, 2585–2591 (1995). 26. J. Hyun, P. Barletta, K. Koh, S. Yoo, J. Oh, D. E. Aspnes and J. J. Cuomo, J. Appl. Polym. Sci.
+
+
+77, 1679–1683 (2   ). 27. F. Poncin-Epaillard, B. Chevet and J.-C. Brosse, J. Adhesion Sci. Technol. 8, 455–468 (1994). 28. S. Vallon, B. Drevillon and F. Poncin-Epaillard, Appl. Surf. Sci. 1 8, 177–185 (1997).
+
+
+D ow
+
+
+nl oa
+
+
+de d
+
+
+by [
+
+
+C hu
+
+
+la lo
+
+
+ng ko
+
+
+rn U
+
+
+ni ve
+
+
+rs ity
+
+
+] at
+
+
+1 6:
+
+
+42  
+
+
+3 Ja
+
+
+nu ar
+
+
+y 2 
+
+

@@ -1,0 +1,289 @@
+Title: Structural heterogeneity and evolution in ultrahigh-filled polypropylene/flake graphite composites during injection molding
+
+
+Composites Science and Technology 227 (2 22) 1 959  
+Available online 17 June 2 22  266-3538/© 2 22 Elsevier Ltd. All rights reserved.
+
+
+Structural heterogeneity and evolution in ultrahigh-filled polypropylene/ flake graphite composites during injection molding
+
+
+Huan Cao a, Lijun Ye a,*, Yucong Jin a, Jiayao Wang a,b,c, Jiahui Hong a, Yongjin Li a,**
+
+
+a College of Material, Chemistry and Chemical Engineering, Hangzhou Normal University, No. 2318, Yuhangtang Rd., 311121, Hangzhou, PR China b Shanghai Institute of Applied Physics, Chinese Academy of Sciences, 2 18  , Shanghai, PR China c University of Chinese Academy of Sciences, 1   49, Beijing, PR China
+
+
+A R T I C L E  I N F O
+
+
+Keywords: Ultrahigh-filled polymer composite Structural heterogeneity Thermal conductivity Flake graphite Injection molding
+
+
+A B S T R A C T
+
+
+The structural organization of thermally conductive fillers with large aspect ratios in the polymer matrix is crucial for phonon transmission and heat transfer within polymer composites. However, how asymmetric fillers will response to the flow fields during melt processing especially with ultrahigh loadings is remaining unclear. In this work, the effects of the flow during injection molding on structural development of thermally conductive network in polypropylene/flake graphite (PP/FG) composites were investigated. The results show that an ultrahigh-filled PP/FG composite, namely PP/FG (3 /7 ), exhibit much higher thermal conductivity at the distal end than the proximal end (close to the injection gate). This discrepancy in thermal conductivity of the PP/FG (3 /7 ) composite can be amplified by adding spherical alumina (Al2O3) microparticles with an optimum of 2.5 wt%. The variation of thermal conductivity is attributable to the “heterogeneity” in structural organization of FG along the injection direction. The findings of this work provide new insight that the fountain flow during in- jection molding could induce structural heterogeneity of FG networks within an ultrahigh-filled PP/FG com- posites, due to the inhibited relaxation of FG orientation under a crowded packing.
+
+
+1. Introduction
+
+
+Thermally conductive polymer composites (TCPCs) are of great po- tential to replace conventional metals for tackling heat dissipation issues in industry, due to the lightweight, flexibility and low cost [1–5]. Over the past decades, TCPCs have been widely used not only in modern in- dustry, e.g., heat transfer equipment, but in advanced electronics, including computer chips, logic circuits, etc. [6–11] Incorporating thermally conductive fillers into polymers is regarded as the most economical and effective strategy to prepare polymer composites with superior thermal conductivity [12–15]. Thermally conductive fillers are expected to connect and form a continuous three-dimensional (3D) network in the polymer matrix when the filler loading approaches to the so-called ‘percolation threshold’ [16–18]. The 3D percolated network of thermally conductive fillers facilitates phonon transmission and heat transfer within TCPCs [19–21]. Tremendous efforts have been dedicated to fabricating 3D thermally conductive network, which is dependent of the filler type and size, filling ratio, filler dispersion and interfacial compatibility [22–24].
+
+
+The thermally conductive network of asymmetric fillers has been widely studied within TCPCs as the thermal conductivity of TCPCs is correlated with the orientation and organization of the fillers [25–27]. Luo et al. investigated the effects of magnetic aligned microstructures of hexagonal boron nitride (hBN) platelets on thermal conductivity of sil- icone/hBN composites [26]. The thermal conductivity of the composites with hBN platelets oriented parallel (or perpendicular) to the heat flow direction is observed to be 44.5% higher (37.9% lower) than that of the composites with randomly oriented hBN platelets. Therefore, TCPCs with highly anisotropic thermal conductivity can be obtained by the fine regulation of the orientation of asymmetric fillers [28–32]. Jia et al. aligned flake graphite (FG) vertically within the polymer matrix by 3D printing with a fused depositing mode and achieved a through-plane thermal conductivity (λ⊥) of 5.5 W/m⋅K with 5  wt% of FG [29]. Uetani et al. prepared a type of TCPCs with only 13.2 wt% carbon fibers but a high λ⊥ of 23.3 W/m K by applying electrostatic flocking to create an array of vertically aligned carbon fibers [31]. Notably, the asym- metric fillers tend to horizontally arrange along the flow field during melt processing (e.g., hot pressing, extrusion, injection molding) and the
+
+
+* Corresponding author. ** Corresponding author.
+
+
+E-mail addresses: yelij@hznu.edu.cn (L. Ye), yongjin-li@hznu.edu.cn (Y. Li).
+
+
+Contents lists available at ScienceDirect
+
+
+Composites Science and Technology
+
+
+journal homepage: www.elsevier.com/locate/compscitech
+
+
+https://doi.org/1 .1 16/j.compscitech.2 22.1 959  Received 29 March 2 22; Received in revised form 31 May 2 22; Accepted 1  June 2 22 
+Composites Science and Technology 227 (2 22) 1 959  
+2
+
+
+resultant polymer composites usually exhibit a high in-plane thermal conductivity (λ//) and a limited λ⊥ [33–35]. In the previous work, we found that the addition of spherical alumina (Al2O3) microparticles into polypropylene/flake graphite (PP/FG) composites can effectively mediate the orientation of FG platelets within the PP matrix during hot pressing and therefore increase the λ⊥ of the composites [36].
+
+
+For the asymmetric fillers, most of previous work have been focusing on the TCPCs with moderate loadings (no more than 5  wt%) [37–4 ]. However, TCPCs in real-life applications tend to have an even higher filler loading for a competent thermal conductivity. Melt processing is the most efficient way to make TCPCs into various real-life products. To
+
+
+date, it remains unclear how the flow field during melt processing could affect the structural organization of asymmetric fillers with an ultrahigh loading. In this work, PP/FG composites were chosen as the model TCPC system. The effect of the flow during injection molding on the orienta- tion and organization of FG platelets (especially with an ultrahigh loading of 7  wt%) within the PP matrix was investigated. Due to the large aspect ratio, FG platelets serve as a practical “probe” detecting the heterogeneity of thermally conductive network in the PP matrix. The structure and thermal conductivity of PP/FG composites were carefully evaluated.
+
+
+Fig. 1. Schematic illustration of (a) the injection mold, and (b) the proximal and distal ends, and the λ⊥ of an injected sample.
+
+
+Fig. 2. Real-time infrared thermal images of the samples of PP/FG composites with the varying FG content: (a) neat PP, (b) PP/FG (7 /3 ), (c) PP/FG (5 /5 ), (d) PP/FG (3 /7 ). (e) Time-dependent surface temperature of PP/FG composites (black: neat PP, orange: PP/FG (7 /3 ), blue: PP/FG (5 /5 ), green: PP/FG (3 /7 ), hollow and solid symbols represent the proximal and distal ends, respectively). (f) The λ⊥ of PP/FG samples as a function of the FG content at different positions (green: the proximal end, orange: the distal end). (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)
+
+
+H. Cao et al.
+
+
+Composites Science and Technology 227 (2 22) 1 959  
+3
+
+
+2. Experimental
+
+
+2.1. Materials and sample preparation
+
+
+Polypropylene (PP, AH561) was supplied by Sumitomo Corporation (Japan) with the melt flow index (MFI) of 3.  g/1  min. Flake graphite (FG) was provided by Shanghai Youmo Composite Material Co., Ltd. (China) with an average particle size of ~23 μm and a thickness of ~ .26 μm (the aspect ratio is of the order of 1  ). Alumina (Al2O3) particles with a diameter of 5 μm is purchased from Ya’an Baitu High- tech Materials Co., Ltd (China). The PP/FG composites were prepared by melt blending at 19  ◦C, 5  rpm for 5 min, following a pre-mixing at 2  rpm for 2 min. The strip samples were prepared by melting at 23  ◦C and injecting into a mold with a temperature of 1   ◦C while keeping for 1  s at a pressure of 55  MPa.
+
+
+2.2. Characterizations
+
+
+The surface temperature of injection samples was recorded by an infrared thermograph (FLK FLUKE Ti45 PRO). All samples were placed on a hot plate of 8  ◦C. The thermal conductivity of the samples was measured by a Nano Laser Flash Apparatus (LFA447, NETZSCH). Each sample was measured for 3 times and the average thermal conductivity was calculated. The weight fraction of FG platelets at different positions of the injection samples was measured by a thermal gravimetric analyzer (TGA, TA-Q5  ). The samples were heated from 3  ◦C to 65  ◦C in a N2 atmosphere at a rate of 1  ◦C/min. The crystallinity of the samples at different positions was tested by differential scanning calorimetry (DSC, TA-Q2   ) in a N2 atmosphere. The samples were first heated to 22  ◦C with 1  ◦C/min from 3  ◦C and held isothermally for 5 min to eliminate thermal history. Then, the samples were cooled to 3  ◦C at a heating rate of 1  ◦C/min, followed by heating again to 22  ◦C.
+
+
+Fig. 3. (a) Thermogravimetric analysis (TGA) curves and (b) differential scanning calorimetry (DSC) curves of the samples from the proximal (with a prefix “p”) and distal (with a prefix “d”) position of an injected PP/FG (3 /7 ) sample.
+
+
+Fig. 4. Scanning electron microscopic (SEM) images and wide-angle X-ray diffraction (WAXD) patterns of the cross-section at different positions of PP/FG com- posites. The upper panel: the (a) proximal and (b) distal positions of a PP/FG (7 /3 ) sample. (c) WAXD patterns at different positions of a PP/FG (7 /3 ) sample (dark grey: the proximal, red: the distal). The bottom panel: the (d) proximal and (e) distal positions of a PP/FG (3 /7 ) sample. (f) WAXD patterns at different positions of a PP/FG (3 /7 ) sample. All the images share the same scale bar: 5  μm. (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)
+
+
+H. Cao et al.
+
+
+Composites Science and Technology 227 (2 22) 1 959  
+4
+
+
+The morphology of the cross section of the injected samples was inspected by a scanning electron microscope (SEM, Hitachi S-48  ). The samples were fractured in liquid nitrogen and dried in a 55 ◦C oven for 4 h. The fracture surface was coated with a thin layer of gold by spraying before SEM observation. The evaluation of FG orientation within PP matrix across the whole thickness of samples was carried out by small angle X-ray scattering (SAXS) at beamline of BL16B1 (Shanghai Syn- chrotron Radiation Facility, SSRF). The wavelength of X-ray is  .124 nm, and the sample-detector distance is 198  mm. The scattering signals are collected by the detector (Pilatus3 2M). The degree of FG orientation at the cross-section of PP/FG samples was evaluated using a wide-angle X-ray diffractometer (WAXD, Bruker-D8). The wavelength of Cu-Kα ra- diation filtered by Ni is 1.54 Å. The working voltage and current were 4  kV, and 3  mA, respectively. The scanning speed is set 5 o/min, and the scanning range is 5–5  o.
+
+
+3. Results
+
+
+To investigate the effects of injection flow on the structural organi- zation of asymmetric fillers in a polymer matrix, especially with ultra- high filler loadings, PP/FG composites with 3  wt%, 5  wt%, and 7  wt % of FG platelets were prepared by injection molding (Fig. 1). The samples are denoted PP/FG (7 /3 ), PP/FG (5 /5 ), and PP/FG (3 / 7 ). Fig. 1a shows the injection mold and optical macrograph of an injected PP/FG (3 /7 ) sample. The spline is 8 cm in length, 1 cm in width and  .4 cm in thickness. Fig. 1b illustrates the proximal and distal ends of an injected sample for measuring the through-plane thermal conductivity (λ⊥), which is perpendicular to the injection flow direction.
+
+
+The thermal conductivity of PP/FG composites were first evaluated by measuring the time-dependent surface temperature of the injected samples placed on a hot plate with a temperature of 8  ◦C. Fig. 2a–d shows the real-time infrared images revealing the variation of surface temperature of the injected PP/FG samples. The temperature change of the proximal and distal ends of PP/FG samples with time was plotted in
+
+
+Fig. 5. Small-angle X-ray scattering (SAXS) patterns of PP/FG composites. The upper panel: the (a) proximal, (b) middle, and (c) distal positions of a PP/FG (7 /3 ) sample. The middle panel: the (d) proximal, (e) middle, and (f) distal positions of a PP/FG (5 /5 ) sample. The bottom panel: the (g) proximal, (h) middle, and (i) distal positions of a PP/FG (3 /7 ) sample.
+
+
+H. Cao et al.
+
+
+Composites Science and Technology 227 (2 22) 1 959  
+5
+
+
+Fig. 2e. The rate of temperature rise is accelerated with the increasing of the FG loadings. It is notable that the PP/FG (3 /7 ) sample shows a much faster temperature rise at the distal (solid triangles) end than the proximal end (hollow triangles). This discrepancy becomes insignificant in PP/FG samples with a lower FG loading, i.e., 5  wt%, 3  wt%. The λ⊥ of PP/FG composites was then measured at the proximal and distal positions (Fig. 2f). Both λ⊥ at the proximal and distal ends of PP/FG composites increased with the FG loadings. A position-dependent λ⊥ (the distal end: 6.81 W/m⋅K; and the proximal end: 5.54 W/m⋅K) was observed in the PP/FG (3 /7 ) sample.
+
+
+As the uneven distribution of FG platelets and/or different crystal- lization behaviors of the PP matrix may contribute to the discrepancy in thermal conductivity between the proximal and distal ends [41,42], the weight fraction of FG and the crystallization of PP at the proximal and distal positions of an injected PP/FG (3 /7 ) sample were analyzed. Fig. 3a shows TGA curves of the proximal and distal positions of an injected PP/FG (3 /7 ) sample, respectively. However, no significant difference in residual weight of the composite was observed between the proximal and distal ends. The crystallization behaviors of PP at the proximal and distal positions were then characterized. Fig. 3b shows DSC endotherms of the samples from the proximal and distal ends of an injected PP/FG (3 /7 ) samples. No distinct changes in melting tem- perature (Tm) and crystallinity (Xc) of PP can be discerned (the proximal end: Tm = 166.4 ◦C, Xc = 29.6%; the distal end: Tm = 166.9 ◦C, Xc =
+
+
+28.5%, see Table S1 in Supplementary Data). Moreover, no difference in crystal modifications was observed between the proximal and distal positions of an injected PP/FG (3 /7 ) sample (see Fig. S1 in Supple- mentary Data). Thus, the effects of uneven distribution of FG platelets and crystallization of PP matrix can be excluded.
+
+
+To explore the correlation between the discrepancy of λ⊥ and the
+
+
+heterogeneity of structural organization, the formation of FG networks and orientation of FG platelets at different positions of injected PP/FG samples were investigated. Fig. 4a and b shows the cross-sections of the proximal and distal positions of a PP/FG (7 /3 ) sample, respectively. As a content of 3  wt% is well below the percolation threshold (see Fig. S2 in Supplementary Data), the FG network cannot be distinguished. In contrast, the percolation network of FG platelets can be clearly seen both in the samples from the proximal and distal positions of a PP/FG (3 /7 ) sample (Fig. 4d and e). The degree of FG orientation at the cross-sections of the samples from the proximal and distal positions was then evaluated by WAXD measurements (Fig. 4c, f). The characteristic diffraction peak at 2θ = 26.5◦ is assigned to the (  2) plane of FG stacking [43]. The intensity between the cross-sections of the proximal and distal positions of the PP/FG (7 /3 ) sample is neglectable (Fig. 4c). However, the relative change of intensity between the proximal and distal positions of the PP/FG (3 /7 ) sample is 219% (Fig. 4f). The re- sults imply that structural heterogeneity may account for the position-dependent thermal conductivity of the ultrahigh-filled PP/FG (3 /7 ) composites.
+
+
+To further verify the correlation between the discrepancy in λ⊥ and structural heterogeneity of the PP/FG (3 /7 ) samples after injection molding, SAXS measurements were carried out at the proximal, middle, and distal positions to evaluate the overall orientation of FG within the PP matrix (Fig. 5). The anisotropic 2D scattering patterns imply the orientation of FG platelets within the PP matrix. To evaluate the degree of FG orientation, L1/L2, the ratio between the long and short axes of the ellipse-like scattering patterns was calculated. The higher value of L1/L2, the higher degree of FG orientation. For the PP/FG (7 /3 ) samples, no significant changes of L1/L2 at different positions were observed. A slight decrease of L1/L2 from 1.37 to 1.26 was observed in a 5 /5  sample.
+
+
+Fig. 6. Real-time infrared thermal images the samples of PP/FG/Al2O3 composites with the varying Al2O3 content: (a) 2.5 wt%, (b) 5 wt%, (c) 1  wt%, (d) 2  wt%. The total weight fraction of FG and Al2O3 is kept at 7  wt%. (e) Time-dependent surface temperature of PP/FG/Al2O3 composites with the varying Al2O3 content (black:   wt%, orange: 2.5 wt%, blue: 5 wt%, green: 1  wt%, pink: 2  wt%, hollow and solid symbols represent the proximal and distal positions, respectively). (f) The λ⊥ of PP/FG/Al2O3 composites as a function of the Al2O3 content at different positions (green: the proximal end, orange: the distal end). (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)
+
+
+H. Cao et al.
+
+
+Composites Science and Technology 227 (2 22) 1 959  
+6
+
+
+Notably, the value of L1/L2 decrease from 1.44 at the proximal end to 1. 6 at the distal end of a 3 /7  sample remarkably. In other words, the degree of FG orientation within PP/FG (3 /7 ) composites decreases along the injection flow direction. The results indicate that the injection
+
+
+flow could mediate the structural organization of FG platelets within the PP matrix (and λ⊥) of an ultrahigh-filled PP/FG (3 /7 ) composite.
+
+
+In previous work, we observed that the addition of spherical Al2O3 microparticles can mediate the orientation of FG platelets and improve the λ⊥ of PP/FG composites prepared by hot pressing [35]. To further explore how spherical Al2O3 microparticles will affect the orientation of FG platelets under the flow field during injection molding, PP/FG/Al2O3 composites with varying Al2O3 contents were prepared. Fig. 6a–d shows the real-time infrared images indicating the surface temperature of PP/FG/Al2O3 composites. Coincidentally, the discrepancy of tempera- ture rise can be easily distinguished between the proximal and distal ends, as like PP/FG composites (Fig. 6e). Both the λ⊥ of PP/FG/Al2O3 at the proximal and distal positions are observed to decrease when the Al2O3 content exceeds 2.5 wt% (Fig. 6f). This is a result of the “dilution” effect caused by replacing FG platelets with the less thermally conduc- tive Al2O3 microparticles (especially with high contents). Notably, the difference of λ⊥ between the proximal and distal position (Δλ⊥/λ⊥) of PP/FG/Al2O3 composites where 2.5 wt% FG platelets was replaced with Al2O3 microparticles is higher than that of PP/FG (3 /7 ) composites. The Δλ⊥/λ⊥ values of PP/FG/Al2O3 (3 /67.5/2.5) and PP/FG (3 /7 ) composites are  .29 and  .23, respectively. As reported in our previous work, a small amount of spherical Al2O3 microparticles will “disturb” the interlayer orientation and stacking of FG platelets (reducing the degree of FG orientation along the flow direction during hot pressing) and therefore improve the λ⊥ of PP/FG composites [35]. The result in this work indicates that the injection flow and spherical Al2O3 micro- particles can synergistically contribute to the development of structural heterogeneity of PP/FG composites.
+
+
+4. Discussion
+
+
+In this work, we report an unusual structural development of ultrahigh-filled PP/FG composites during injection molding. We believe that the structural heterogeneity of PP/FG composites is not only related to the fountain flow during the first (injecting) stage of injection molding, but the ultrahigh filler loading that will inhibit the relaxation of polymer melt during the second (pack-and-hold) stage. The fountain flow is commonly observed in thermoplastics during injection molding [44–48]. When a polymer melt enters a mold under shear and exten- sional flows, the part of melt at the advancing front decelerates and acquires a transverse velocity, spilling outward toward the mold wall [45]. The flow inside the mold mimics a water fountain. For a “cold” mold during non-isothermal injection, the fountain flow becomes more pronounceable due to the solidification of polymer melt at the mold wall [45,47].
+
+
+During the filling (injecting) stage, the melt of polymer composites flows into the mold and quickly “freezes” when gets into contact with the cold wall, creating a frozen layer (illustrated as the grey part in Fig. 7a). The incoming melt will continue to move ahead of the frozen layer meeting the mold wall in the front and continue to form a frozen layer until the mold is almost filled (Fig. 7b). The frozen layer at the proximal position is getting thicker and the channel of the mold is get- ting thinner. The flow mechanics is correlated to the viscoelastic be- haviors of the polymer melt. We found that the incorporation of FG platelets did not affect the shear thinning behaviors of the polymer matrix (Fig. S3 in Supplementary Data). Therefore, the fountain flow is essential for directing the orientation of FG platelets within PP/FG composites.
+
+
+During the pack-and-hold stage, the relaxation of the melt of the composites will lead to the loss of orientation of FG platelets directed by fountain flow, when the FG loading is low. In contrast, in an ultrahigh- filled PP/FG (3 /7 ) composite, we believe that the crowded packing of FG platelets will inhibit the relaxation of the melt and therefore main- tain the fountain flow-induced structural heterogeneity. To have a better understanding of the variation of FG orientation, we carefully measured the position-dependent surface temperature changes of the injected PP/
+
+
+Fig. 7. Schematic illustration of fountain flow directed orientation of FG platelets within PP/FG composites.
+
+
+Fig. 8. The surface temperature of the injected PP/FG (3 /7 ) composite derived from real-time infrared thermal imaging. The curves show the surface temperatures of the composite at different time (pink: 6  s, orange: 9  s, green: 12  s). (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)
+
+
+H. Cao et al.
+
+
+Composites Science and Technology 227 (2 22) 1 959  
+7
+
+
+FG samples (Fig. 8). Here, we sandwiched a thin layer of FG between the sample and the hot stage to get an optimum contact and a competent heating efficacy.
+
+
+The surface temperature varies slightly within the distance of around 3 cm and increase significantly from the position of 3 cm–8 cm of an injected PP/FG (3 /7 ) sample (Fig. 8). The results may indicate that the orientation of FG platelets does not change significantly at the proximal end until it reaches a specific length. It is interesting but still unknown whether this specific length is related to injection conditions (e.g., injection pressure, mold temperature, etc.) and/or geometry of injection mold. Continuing work will be carried out in the future.
+
+
+5. Conclusion
+
+
+In this work, we investigated the structural development of ther- mally conductive polymer composites with asymmetric fillers during injection molding using PP/FG composites as the model system. The results showed that the PP/FG (3 /7 ) composites with an ultrahigh filler loading exhibited different thermal conductivity values along the injection direction. The variation of thermal conductivity was related to the development of structural heterogeneity of FG network within the PP matrix. The fountain flow during injection molding and the crowded effect imposed by ultrahigh filler loading synergistically contributed to the development of structural heterogeneity of FG network within the ultrahigh-filled PP/FG (3 /7 ) composites. The fountain flow directed the orientation of FG platelets and contributed to the development of structural heterogeneity within PP/FG composites. The ultrahigh filling created a crowded packing of FG platelets and inhibited the relaxation of the melt of the composites. Therefore, the fountain flow-induced structural heterogeneity of the ultrahigh-filled PP/FG (3 /7 ) compos- ite was maintained. This work provides new insights into structural developments of asymmetric fillers with ultrahigh filling loadings within the polymer matrix during injection molding.
+
+
+CRediT authors statement
+
+
+Huan Cao: Investigation, Formal Analysis, Writing - Original draft. Lijun Ye: Conceptualization, Supervision, Writing - Reviewing and
+
+
+Editing. Yucong Jin: Investigation. Jiayao Wang: Investigation, Formal Analysis. Jiahui Hong: Investigation. Yongjin Li: Conceptualization, Supervision, Writing - Reviewing and
+
+
+Editing, Funding acquisition.
+
+
+Declaration of competing interest
+
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+
+Acknowledgements
+
+
+This work was financially supported by the National Natural Science Foundation of China (U21A2 92) and the Natural Science Foundation of Zhejiang Province (LD19E 3   1). The authors are grateful to the beamline BL16B1 at Shanghai Synchrotron Radiation Facility (SSRF) for SAXS measurements. L. Y. thanks Prof. Jichun You at Hangzhou Normal University for fruitful discussions.
+
+
+Appendix A. Supplementary data
+
+
+Supplementary data to this article can be found online at https://doi. org/1 .1 16/j.compscitech.2 22.1 959 . 
+References
+
+
+[1] G.H. Li, X.J. Tian, X.W. Xu, C. Zhou, J.Y. Wu, Q. Li, L.Q. Zhang, F. Yang, Y.F. Li, Fabrication of robust and highly thermally conductive nanofibrillated cellulose/ graphite nanoplatelets composite papers, Compos. Sci. Technol. 138 (2 17) 179–185. 
+[2] X.T. Shi, R.H. Zhang, K.P. Ruan, T.B. Ma, Y.Q. Guo, J.W. Gu, Improvement of thermal conductivities and simulation model for glass fabrics reinforced epoxy laminated composites via introducing hetero-structured BNN-3 @BNNS fillers, J. Mater. Sci. Technol. 82 (2 21) 239–249. 
+[3] Y.Q. Guo, K.P. Ruan, X.T. Shi, X.T. Yang, J.W. Gu, Factors affecting thermal conductivities of the polymers and polymer composites: a review, Compos. Sci. Technol. 193 (2 2 ), 1 8134. 
+[4] X.Y. Huang, T. Iizuka, P.K. Jiang, Y. Ohki, T. Tanaka, Role of interface on the thermal conductivity of highly filled dielectric epoxy/AlN composites, J. Phys. Chem. C 116 (25) (2 12) 13629–13639. 
+[5] W.-X. Zhou, Y. Cheng, K.-Q. Chen, G. Xie, T. Wang, G. Zhang, Thermal conductivity of amorphous materials, Adv. Funct. Mater. 3  (8) (2 2 ), 19 3829. 
+[6] Y. Jiang, Y.J. Liu, P. Min, G.X. Sui, BN@PPS core-shell structure particles and their 3D segregated architecture composites with high thermal conductivities, Compos. Sci. Technol. 144 (2 17) 63–69. 
+[7] L. Li, M. Shi, X.Y. Liu, X.X. Jin, Y.X. Cao, Y.Y. Yang, W.J. Wang, J.F. Wang, Ultrathin titanium carbide (MXene) films for high-temperature thermal camouflage, Adv. Funct. Mater. 31 (35) (2 21), 21 1381. 
+[8] K.P. Ruan, X.T. Shi, Y.Q. Guo, J.W. Gu, Interfacial thermal resistance in thermally conductive polymer composites: a review, Compos. Commun. 22 (2 2 ), 1  518. 
+[9] L.H. Li, Y. Qin, H. Wang, M.H. Li, G.C. Song, Y.M. Wu, X.Z. Wei, Z. Ali, J. Yi, S. L. Song, C.T. Lin, N. Jiang, J.H. Yu, Improving thermal conductivity of poly(vinyl alcohol) composites by using functionalized nanodiamond, Compos. Commun. 23 (2 21), 1  596. 
+[1 ] Z. Yenier, S. Aker, Y. Seki, L. Altay, O. Bigun, M. Sarikanat, Improving thermal conductivity of polybutylene terephthalate composites with hybrid synthetic graphite and carbon fiber, J. Thermoplast. Compos. Mater. (2 21),  8927 57211 18491. 
+[11] Y.P. Chen, X. Hou, M.Z. Liao, W. Dai, Z.W. Wang, C. Yan, H. Li, C.T. Lin, N. Jiang, J.H. Yu, Constructing a “pea-pod-like” alumina-graphene binary architecture for enhancing thermal conductivity of epoxy composite, Chem. Eng. J. 381 (2 2 ), 12269 . 
+[12] R. Sengupta, M. Bhattacharya, S. Bandyopadhyay, A.K. Bhowmick, A review on the mechanical and electrical properties of graphite and modified graphite reinforced polymer composites, Prog. Polym. Sci. 36 (5) (2 11) 638–67 . 
+[13] R. Verdejo, M.M. Bernal, L.J. Romasanta, M.A. Lopez-Manchado, Graphene filled polymer nanocomposites, J. Mater. Chem. 21 (1 ) (2 11) 33 1–331 . 
+[14] M. Takafuji, N. Kawamoto, N. Hano, K. Sasahara, S. Nagaoka, H. Ihara, Spherical filler-promoting thermally conductive pathway in graphite-containing polymer composites for high heat radiation, J. Polym. Sci. 58 (4) (2 2 ) 6 7–615. 
+[15] Y. Hong, M. Goh, Advances in liquid crystalline epoxy resins for high thermal conductivity, Polymers 13 (8) (2 21) 132 . 
+[16] J. Wang, Y. Kazemi, S. Wang, M. Hamidinejad, M.B. Mahmud, P. Pötschke, C. B. Park, Enhancing the electrical conductivity of PP/CNT nanocomposites through crystal-induced volume exclusion effect with a slow cooling rate, Compos. B Eng. 183 (2 2 ), 1 7663. 
+[17] M. Feng, Y. Pan, M. Zhang, Q. Gao, C. Liu, C. Shen, X. Liu, Largely improved thermal conductivity of HDPE composites by building a 3D hybrid fillers network, Compos. Sci. Technol. 2 6 (2 21), 1 8666. 
+[18] K. Wu, Y. Xue, W.X. Yang, S.G. Chai, F. Chen, Q. Fu, Largely enhanced thermal and electrical conductivity via constructing double percolated filler network in polypropylene/expanded graphite – multi-wall carbon nanotubes ternary composites, Compos. Sci. Technol. 13  (2 16) 28–35. 
+[19] F. Zhang, Y. Feng, W. Feng, Three-dimensional interconnected networks for thermally conductive polymer composites: design, preparation, properties, and mechanisms, Mater. Sci. Eng. R Rep. 142 (2 2 ), 1  58 . 
+[2 ] Z. Zhang, J. Qu, Y. Feng, W. Feng, Assembly of graphene-aligned polymer composites for thermal conductive applications, Compos. Commun. 9 (2 18) 33–41. 
+[21] C. Feng, H. Ni, J. Chen, W. Yang, Facile method to fabricate highly thermally conductive graphite/PP composite with network structures, ACS Appl. Mater. Interfaces 8 (3 ) (2 16) 19732–19738. 
+[22] Y. Lu, J.D. Cao, S.Y. Ren, W.S. Gao, H.Q. Chen, S.B. Chen, X.J. Yan, S.X. Xin, J. G. Li, Y.X. Bai, Boron nitride self-assembly cladding structure promoting thermal property and dimensional stability of polymer composites, Compos. Sci. Technol. 2 1 (2 21), 1 8536. 
+[23] X.L. Pan, M.G. Debije, A.P.H.J. Schenning, C.W.M. Bastiaansen, Enhanced thermal conductivity in oriented polyvinyl alcohol/graphene oxide composites, ACS Appl. Mater. Interfaces 13 (24) (2 21) 28864–28869. 
+[24] J. Zhang, C.W. Li, C.P. Yu, X.N. Wang, Q.L. Li, H.F. Lu, Q.C. Zhang, J.X. Zhao, E. Songfeng, M. Hu, Y.G. Yao, Large improvement of thermal transport and mechanical performance of polyvinyl alcohol composites based on interface enhanced by SiO2 nanoparticle-modified-hexagonal boron nitride, Compos. Sci. Technol. 169 (2 19) 167–175. 
+[25] M. Guzej, M. Zachar, J. Kominek, P. Kotrbacek, R. Brachna, Importance of melt flow direction during injection molding on polymer heat sinks’ cooling efficiency, Polymers 13 (8) (2 21) 1186. 
+[26] C. Yuan, B. Duan, L. Li, B. Xie, M.Y. Huang, X.B. Luo, Thermal conductivity of polymer-based composites with magnetic aligned hexagonal boron nitride platelets, ACS Appl. Mater. Interfaces 7 (23) (2 15) 13   –13  6. 
+H. Cao et al.
+
+
+Composites Science and Technology 227 (2 22) 1 959  
+8
+
+
+[27] B. Wei, L. zhang, S. Yang, Polymer composites with expanded graphite network with superior thermal conductivity and electromagnetic interference shielding performance, Chem. Eng. J. 4 4 (2 21), 126437. 
+[28] G. Pan, Y. Yao, X. Zeng, J. Sun, J. Hu, R. Sun, J.-B. Xu, C.-P. Wong, Learning from natural nacre: constructing layered polymer composites with high thermal conductivity, ACS Appl. Mater. Interfaces 9 (38) (2 17) 33  1–33 1 . 
+[29] Y. Jia, H. He, Y. Geng, B. Huang, X. Peng, High through-plane thermal conductivity of polymer based product with vertical alignment of graphite flakes achieved via 3D printing, Compos. Sci. Technol. 145 (2 17) 55–61. 
+[3 ] K. Kim, J. Kim, Vertical filler alignment of boron nitride/epoxy composite for thermal conductivity enhancement via external magnetic field, Int. J. Therm. Sci. 1   (2 16) 29–36. 
+[31] K. Uetani, S. Ata, S. Tomonoh, T. Yamada, M. Yumura, K. Hata, Elastomeric thermal interface materials with high through-plane thermal conductivity from carbon fiber fillers vertically aligned by electrostatic flocking, Adv. Mater. 26 (33) (2 14) 5857–5862. 
+[32] H.S. Lim, J.W. Oh, S.Y. Kim, M.-J. Yoo, S.-D. Park, W.S. Lee, Anisotropically alignable magnetic boron nitride platelets decorated with iron oxide nanoparticles, Chem. Mater. 25 (16) (2 13) 3315–3319. 
+[33] H. Liu, S. Gu, H. Cao, X. Li, Y. Li, A dense packing structure constructed by flake and spherical graphite: simultaneously enhanced in-plane and through-plane thermal conductivity of polypropylene/graphite composites, Compos. Commun. 19 (2 2 ) 25–29. 
+[34] J. Ji, S.-W. Chiang, M. Liu, X. Liang, J. Li, L. Gan, Y. He, B. Li, F. Kang, H. Du, Enhanced thermal conductivity of alumina and carbon fibre filled composites by 3- D printing, Thermochim. Acta 69  (2 2 ), 178649. 
+[35] H. Cao, S.L. Gu, H.H. Liu, Y.J. Li, Disordered graphite platelets in polypropylene (PP) matrix by spherical alumina particles: increased thermal conductivity of the PP/flake graphite composites, Compos. Commun. 27 (2 21), 1  856. 
+[36] H. Cao, S. Gu, H. Liu, Y. Li, Disordered graphite platelets in polypropylene (PP) matrix by spherical alumina particles: increased thermal conductivity of the PP/ flake graphite composites, Compos. Commun. 27 (2 21), 1  856. 
+[37] C.L. Huang, X. Qian, R.G. Yang, Thermal conductivity of polymers and polymer nanocomposites, Mater. Sci. Eng. R Rep. 132 (2 18) 1–22. 
+[38] Y.F. Xu, X.J. Wang, Q. Hao, A mini review on thermally conductive polymers and polymer-based composites, Compos. Commun. 24 (2 21), 1  617. 
+[39] R. Li, X. Yang, J. Li, Y. Shen, L. Zhang, R. Lu, C. Wang, X. Zheng, H. Chen, T. Zhang, Review on polymer composites with high thermal conductivity and low dielectric properties for electronic packaging, Mater. Today Phys. 22 (2 22), 1  594. 
+[4 ] N. Mehra, L. Mu, T. Ji, X. Yang, J. Kong, J. Gu, J. Zhu, Thermal transport in polymeric materials and across composite interfaces, Appl. Mater. Today 12 (2 18) 92–13 . 
+[41] H. Peng, B. Wang, J. Gai, J. Chen, F. Yang, Y. Cao, H. Li, J. Kang, M. Xiang, Investigation on the morphology and tensile behavior of β-nucleated isotactic polypropylene with different stereo-defect distribution, J. Appl. Polym. Sci. 131 (6) (2 14), 4  27. 
+[42] A.K. Ahmed, M. Atiqullah, M.A. Al-Harthi, A.F. Abdelaal, D.R. Pradhan, Non- isothermal crystallization of Ziegler Natta i-PP-graphene nanocomposite: DSC and new model prediction, Can. J. Chem. Eng. 98 (6) (2 2 ) 1398–141 . 
+[43] H.M.A. Asghar, S.N. Hussain, H. Sattar, N.W. Brown, E.P.L. Roberts, Potential graphite materials for the synthesis of GICs, Chem. Eng. Commun. 2 2 (4) (2 15) 5 8–512. 
+[44] J.L. White, H.B. Dee, Flow visualization for injection molding of polyethylene and polystyrene melts, Polym. Eng. Sci. 14 (3) (1974) 212–222. 
+[45] D.J. Coyle, J.W. Blake, C.W. Macosko, The kinematics of fountain flow in mold- filling, AIChE J. 33 (7) (1987) 1168–1177. 
+[46] H. Mavridis, A.N. Hrymak, J. Vlachopoulos, Finite element simulation of fountain flow in injection molding, Polym. Eng. Sci. 26 (7) (1986) 449–454. 
+[47] C.G. Gogos, C.-F. Huang, L.R. Schmidt, The process of cavity filling including the fountain flow in injection molding, Polym. Eng. Sci. 26 (2 ) (1986) 1457–1466. 
+[48] E. Mitsoulis, Fountain flow revisited: the effect of various fluid mechanics parameters, AIChE J. 56 (5) (2 1 ) 1147–1162. 

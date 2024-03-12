@@ -1,0 +1,511 @@
+Title: la3 4322w 1..1  
+Corona-Treated Polyethylene Films Are Macroscopic Charge Bilayers Leandra P. Santos,† Juliana S. Bernardes,†,§ and Fernando Galembeck*,†,§
+
+
+†Institute of Chemistry, University of Campinas - UNICAMP, P.O. Box 6154, Campinas SP, Brazil, 13 83-97  §National Nanotechnology Laboratory at the National Center for Energy and Materials Research, P.O. Box 6192, Campinas SP, Brazil 13 83-97  
+*S Supporting Information
+
+
+ABSTRACT: Top and bottom surfaces of polyethylene (PE) films exposed to corona discharge display large and opposite electrostatic potentials, forming an electric bilayer in agree- ment with recent and unexpected findings from Zhiqiang et al. Water wetting, chemical composition and roughness of the two surfaces are different. Surprisingly, the bottom surface, opposite to the corona electrode is charged but it is not oxidized, neither is it wetted with water. Moreover, its morphology is unaltered by charging, while the hydrophilic top surface is much rougher with protruding islands that are the result of oxidation followed by phase separation and polymer−polymer dewetting. Common liquids extract the oxidized, hydrophilic material formed at the upper surface, a result that explains the well-known sensitivity of adhesive joints made using corona-treated thermoplastics to liquids, especially water. These results show that poling the surface closer to the corona electrode triggers another but different charge build-up process at the opposite surface. The outcome is another poled PE surface showing high potential but with unchanged chemical composition, morphology and wetting behavior as the pristine surface, thus opening new possibilities for surface engineering.
+
+
+1. INTRODUCTION Corona discharge is widely used in industry to improve wetting and adhesion characteristics of polymers for applications in adhesive bonding and printing.1−3 The surface modification is triggered by ions formed in the air when a sufficiently large potential difference is applied between two asymmetric electrodes (generally, a curved and a plate electrode), creating a large electric field that accelerates ions toward the polymer surface. The increased adhesion and wettability of polymers subjected to this treatment is mainly related to the introduction of polar groups due to oxidation and other concurrent chemical and physical changes in the surface.4−9 
+In a conventional corona discharge device, the curved electrode is biased and the plate electrode is grounded.1 ,11 
+However, other geometric arrangements have been used for specific applications. For instance, the decomposition of phenol in water was enhanced when a stainless steel cylinder, covered with multiwalled carbon nanotubes, was used as the grounded electrode in a wetted-wall corona-discharge reactor.12 An inverted configuration, where the needle is the grounded electrode and the plate electrode is biased, was used to increase the removal efficiency of aerosol particles from the gas using a grounded atomizing water discharge electrode.13 
+The use of inverted corona setup during polymer treatment is interesting, since the needle can be safely filled with grounded liquids, thus being a source of ions derived from the liquid vapor. This type of experiment is difficult to control when using a biased needle as in the conventional geometry, because the reduction of surface tension of the biased liquid
+
+
+exiting the needle forms elongated jets that break into droplets.14,15 
+It is well-known that polymer surfaces subjected to corona treatment acquire high electrostatic potential due to the deposition of positive or negative ions16−18 that migrate through the atmosphere driven by the electric field until they bind to a surface. Positive discharge provides solvated protons [(H2O)nH
+
+
++]19 as the most abundant species, while CO3−, NO3−, NO2−, O3−, and O2− were identified by mass spectrometry as the main reactants formed by negative discharge.2  Upon hitting the polymer surface, ions can trigger the formation of unstable free radicals and ionic species. Recent papers from Chen’s group21−23 show, using the
+
+
+pulsed electroacoustic technique (PEA), that the polyethylene surface facing the plate electrode (bottom surface) also acquires a significant amount of charge during corona treatment. However, the sign of charge in the bottom surface is opposite to the sign of charge deposited on the surface facing the curved electrode (top surface), showing that a bipolar charge injection takes place during the corona treatment. These recent results show that the effect of corona discharge on PE is much more complex than previously acknowledged. Charge carriers responsible for the top surface charging in a
+
+
+corona treatment are well established in the literature,19,2  but the mechanism of recently disclosed bottom charging has not
+
+
+Received: October 31, 2 12 Revised: December 2 , 2 12 Published: December 2 , 2 12 
+Article
+
+
+pubs.acs.org/Langmuir
+
+
+© 2 12 American Chemical Society 892 dx.doi.org/1 .1 21/la3 4322w | Langmuir 2 13, 29, 892−9 1 
+D ow
+
+
+nl oa
+
+
+de d
+
+
+vi a
+
+
+B E
+
+
+IJ IN
+
+
+G R
+
+
+E SE
+
+
+A R
+
+
+C H
+
+
+I N
+
+
+ST C
+
+
+H E
+
+
+M L
+
+
+I N
+
+
+D U
+
+
+ST o
+
+
+n M
+
+
+ar ch
+
+
+3 1,
+
+
+2  2
+
+
+1 at
+
+
+  1:
+
+
+24 :1 
+9 (U
+
+
+T C
+
+
+). Se
+
+
+e ht
+
+
+tp s:
+
+
+//p ub
+
+
+s. ac
+
+
+s. or
+
+
+g/ sh
+
+
+ar in
+
+
+gg ui
+
+
+de lin
+
+
+es f
+
+
+or o
+
+
+pt io
+
+
+ns o
+
+
+n ho
+
+
+w to
+
+
+le gi
+
+
+tim at
+
+
+el y
+
+
+sh ar
+
+
+e pu
+
+
+bl is
+
+
+he d
+
+
+ar tic
+
+
+le s.
+
+
+yet been elucidated. This is due to the well-known difficulty of identification of charge-bearing species in electrified insula- tors.24−32 
+Chen23 proposed that the charge carriers responsible for the polyethylene bottom surface charging subjected to corona treatment are injected from the plate electrode, being electrons from the cathode and holes from the anode, according to the Schottky mechanism. This can now be reinterpreted consider- ing recent results that identify ions derived from the sample polymers as the charge carriers in contact and tribocharg- ing.24−26,28,32 
+The aim of the present work is to gather information at the macroscopic and microscopic levels to better understand charging processes involved in corona treatment as well as their effect on polyethylene surfaces. The present results show, for the first time, that the macroscopic charge bilayers, formed during the discharge, have surfaces with different roughness, water wetting ability, and chemical composition. Besides, extraction with solvents reveals that common liquids dissolve some components of the oxidized surfaces, according to their Hildebrand parameters, and the reason for the formation of the rough upper surface is explained considering the immiscibility between PE and the oxidized PE formed during the corona treatment.
+
+
+2. EXPERIMENTAL METHODS 2.1. Chemicals. Samples were prepared by cutting 14 -μm-thick
+
+
+blown LDPE films into small pieces (1  mm × 1  mm). LDPE film identity was verified by ATR infrared, as shown in Figure S1 of the Supporting Information. Prior to use, the polyethylene samples were immersed for 1  min in ethanol within an ultrasonic bath and then dried at room temperature. Reagent-grade ethanol, acetone, butanol, chloroform, toluene, and
+
+
+hexane were acquired from Synth (Saõ Paulo) and used as received. Millipore water was used throughout. In some experiments, the bottom side of PE films pieces was coated
+
+
+with ca. 1  nm Au/Pd film using a MED  2  (Bal-Tec) instrument. 2.2. Inverted Corona Discharge Treatment. The inverted
+
+
+corona treatment setup used for charging the samples is schematically represented in Figure S2 of the Supporting Information. In this configuration, the needle is grounded and the plate electrode is biased. Preliminary observations, using the applied voltage from 4 to 7 kV,
+
+
+revealed that below ±5 kV no major changes in water wettability took place, while beyond ±6 kV, a spark discharge was observed during the experiment. Thus, positive (+5 kV and +6 kV) and negative (−5 kV and −6 kV) tension was applied during 3 min to the plate electrode using a Spellman CZE 1   R power supply, while the grounded needle was kept filled with water. The distance between the electrodes was fixed at 6 mm, providing an electric field greater than the breakdown strength of the air.33 The temperature (2  ± 2 °C) and the relative humidity (5  ± 2 %RH) were controlled during the experiments. 2.3. Electrostatic Potential Measurement. Electrostatic poten-
+
+
+tial maps were obtained for corona-treated polyethylene films. The scanning apparatus was built by Optron (Campinas). The sample holder was an aluminum plate where the polymer film was laid. The potential probe is a 5-mm-diameter Kelvin electrode connected to a Trek model 347 noncontact voltmeter. This electrode is mounted on a mechanical arm that allows it to scan the x−y plane, under microcomputer control. The entire ensemble is mounted within a closed metal box, which enables control of the atmospheric composition, especially the relative humidity. The spatial resolution of the potential measurement (5 × 5 mm2) was limited by the Kelvin electrode dimensions and the time allowed for the electrometer to equilibrate on each pixel was 1 s. 2.4. Allignment of Charged PE Film within an Electric Field.
+
+
+Corona-treated polyethylene was exposed to the electric field
+
+
+generated between two vertical parallel-plate electrodes 4  mm apart. Voltage in one plate changed from   to 2 kV or from   to −2 kV, while the other one was grounded. The film sample was placed equidistant from both electrodes, suspended by a thin cotton thread, and it was observed while voltage was changed. A movie was recorded using a Canon EOS 5  D camera.
+
+
+2.5. Electric Suspension. Horizontal parallel-plate electrodes were mounted to verify polyethylene levitation. The charged PE sample was placed in between the two electrodes, and voltage was gradually changed in one electrode while the other was grounded. A movie was recorded using a Canon EOS 5  D camera.
+
+
+2.6. Charge Excess Measurement and Charge Excess Simulation. Pieces of polyethylene treated by inverted corona discharge were inserted within a Faraday cup connected to the input of a Keithley 61 C electrometer and the charge excess was immediately read. Charge was also evaluated from electrostatic potential measurements applying the superposition principle to a virtual charge distribution, using a previously described proce- dure.29−31 The total electrostatic potential (VT) generated by all surface charges at the plane 2 mm away from a charge-carrying surface (r = 5 mm) is thus calculated using a C2+ code for eq 1: 
+∑ ∑ πεε
+
+
+= = = =
+
+
+V V q
+
+
+r 1
+
+
+4T i
+
+
+n
+
+
+i
+
+
+n i
+
+
+i1   1 (1) 
+where q is the electric charge, εo is the permittivity of the free space, and ε is the dielectric constant of the medium.
+
+
+A squared area (5 × 5 mm2) of the electrostatic map is represented by a 2   × 2   pixel matrix. The virtual charge distribution on the matrix is adjusted by trial and error, until the calculated and the experimental electric potentials in every pixel have similar values. Then, the surface charge excess values obtained for top and bottom polyethylene surfaces were subtracted and compared to the measured value.
+
+
+2.7. Contact Angle Measurement. Contact angle of 5 μL water droplets deposited on corona-treated polyethylene films were measured by the Young−Laplace (sessile drop fitting) method using a Krüss Easydrop DSA2  instrument.
+
+
+2.8. X-ray Photoelectron Spectroscopy. The surface composi- tion of corona-treated polyethylene was analyzed by X-ray photo- electron spectroscopy (XPS) using a Thermo Scientific K-Alpha instrument equipped with aluminum Kα line and a VG-CLAMP-2 electron hemispherical analyzer, providing an energy resolution of ∼ .85 eV. The atomic composition of the samples was determined by integrating the core-level peaks, properly weighted by the photo- emission cross section.
+
+
+2.9. Atomic Force Microscopy. Topography and phase contrast images of the corona-treated polyethylene films were obtained in noncontact mode using a Shimadzu SPM-96   microscope with a Nanoworld silicon tip (resonance frequency = 32  kHz and force constant = 42 N/m). The scanning system is enclosed within an environmental chamber under controlled temperature and relative humidity.
+
+
+2.1 . Analytical Transmission Electron Microscopy. Solids extracted from the film surfaces were imaged using a Libra 12  Zeiss transmission microscope, equipped with an Omega energy filter, that allows the acquisition of EELS (electron energy loss spectra). A droplet of solvent used to rinse the PE surface was directly deposited in the carbon film over a TEM sample holder grid, then dried for 3  min under air, and the sample was introduced in the microscope. Bright-field images and EELS spectra were acquired.
+
+
+3. RESULTS 3.1. Macroscopic Characterization. When the needle
+
+
+electrode is either positive or negative relative to the plate electrode, PE upper surface acquires electric potential with the same sign as the needle electrode, even when this is grounded. Averages from triplicate surface potential measurements are
+
+
+presented in Figure S3 of the Supporting Information. After
+
+
+Langmuir Article
+
+
+dx.doi.org/1 .1 21/la3 4322w | Langmuir 2 13, 29, 892−9 1893 
+either +6 kV or −6 kV under the standard and inverted corona geometries is applied, the absolute values of electrostatic potential measured on the top surface layer are all similar (ranging from ±15   to 16   V), but with opposite signs. The polymer surface in contact with the plate electrode
+
+
+(bottom surface) also displays significant electrostatic potential, with signal opposite to that measured on the top surface (Figure 1). As an example, after the needle electrode is
+
+
+grounded and −6 kV is applied to the plate electrode (positive inverted corona), the electrostatic potential acquired on the upper film side is (+16 2 ± 1 5) V, while on the bottom, it is (−1145 ± 49) V. Thus, the polymer layer that is in contact with the lower plate but not directly exposed to the corona also acquires charge, forming a positive/negative charge bilayer that in turn creates a field measuring ca. 2  kV mm−1 across the polymer bulk. Observation of the charged film within an electric field
+
+
+provides visible evidence of its dipolar nature. Movies 1 and 2 (avi format) show a film treated by positive inverted corona between two electrodes. After a gradual negative voltage is applied to one electrode and the other is grounded, the film rotates until the positive surface faces the negative electrode and then attaches to it, as shown in movie 1. Vice versa, when the applied voltage was set as positive (movie 2), the film rotates so as to attach the negative surface to the positive electrode.
+
+
+To verify how the charging process works in a multilayer, three superimposed 14  μm polyethylene films (arranged as a sandwich) were stacked on top of the horizontal plate electrode, and this was biased to +6 kV in the inverted corona arrangement. Figure 2a shows the electrostatic potential
+
+
+measured on each film surface. The piece that was laid in contact with the plate electrode during the treatment (lower film) presents positive electric potential on both surfaces, while the upper film acquires negative potential on both surfaces. Both sides of the middle film are charged, but one is negative and the other is positive. Furthermore, the absolute values of the electrostatic potential are lower than those measured for only one film, suggesting that the charge carriers deposited on PE during the poling process are diluted through the polymer sandwich. This also shows that charge builds up in a film that is isolated both from the lower electrode and from the ionized atmosphere adjacent to the needle electrode. Electrostatic charge excess of the polymer sandwich was also
+
+
+measured, using the Faraday cup. The results shown in Figure 2b are in agreement with electric potential measurements. The lower film has positive charge excess, while the upper film is negative and the film that was placed in the middle of each sandwich presents charge excess close to zero. In other experiment, the bottom surface of polyethylene film
+
+
+samples was metal-coated with Au/Pd prior to charging. Potential on the top side of films treated by grounding the needle and applying −6 kV to the plate electrode (inverted positive corona) is (+1699 ± 99) V, the same as in the uncoated samples. Nevertheless, the electrostatic potential measured on the bottom surface is close to zero, revealing that opposite charges are not retained on it (see Figure 3).
+
+
+Figure 1. Electrostatic surface potential measured on the surfaces of polyethylene films exposed to the needle electrode (top side) and to the plate electrode (bottom side): (a) standard and (b) inverted corona arrangements. Voltage applied to needle/plate electrodes is indicated.
+
+
+Figure 2. (a) Surface potential and (b) charge excess measured for three 14  μm polyethylene films arranged as a sandwich during negative inverted corona treatment. The plate electrode was biased to +6 kV.
+
+
+Langmuir Article
+
+
+dx.doi.org/1 .1 21/la3 4322w | Langmuir 2 13, 29, 892−9 1894 
+Corona-charged samples with the conductive layer on one side levitate within a vertical electric field of ca. −2   kV/m, as shown in Movie 3 (availabe in avi format). Non-metal-coated samples do not levitate, even when a much higher voltage is applied to the top electrode, probably due to the lower net charge in the bilayer charged film. Surface potential decay as a function of time under constant
+
+
+relative humidity (7 % RH) was measured for polyethylene films treated using positive (−5 kV) and negative (+5 kV) inverted corona. Sample scanning started immediately after each sample was charged. Figure 4a shows the potential decay curves from top and bottom surfaces of polyethylene treated by −5 kV inverted corona. Both curves level off at the negative equilibrium potential (ca. −5 V) that was recently discovered in this research group.34 From each plot, the time required to halve the initial potential (see Figure 4b) is obtained and defined as the potential half-life. Polyethylene pieces treated by positive corona present
+
+
+significant difference between the half-lives measured on top and on bottom surfaces: the half-life of the negative potential on the bottom layer is three times longer than for the positive potential on top surface. On the other hand, when the polyethylene films are treated by negative corona discharge, the half-lives measured on top (negative) and bottom (positive) surfaces are quite similar. Altogether, these results show that different charge-bearing species contribute to surface charging. To determine if the charging processes alter the polyethylene
+
+
+surface free energy, contact angles for water with top and bottom surface layers were acquired as soon as the samples were charged, and the results are shown in Table 1. Top surfaces exposed to inverted corona discharge show contact angle 4 ° lower than the untreated samples, but the bottom surfaces are unchanged. Contact angles were followed for 6  days after film charging to evaluate surface aging under air. After 5  days aging at 6 % RH, the contact angle measured on the top surface reverted to the original values of untreated film. A remarkable feature observed in corona-treated poly-
+
+
+ethylene is that immersion in ethanol, butanol, acetone, toluene, and chloroform easily removes top and bottom surface charges. Films treated by positive inverted corona (−5 kV) were immersed for 2  min in these liquids, laid on an aluminum plate, and allowed to dry at room temperature. The electrostatic potentials measured for both rinsed surfaces are in the same range as those obtained for untreated polyethylene films,
+
+
+indicating that charge suppression or extraction was fairly complete. On the other hand, water and hexane are not good solvents for the charge carriers, since the PE surfaces still show a significant residual electrostatic potential after rinsing with these two liquids (see Figure 5a). Contact angle of polyethylene top surface is almost restored
+
+
+to initial value after the charged films are rinsed with butanol, acetone, toluene, and chloroform, as shown in Figure 5b. Nevertheless, when the rinsing solvents are ethanol, hexane, and water, contact angles still remain significantly lower than the those of untreated film, showing that these liquids cannot fully extract the oxidized surface components. In a set of experiments, polyethylene films were corona-
+
+
+charged and rinsed with ethanol, and after that, the same film was charged again. The charging/rinsing process was repeated five times. Electrostatic potential on PE surface reveals that charges are removed after each ethanol rinsing, but the film
+
+
+Figure 3. Electrostatic potential measured on top and bottom surfaces of nonmetalized and metalized polyethylene films when the plate electrode was biased to −5 kV and the needle was grounded.
+
+
+Figure 4. (a) Surface potential decay as a function of time for top and bottom polyethylene surfaces treated by positive inverted corona (plate electrode voltage = −5 kV); (b) half-lives of electrostatic potential measured for top and bottom polyethylene surfaces treated by positive and negative discharges. Voltage applied to needle/plate electrodes is indicated.
+
+
+Table 1. Water Contact Angle Measured on Top and on Bottom Surfaces of Polyethylene Films Treated by Inverted Corona Discharge
+
+
+contact angle (°)
+
+
+potential (kV) top side bottom side
+
+
+  94.5 ± 2.1 93.9 ±  .9 −6 52.7 ± 1.  97.8 ±  .4 +6 57.1 ± 2.2 95.6 ± 1.6 −6a 97.3 ± 2.  −
+
+
+aAfter 5  days aging.
+
+
+Langmuir Article
+
+
+dx.doi.org/1 .1 21/la3 4322w | Langmuir 2 13, 29, 892−9 1895 
+acquires the same magnitude of charges when it is corona treated again. 3.2. XPS and Microscopy. XPS spectra of top and bottom
+
+
+polyethylene surfaces treated by inverted corona discharge (+5 kV) were obtained and then compared to the untreated sample. Carbon and oxygen elements are present in all samples, but after corona treatment, the oxygen content on top surface increases from 3% to 14%, while on the bottom surface, it is unchanged. Atomic force microscopy was used to observe surface
+
+
+morphology on top and bottom polyethylene surfaces treated by inverted corona discharge. Topography and phase contrast images from different areas of both sides were simultaneously acquired, and some representative micrographs are displayed in Figures 6 and 7. Darker regions in phase contrast images represent more rigid domains that are less able to dissipate mechanical energy than the brighter areas. Both sides of untreated polyethylene (Figures 6a,b and 7a,b)
+
+
+are similar. Topography is fairly smooth with maximum height ranging from 13  to 2   nm. Moreover, the corresponding phase images present low contrast, showing that the untreated polymer surface is chemically homogeneous (or, at least, viscoelastically homogeneous). Following corona treatment, the top surface layer is modified, as shown in Figure 6c−f: taller
+
+
+rigid particles or granules protrude out of the substrate, producing higher phase contrast. Besides, the AFM micrographs reveal that grainy pattern
+
+
+formation depends on corona discharge polarity. Under −5 kV (Figure 6c,d), small rigid granules with 1 −1   nm height are produced. However, when the plate electrode voltage is positive (Figure 6e,f), the surface is more extensively covered by rigid particles (height from 1  to 65 nm). Although the corona treatment causes morphological
+
+
+changes in the top side of the polymer film, no significant variation is observed in the bottom surface layer. Images from the bottom side, obtained after positive (Figure 7c,d) and negative (Figure 7e,f) inverted corona treatment, do not show the granules observed in the upper surface, nor other new morphology features. Another important aspect shown by AFM images is that,
+
+
+after ethanol rinsing of the sample shown in Figure 6e,f, most granular rigid material formed during corona treatment is removed (Figure 8), leaving the surface more even and soft. Nevertheless, the morphology of the original surface is not fully recovered. The extracted material from the top surface of the corona-
+
+
+treated polyethylene was analyzed by electron spectroscopy imaging in the transmission electron microscopy (ESI-TEM). A small volume (5 μL) of ethanol used to rinse the polymer surface was deposited on TEM sample holder, and the solvent was then allowed to dry at room temperature. Bright-field images (Figure 9) reveal the presence of noncontinuous film along the substrate as well as of dendritic material (see Figure 9c) formed by dewetting. Energy-loss spectra (Figure 9d) present only two predominant peaks: one very intense at ca. 283 eV and a low intensity peak at ca. 54  eV. These peaks are characteristic from carbon and oxygen, respectively, and they confirm that the extracted material is oxidized.
+
+
+4. DISCUSSION Polyethylene films treated by inverted corona discharge acquire large but opposite electrostatic potential on top and bottom surfaces, thus forming a charge bilayer that can also be described as a macroscopic dipole across the polymer film (see Figure 1). Even though corona treatment has been used for decades, the bilayer nature of the film was observed only recently for the first time, and the involved mechanisms are not yet understood, but the present results allow us to present a model for charge bilayer formation.
+
+
+Dipole Formation and Oxidation. Chemical and wetting properties of the two surfaces are different; thus, the two poling processes responsible for the surface charging are independent and they can be separated, as verified in the sandwich experiment (Figure 2). Moreover, the adsorbed bottom charges are suppressed by a conducting layer previously evaporated on the surface, leading to the formation of a charge monolayer that levitates in an electric field. In the present case, the bottom surface charging process
+
+
+takes place within the space charge threshold established by Montanari et al.35,36 According to these authors, LDPE poled within a Laplacian field only acquires charge when the field is higher than 1  kV/mm. The electric field experienced by the sample due to the deposited charge on the upper surface is about 2  kV/mm, above the threshold value. The characterization of the charge carriers adopted by
+
+
+Montanari et al.36 was done by evaluating the decay rate of positive and negative charges injected into polyethylene
+
+
+Figure 5. (a) Electrostatic potential measured on top and bottom surfaces of polyethylene films rinsed with water and hexane after positive inverted corona treatment (plate electrode voltage = −5 kV); (b) contact angle measured on top surface of polyethylene films rinsed with different solvents after positive inverted corona treatment (applied voltage = −5 kV).
+
+
+Langmuir Article
+
+
+dx.doi.org/1 .1 21/la3 4322w | Langmuir 2 13, 29, 892−9 1896 
+surfaces. When both depletion curves have the same profiles, the charge carriers are of the same type (electrons and holes). However, when the curves have different profiles, there are two families of carriers (positive and negative ions or ions and electrons/holes). Since the electrostatic potential half-lives of bottom surfaces exposed to negative and positive corona discharges are very different (Figure 4b), and electro- luminescence experiments show that the electron/hole injection in polyethylene films occurs only at very high electric fields,37,38 we propose that the bottom charges are from two families of carriers. Following Montanari criteria, they are positive ions in negative corona treatment and negative ions in positive corona treatment. Surface charge excess that accounts for the measured
+
+
+potentials in a positive discharge (see section 2.6) are +4.9 × 1 −1  C/cm2 and −3.5 × 1 −1  C/cm2 for top and bottom surfaces, respectively; thus, the excess value for the entire piece is +1.4 × 1 −1  C/cm2, lower but in the same order of magnitude as the value obtained by direct charge measurement
+
+
+(+3.8 × 1 −1  C/cm2). Assuming that the charge carriers are ions, we can estimate a concentration of only ca. 3  ions per μm2. Even this low charge carrier concentration leads to high electrostatic potentials, in excess of 1    V on each surface. The pronounced difference between the chemical composi-
+
+
+tion, roughness, and wetting behavior of the two film surfaces show that charge carriers at the bottom surface do not derive from oxidized polymer. We suggest that they are formed by adsorption of negative or positive water molecule cluster ions from the atmosphere, due to the large potential gradient created by the ions initially deposited on the surface exposed to corona. The hypothesis of participation of atmospheric water in insulator charging phenomena has already been extensively verified in polymers and other materials, in many different experimental situations,14,29−32 and the “sandwich” experiment (Figure 2) provides another clear verification for it, since the charge on the polymer at the interior of the three-sheet pile cannot be assigned to implantation of corona ions or to electron/hole injection from the plate electrode.
+
+
+Figure 6. Topographic (left) and phase (right) images of polyethylene top surface: (a,b) untreated; (c,d) treated by positive inverted corona discharge (applied voltage = −5 kV); and (e,f) treated by negative inverted corona discharge (applied voltage = +5 kV).
+
+
+Langmuir Article
+
+
+dx.doi.org/1 .1 21/la3 4322w | Langmuir 2 13, 29, 892−9 1897 
+Extraction of Modified Surface Components. The effect of rinsing corona-treated polyethylene with some
+
+
+common solvents is strongly dependent on the chosen liquid, causing pronounced variation in water contact angles and
+
+
+Figure 7. Topographic (left) and phase (right) images of polyethylene bottom surface: (a,b) untreated; (c,d) treated by positive inverted corona discharge (applied voltage = −5 kV); and (e,f) treated by negative inverted corona discharge (applied voltage = +5 kV).
+
+
+Figure 8. Topographic (left) and phase (right) images of polyethylene top surface treated by negative inverted corona discharge (applied voltage = +5 kV) and then rinsed by ethanol.
+
+
+Langmuir Article
+
+
+dx.doi.org/1 .1 21/la3 4322w | Langmuir 2 13, 29, 892−9 1898 
+surface potentials measured with Kelvin electrodes. Prior to this work, Xiao39 observed that the effect of different solvents on the wetting behavior of corona-treated PE depends on the solvent used. The present results show that this can be assigned to the extraction of charged and oxidized polymer fragments. Toluene, acetone, n-butanol, and chloroform are all more
+
+
+effective than either water or n-hexane. By plotting the ion efficiency removal as a function of Hildebrand’s parameter4  for these liquids, a bell-shaped curve is obtained (Figure S4 of the Supporting Information), as usual in phenomena dependent on mutual miscibility between a polymer and a solvent. Using this plot, we can estimate that the Hildebrand parameter for the surface species is in the 18−23.5 MPa1/2 range. This broad range is probably due to the complex nature of the extracted material that is a mixture of oxidized oligo- and macroions. Ethanol has a peculiar behavior: it effectively extracts the
+
+
+charged species from PE surface but without increasing water contact angle back to the original value. This shows that at least
+
+
+part of the oxidized species formed on the polymer surface by corona discharge are not ions. In addition to the solubility parameter, solvent-rinsing
+
+
+experiments revealed that the polar material extracted is only found in the outermost surface layer, since all of the charge can be removed without detectable change in film thickness, with a 1 μm resolution. Thus, a significant part of material produced by corona treatment is only loosely anchored in the polymer surface.
+
+
+Modified Surface Morphology. Corona charging has a pronounced effect on the morphology of the film surface directly exposed to corona but not on the opposite surface that is in contact with the flat electrode. Treated top surfaces show many granules that are mechanically stiffer than the surrounding polymer. The granular pattern on corona-treated polyethylene and other polyolefin was previously reported in the literature,41−43 and its formation depends on the exposure time, temperature, and gas composition used during the treatment.
+
+
+Figure 9. (a−c) Bright field images of different areas of polymeric material extracted from corona-treated polyethylene surface; (d) electron energy loss spectrum of the extracted material.
+
+
+Figure 1 . Scheme showing the macroscopic charge bilayer and charge patterning in the upper film surface, formed during the corona discharge.
+
+
+Langmuir Article
+
+
+dx.doi.org/1 .1 21/la3 4322w | Langmuir 2 13, 29, 892−9 1899 
+Kim et al.41 suggested that granule formation is caused by the degradation of the polyethylene molecules below an inert skin, since the gas evolved during the degradation process may cause the topmost skin to blister. Nevertheless, Overney et al.42 
+explained the occurrence of droplets considering the local surface melting of degraded products formed during corona treatment. According to our results, both the size of the rigid granules
+
+
+(Figure S5 of the Supporting Information) and the film charge decrease with time, suggesting that the granules contain charged species, thus explaining the low dissipative response of the tip while scanning the granules. This behavior is analogous to polyelectrolyte chains in solution under low ionic strength, which are stiffer than neutral chains.44,45 Overney et al.42 also verified by frictional force microscopy that these granules are more rigid, but they did not associate their stiffness to the presence of charge. All these observations can be understood considering that
+
+
+corona discharge under air chemically modifies adjacent PE surfaces, oxidizing them and forming a modified polymer that is expected to be immiscible with PE, since immiscibility is the rule among polymers. For this reason, the pristine and modified polymer tends to phase-separate. Beyond, since the surface tension of the oxidized polymer is necessarily higher than PE surface tension, the oxidized surface film cannot wet bare PE and thus it retracts or dewets,46 forming the charged granules that are extracted with some solvents. The mechanisms involved in the positive inverted corona discharge treatment are schematically represented in Figure 1 . 
+5. CONCLUSION
+
+
+Corona treatment of polyethylene film produces a host of complex modifications not only in the surface directly exposed to corona, but also in the opposite surface. The only feature common to both surfaces is the large (but opposite) electrostatic potential that transforms the film into a charged bilayer. Otherwise, the chemical composition, wetting behavior, morphology, and response to solvents of the two film surfaces are completely different, pointing toward two different poling mechanisms: deposition of corona atmospheric ions on one surface followed by adsorption of oppositely charged water molecule clusters on the opposite surface, under the field created by the corona ions and other ions deriving from these. The roughness on the polymer surface exposed to corona is due to polymer−polymer immiscibility: oxidized and charged PE dewets the unaltered polymer due to its high surface tension forming domains stiffened by excess charge.
+
+
+■ ASSOCIATED CONTENT
+
+
+*S Supporting Information (1) ATR infrared spectrum of LDPE film; (2) Schematic diagram of inverted corona apparatus used to charge poly- ethylene films; (3) Plotting showing electrostatic surface potential measured on the polyethylene surface exposed to the needle electrode during corona discharge; (4) Plotting showing ion efficiency removal as function of Hildebrand’s parameter of the solvent; (5) AFM images acquired 24 h after the inverted corona treatment. This material is available free of charge via the Internet at http://pubs.acs.org.
+
+
+■ AUTHOR INFORMATION Corresponding Author *E-mail: fernagal@iqm.unicamp.br. Phone: + 55 19 3521 3 8 . Fax: + 55 19 3521 29 6. Notes The authors declare no competing financial interest.
+
+
+■ ACKNOWLEDGMENTS This work is supported by CNPq and FAPESP (Brazil) through Inomat, National Institute (INCT) for Complex Functional Materials. CNPq and FAPESP are also acknowledged for doctoral and postdoctoral scholarships to L. P. S. and J. S. B.
+
+
+■ REFERENCES (1) Park, S. J.; Jin, J. S. Effect of Corona Discharge Treatment on the Dyeability of Low-density Polyethylene Film. J. Colloid Interface Sci. 2  1, 236, 155−16 . (2) Bush, D.; Jung, J. Transparent, Biaxially Orientated Polyolefinic with Improved Bonding Properties. U.S. Patent 7,41 ,675, 2  8. (3) Chen, B.-L.; Barker, J. A. Method of Improving the Printing of Polyolefins with Water-Based Inks. U.S. Patent 5,232,966, 1993. (4) Gerenser, L. J.; Elman, J. F.; Mason, M. G.; Pochan, J. M. E.S.C.A. Studies of Corona Discharge Treated Polyethylene Surfaces by Use of a Gas-Phase Derivatization. Polymer 1985, 26, 1162−1166. (5) Mangipudi, V.; Tirrell, M.; Pocius, A. V. Direct Measurement of the Surface-Energy of Corona-Treated Polyethylene Using the Surface Force Apparatus. Langmuir 1995, 11, 19−23. (6) Zhang, D.; Sun, Q.; Wadsworth, L. C. Mechanism of Corona Treatment on Polyolefin Films. Polym. Eng. Sci. 1998, 38, 965−97 . (7) Sun, C.; Zhang, D.; Wadsworth, L. C. Corona Treatment of Polyolefin Films − A Review. Adv. Polym. Tech. 1999, 18, 171−18 . (8) Zenkiewicz, M. Wettability and Surface Free Energy of Corona- Treated Biaxially-Oriented Polypropylene Film. J. Adhes. Sci. Technol. 2  1, 15, 1769−1785. (9) Di Virgilio, V.; Bermejo, S.; Castañer, L. Wettability Increase by Corona Ionization. Langmuir 2 11, 27, 9614−962 . (1 ) Goldman, M.; Goldman, A.; Sigmond, R. S. The Corona Discharge, its Properties and Specific Uses. Pure Appl. Chem. 1985, 57, 1353−1362. (11) Kao, K. C. Dielectric Phenomena in Solids; Elsevier Academic Press: San Diego, 2  4. (12) Sano, N.; Yamane, Y.; Hori, Y.; Akatsuka, T.; Tamon, H. Application of Multiwalled Carbon Nanotubes in a Wetted-Wall Corona-Discharge Reactor to Enhance Phenol Decomposition in Water. Ind. Eng. Chem. Res. 2 11, 5 , 99 1−99 9. (13) Xu, D. X.; Li, J.; Wu, Y.; Wang, L. H.; Sun, D. W.; Liu, Z. Y.; Zhang, Y. B. Discharge Characteristics and Applications for Electro- static Precipitation of Direct Current: Corona with Spraying Discharge Electrodes. J. Electrost. 2  3, 57, 217−224. (14) Santos, L. P.; Ducati, T. R. D.; Balestrin, L. B. S.; Galembeck, F. Water with Excess Electric Charge. J. Phys. Chem. C 2 11, 115, 11226−11232. (15) Taflin, D. C.; Ward, T. L.; Davis, E. J. Electrified Droplet Fission and Rayleigh Limit. Langmuir 1989, 5, 376−384. (16) Giacometti, J. A.; Oliveira, O. N. Corona Charging of Polymers. IEEE Trans. Electr. Insul. 1992, 27, 924−943. (17) Giacometti, J. A.; Fedosov, S.; Costa, M. M. Corona Charging of Polymers: Recents Advances on Constant Current Charging. Braz. J. Phys. 1999, 29, 269−279. (18) Ramachandran, N.; Jaroszeski, M.; Hoff, A. M. Molecular Delivery to Cells Facilitated by Corona Ion Deposition. IEEE Trans. Nanobiosci. 2  8, 7, 233−239. (19) Shahin, M. M. Mass Spectrometric Studies of Corona Discharges in Air at Atmospheric pressures. J. Chem. Phys. 1966, 45, 26  −26 5. (2 ) Waltman, M. J.; Dwivedi, P.; Hill, H. H.; Blanchard, W. C.; Ewing, R. G. Characterization of a Distributed Plasma Ionization
+
+
+Langmuir Article
+
+
+dx.doi.org/1 .1 21/la3 4322w | Langmuir 2 13, 29, 892−9 19   
+Source (DPIS) for Ion Mobility Spectrometry and Mass Spectrometry. Talanta 2  8, 77, 249−255. (21) Zhiqiang, X.; Zhang, L. W.; Chen, G. Decay of Electric Charge on Corona Charged Polyethylene. J. Phys. D: Appl. Phys. 2  7, 4 , 7 85−7 89. (22) Chen, G.; Xu, Z.; Zhang, L. W. Measurement of the Surface Potential Decay of Corona-Charged Polymer Films Using the Pulsed Electroacoustic Method. Meas. Sci. Technol. 2  7, 18, 1453−1458. (23) Chen, G. A New Model for Surface Potential Decay of Corona- Charged Polymers. J. Phys. D: Appl. Phys 2 1 , 43,  554 5 (7pp). (24) McCarty, L. S.; Winkleman, A.; Whitesides, G. M. Ionic Electrets: Electrostatic Charging of Surfaces by Transferring Mobile Ions upon Contact. J. Am. Chem. Soc. 2  7, 129, 4 75−4 88. (25) Thomas, S. W.; Vella, S. J.; Kaufman, G. K.; Whitesides, G. M. Patterns of Electrostatic Charge and Discharge in Contact Electrification. Angew. Chem., Int. Ed. 2  8, 47, 6654−6656. (26) McCarty, L. S.; Whitesides, G. M. Electrostatic Charging due to Separation of Ions at Interfaces: Contact Electrification of Ionic Electrets. Angew. Chem., Int. Ed. 2  8, 47, 2188−22 7. (27) Liu, C.; Bard, A. J. Electrostatic Electrochemistry at Insulators. Nat. Mater. 2  8, 7, 5 5−5 9. (28) Baytekin, H. T.; Patashinski, A. Z.; Branicki, M.; Baytekin, B.; Soh, S.; Grzybowski, B. A. The Mosaic of Surface Charge in Contact Electrification. Science 2 11, 333, 3 8−312. (29) Rezende, C. A.; Gouveia, R. F.; da Silva, M. A.; Galembeck, F. Detection of charge distributions in insulator surfaces. J. Phys.: Condens. Matter 2  9, 21, 263  2 (19pp). (3 ) Gouveia, R. F.; Galembeck, F. Electrostatic Charging of Hydrophilic Particles due to Water Adsorption. J. Am. Chem. Soc. 2  9, 131, 11381−11386. (31) Bernardes, J. S.; Rezende, C. A.; Galembeck, F. Electrostatic patterns on surfactant coatings change with ambient humidity. J. Phys. Chem. C 2 1 , 114, 19 16−19 23. (32) Burgo, T. A. L.; Ducati, T. R. D.; Francisco, K. R.; Clinckspoor, K. J.; Galembeck, F.; Galembeck, S. E. Triboelectricity: Macroscopic Charge Patterns Formed by Self-Arraying Ions on Polymer Surfaces. Langmuir 2 12, 28, 74 7−7416. (33) Lowke, J. J. Theory of Electrical Breakdown in Air- The Role of Metastable Oxygen Molecules. J. Phys. D: Appl. Phys. 1992, 25, 2 2− 21 . (34) Burgo, T. A. L.; Rezende, C. A.; Bertazzo, S.; Galembeck, A.; Galembeck, F. Electric Potential Decay on Polyethylene: Role of Atmospheric Water on Electric Charge Build-up and Dissipation. J. Electrost. 2 11, 69, 4 1−4 9. (35) Montanari, G. C. Dielectric Material Properties Investigated through Space Charge Measurements. IEEE Trans. Dielectr. Electr. Insul. 2  4, 11, 56−64. (36) Montanari, G. C.; Morshuis, P. H. F. Space Charge Phenomenology in Polymeric Insulating Materials. IEEE Trans. Dielectr. Electr. Insul. 2  5, 12, 754−765. (37) Auge,̀ J. L.; Laurent, C.; Fabiani, D.; Montanari, G. C. Investigating DC Polyethylene Threshold by Space Charge − Current and Electroluminescence Measurements. IEEE Trans. Dielectr. Electr. Insul. 2   , 7, 797−8 3. (38) Laurent, C.; Teyssedre, G.; Montanari, G. C. Time-Resolved Space Charge and Electroluminescence Measurements in Polyethylene Under AC Stress. IEEE Trans. Dielectr. Electr. Insul. 2  4, 11, 554− 56 . (39) Xiao, G. Solvent-Induced Changes on Corona-Discharge- Treated Polyolefin Surfaces Probed by Contact Angle Measurements. J. Colloid Interface Sci. 1995, 171, 2  −2 4. (4 ) Brandrup, J.; Immergut, E. H. Polymer Handbook, 2nd ed.; John Wiley & Sons: New York, 1975. (41) Kim, C. Y.; Goring, D. A. I. Surface Morphology of Polyethylene after Treatment in a Corona Discharge. J. Appl. Polym. Sci. 1971, 15, 1357−1364. (42) Overney, R. M.; Güntherodt, H.−J.; Hild, S. Corona-Treated Isotactic Polypropylene Films Investigated by Friction Force Microscopy. J. Appl. Phys. 1994, 75, 14 1−14 4. 
+(43) Strobel, M.; Jones, V.; Lyons, C. S.; Ulsh, M.; Kushner, M. J.; Dorai, R.; Branch, M. C. A Comparison of Corona-Treated and Flame- Treated Polypropylene Films. Plasma Polym. 2  3, 8, 61−95. (44) Morawetz, H. Macromolecules in Solution; John Wiley and Sons: New York, 1975. (45) Wei, Y.-F.; Hsiao, P.-Y. Role of Chain Stiffness on the Conformation of Single Polyelectrolytes in Salt Solutions. J. Chem. Phys. 2  7, 127, 649 1. (46) Bernardes, J. S.; Rezende, C. A.; Galembeck, F. Morphology and Self-Arraying of SDS and DTAB Dried on Mica Surface. Langmuir 2 1 , 26, 7824−7832. 
+Langmuir Article
+
+

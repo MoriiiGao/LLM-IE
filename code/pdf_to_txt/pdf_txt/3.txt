@@ -1,0 +1,2052 @@
+Title: Effect of temperature, crystallinity and molecular chain orientation on the thermal conductivity of polymers: a case study of PLLA
+
+
+POLYMERS
+
+
+Effect of temperature, crystallinity and molecular chain
+
+
+orientation on the thermal conductivity of polymers:
+
+
+a case study of PLLA
+
+
+Lu Bai1, Xing Zhao1, Rui-Ying Bao1, Zheng-Ying Liu1, Ming-Bo Yang1, and Wei Yang1,*
+
+
+1State Key Laboratory of Polymer Materials Engineering, College of Polymer Science and Engineering, Sichuan University,
+
+
+Chengdu 61  65, Sichuan, China
+
+
+Received: 8 January 2 18 
+Accepted: 6 April 2 18 
+Published online:
+
+
+19 April 2 18 
+ Springer Science+Business
+
+
+Media, LLC, part of Springer
+
+
+Nature 2 18 
+ABSTRACT
+
+
+The crystallinity of semicrystalline polymers and molecular orientation of
+
+
+polymer have long been considered to be significant influencing factors on the
+
+
+thermal conductivity of polymer materials, but more clear-cut understanding on
+
+
+their impact on the thermal conductivity is still needed. In this work, poly-L-
+
+
+lactide (PLLA), whose crystallinity and orientation can be adjusted in a wide
+
+
+range, is selected to discuss the effect of degree of crystallinity and orientation
+
+
+on the thermal conductivity of PLLA. Meanwhile, the influence of temperature
+
+
+on the thermal conductivity is also discussed. PLLA compression-molded
+
+
+samples were heat-treated at 12  C to tune the crystallinity of the samples,
+
+
+while the degrees of orientation were tuned by stretching the amorphous PLLA
+
+
+bars at 6  C to different strains. It is found that environmental temperature of
+
+
+application affects the thermal conductivity obviously and the glass transition
+
+
+temperature of polymers shows a strong influence on the thermal conductivity
+
+
+of PLLA. Below Tg, the thermal conductivity of PLLA with different crystallinity
+
+
+increases with temperature and when the temperature is higher than Tg, the
+
+
+thermal conductivity of PLLA with different crystallinity decreases remarkably.
+
+
+It is also demonstrated that the thermal conductivity of PLLA increases with the
+
+
+increase in crystallinity, and the tensile strain linearly increases the thermal
+
+
+conductivity in the direction of molecular orientation and decreases the thermal
+
+
+conductivity in the perpendicular direction, which are in agreement with other
+
+
+semicrystalline polymers that has been reported.
+
+
+Address correspondence to E-mail: weiyang@scu.edu.cn
+
+
+https://doi.org/1 .1  7/s1 853- 18-23 6-4 
+J Mater Sci (2 18) 53:1 543–1 553 
+Polymers
+
+
+Introduction
+
+
+With the rapid development of science and tech-
+
+
+nologies, electric products are more and more highly
+
+
+integrated, which urgently pushes the exploitation of
+
+
+effective thermal management materials including
+
+
+thermally conductive polymers and polymer com-
+
+
+posites to be applied in various applications [1–7],
+
+
+such as packaging, electronic devices and energy
+
+
+storage. However, bulk polymers generally exhibit
+
+
+very low thermal conductivity (TC) in the range of
+
+
+ .1– .5 W/(mK) [8, 9], so the development of poly-
+
+
+mer materials with enhanced thermal conductivity
+
+
+has become a great challenge to meet great increasing
+
+
+demands [1 –15]. It has been accepted that the
+
+
+polymer matrix plays a crucial role in the overall TC
+
+
+of polymer composites [16]. It is therefore necessary
+
+
+to clearly clarify the influence of important factors
+
+
+such as crystallinity and molecular orientation on the
+
+
+TC of polymers.
+
+
+Generally, crystalline polymers exhibit higher TC
+
+
+than amorphous polymers due to the ordered struc-
+
+
+ture, while the random chain conformation in amor-
+
+
+phous polymers reduces the phonon mean free path
+
+
+and causes phonon scattering [17]. In early study,
+
+
+Hansen et al. [18] reported that the TC of high density
+
+
+polyethylene can be improved by increasing the
+
+
+crystallinity and lamellar thickness via tuning pro-
+
+
+cessing conditions. Subsequently, Choy and co-
+
+
+worker [19] found that the influence of crystallinity
+
+
+on the TC of polyethylene terephthalate (PET) was
+
+
+affected by temperature. The TC of PET decreases
+
+
+with increasing crystallinity at low temperature, but
+
+
+increases with crystallinity at temperatures above
+
+
+3  K. The peculiar behavior was interpreted from the
+
+
+increasing thermal boundary resistance due to
+
+
+acoustic mismatch at amorphous–crystalline interface
+
+
+when the temperature is lowered. Crystallization was
+
+
+also reported to be responsible for the higher TC in
+
+
+other semicrystalline polymers [2 , 21]. The higher
+
+
+the crystallinity, the higher the thermal conductivity.
+
+
+As heat transports more easily along polymer
+
+
+chains than perpendicular to the polymer chain,
+
+
+polymers exhibit significant anisotropy in their ther-
+
+
+mally conductive properties [22]. Numerous experi-
+
+
+mental studies on polymer chain orientation for TC
+
+
+enhancement have been reported. As a typical
+
+
+semicrystalline polymer, polyethylene (PE) has been
+
+
+mostly used to study the effect of orientation on TC
+
+
+[18, 23–28]. TC of other semicrystalline polymers
+
+
+stretched to different draw ratio including poly-
+
+
+oxymethylene (POM), polypropylene (PP),
+
+
+polyvinylidene fluoride (PVDF) and PET was also
+
+
+studied [29]. The general result is that TC parallel to
+
+
+the orientation direction rapidly increases with
+
+
+increasing strain or draw ratio, while TC perpendic-
+
+
+ular to the orientation direction decreases slightly.
+
+
+But in these studies on the effect of the orientation,
+
+
+TC was also influenced by the crystallization nature
+
+
+of the polymers. To clarify how chain alignment
+
+
+affects TC during drawing, purely amorphous poly-
+
+
+mers were studied [3 –34]. Early studies [31, 32] 
+showed that the TC of stretched polymethyl
+
+
+methacrylate (PMMA) and polystyrene (PS) can be
+
+
+increased in the stretching direction, but the increase
+
+
+was small. However, it was found recently that
+
+
+polythiophene nanofibers can achieve a TC up to
+
+
+4.4 W/(m K), more than 2  times greater than the
+
+
+bulk polymer through chain alignment [34]. Lu et al.
+
+
+[35] also evidenced the molecular alignment in
+
+
+amorphous region played a very important role in
+
+
+the enhancement of thermal conductivity of
+
+
+semicrystalline polyethylene oxide (PEO) fiber.
+
+
+PLLA is a plant-derived biodegradable polymer
+
+
+material. However, low thermal conductivity restricts
+
+
+its application in engineering and electronic fields. To
+
+
+expand the applications of PLLA, many studies have
+
+
+been conducted to improve the TC of PLLA via
+
+
+compounding with thermally conductive fillers
+
+
+[36–41], but the basic influencing factors from the
+
+
+polymer itself have not been well addressed, which is
+
+
+hopefully to provide supporting for fabrication of
+
+
+high thermally conductive PLLA composites. Also,
+
+
+owing to that PLLA exhibits very low crystallization
+
+
+kinetics [42–44], the amorphous state by quenching
+
+
+and a wide range of degrees of crystallinity by
+
+
+isothermal crystallization at different temperature for
+
+
+different periods of time can be easily achieved [45].
+
+
+These features provide a good candidate to elucidate
+
+
+the effect of crystallinity and molecular orientation on
+
+
+the TC of semicrystalline polymers.
+
+
+In this study, the crystallinity of PLLA was tuned
+
+
+by melt crystallization at 12  C for different minutes.
+
+
+Various degrees of orientation of PLLA were realized
+
+
+by stretching the amorphous PLLA bars at 6  C with
+
+
+the same speed to different strains. WAXD was car-
+
+
+ried out to characterize the crystallinity and degree of
+
+
+orientation of PLLA. DSC, density measurement and
+
+
+laser flash method were performed together to reveal
+
+
+1 544 J Mater Sci (2 18) 53:1 543–1 553 
+the relation between TC and crystallinity, tempera-
+
+
+ture and orientation of molecular chains. The results
+
+
+showed that TC of PLLA with different crystallinity
+
+
+was affected obviously by ambient temperature and
+
+
+the maximum value appeared at Tg. TC of PLLA
+
+
+increases with increasing crystallinity, and TC of
+
+
+PLLA parallel to the orientation direction increases
+
+
+with increasing tensile strain, while the one perpen-
+
+
+dicular to the stretching direction decreases with
+
+
+increasing strain. These results can further manifest
+
+
+the effect of crystallinity and orientation on the
+
+
+thermal conductivity of semicrystalline polymers.
+
+
+Also, this systematic study can provide supporting
+
+
+for fabricating enhanced thermally conductive PLLA
+
+
+composites.
+
+
+Experimental section
+
+
+Materials and sample preparation
+
+
+PLLA (trade name 4 32D, Nature Works LLC) was
+
+
+used. The average weight molecular weight (Mw) and
+
+
+the polydispersity index (PDI) are 2.1 9 1 5 g/mol
+
+
+and 1.7. The melting temperature is 167.2 C, mea-
+
+
+sured by differential scanning calorimetry at a heat-
+
+
+ing rate of 1  C/min.
+
+
+PLLA granules were dried in a blast drying oven at
+
+
+6  C for 12 h, and then melted in the mixer of a
+
+
+torque rheometer with a rotational speed of 5  rpm at
+
+
+19  C for 5 min. After that, the resulted materials
+
+
+were compressed into sheets with the thickness of
+
+
+about  .5 mm at 19  C for 3 min under a pressure of
+
+
+1  MPa. The melted PLLA sheet was immediately
+
+
+transferred to isothermal crystallization at 12  C for
+
+
+different minutes ( , 5, 8, 1 , 11, 12, 13 and 4  min)
+
+
+under a pressure of 1  MPa and then cooled quickly
+
+
+to obtain samples with different crystallinity. The
+
+
+resulted samples were designated as 12 -X min, in
+
+
+which X stands for the compression time at 12  C. Round disks with the diameter of 12.7 mm were cut
+
+
+from the 12 -X min PLLA sheets for WAXD and
+
+
+thermal diffusivity tests. Rectangular-shaped sample
+
+
+bars with the dimension of 2  mm (width) 9 8 .  
+mm (length) were cut from amorphous 12 -  min
+
+
+PLLA sheets, and then stretched uniaxially at 6  C using an Instron 5967 universal material testing
+
+
+machine at a stretching rate of 2  mm/min. The
+
+
+tensile strain was controlled to be  .5, 1, 2, 3 and 4. 
+The stretched bars designated as 6 -2 -Y, in which
+
+
+Y stands for the tensile strain, were measured by 2D 
+wide angel X-ray diffraction (WAXD) to determine
+
+
+the degree orientation. Both the through-plane and
+
+
+in-plane thermal diffusivities of the stretched bars
+
+
+were tested.
+
+
+Characterization
+
+
+WAXD measurements and data analysis
+
+
+WAXD measurement of PLLA compression sheets
+
+
+isothermally crystallized at 12  C for different min-
+
+
+utes was performed on a Rigaku Ultima IV diffrac-
+
+
+tometer with a Cu Ka radiation source (k =  .154 nm,
+
+
+4  kV, 25 mA) in the scanning range of 2h = 5–6  at a scan speed of 1 /min at room temperature. The
+
+
+crystallinity was determined from the fractional area
+
+
+of the crystalline peaks to the total area [46].
+
+
+WAXD measurement of PLLA samples stretched to
+
+
+different strains at 6  C with the speed of 2  mm/
+
+
+min was carried out on a Bruker D8 DISCOVER 2D 
+X-ray diffractometer with the reflection mode. The
+
+
+X-ray was generated using ImS micro Focus X-ray
+
+
+source generator with Cu target (k =  .154 nm, 4  kV,
+
+
+4  mA). The 2D X-ray diffraction patterns were
+
+
+recorded on a VANTEC-5   detector system with a
+
+
+pixel size of 68 9 68 mm2. The distance from the
+
+
+sample to detector was 198 mm. The spot size of the
+
+
+beam was  .5 mm.
+
+
+Density measurement
+
+
+The density of PLLA compression-molded samples
+
+
+with different crystallinity was measured by using
+
+
+MH-12 E density meter according to Archimedes
+
+
+principle.
+
+
+Differential scanning calorimetry (DSC) measurement
+
+
+The empty pan, sapphire standard and PLLA com-
+
+
+pression-molded samples with different crystallinity
+
+
+were measured by DSC (Q2 , TA company). Samples
+
+
+were measured from - 8  to 9  C with heating rate
+
+
+of 1  C/min under nitrogen gas flow of 5  mL/min.
+
+
+Thermal conductivity measurement by laser flash method
+
+
+The sample preparation processes for the thermal
+
+
+diffusivity measurements are outlined in Fig. S1. 
+Before testing, the thickness and length or diameter
+
+
+J Mater Sci (2 18) 53:1 543–1 553 1 545 
+of the samples were measured, and then both sur-
+
+
+faces of the samples were evenly sprayed with a thin
+
+
+graphite layer. The sample was then fixed according
+
+
+to the required test pattern and placed in the test
+
+
+chamber (LFA 467, Netzsch). PLLA compression-
+
+
+molded samples with different crystallinity were
+
+
+tested in the temperature ranging from - 7  to 8  C, while the PLLA stretched samples with different
+
+
+degree of orientation were tested at 25 C.
+
+
+Results and discussion
+
+
+Effect of temperature and crystallinity on the thermal conductivity of PLLA
+
+
+WAXD profiles of PLLA compression-molded sam-
+
+
+ples isothermally crystallized at 12  C for different
+
+
+period of time are shown in Fig. 1. It can be seen that
+
+
+the quenched PLLA compression-molded sample
+
+
+without isothermal crystallization (12 -  min) shows
+
+
+only a very broad diffraction peak of amorphous
+
+
+phase without any traces of crystalline peaks, clearly
+
+
+showing the amorphous nature of the sample owing
+
+
+to the extremely slow crystallization kinetics of
+
+
+PLLA. After isothermal crystallizing at 12  C, the WAXD profile of the isothermally crystallized PLLA
+
+
+samples shows three peaks at 2h = 16.7, 19.  and
+
+
+22.3, respectively, corresponding to the diffraction
+
+
+peaks of (2  )/(11 ), (2 3) and ( 15) planes of a crystalline structure of PLLA. The diffraction inten-
+
+
+sity of the peaks increases with the extension of
+
+
+isothermal crystallization time, showing that
+
+
+isothermal treatment at 12  C can effectively pro-
+
+
+mote the crystallization of PLLA. By Gauss fitting of
+
+
+the WAXD profiles, the crystallinity of all the samples
+
+
+was calculated and is listed in Table 1. The results
+
+
+demonstrate that the crystallinity of PLLA isother-
+
+
+mally crystallized at 12  C increases with the
+
+
+extension of isothermal crystallizing time, and can
+
+
+even reach up to a level higher than 5 %.
+
+
+The different crystallinity of PLLA samples leads to
+
+
+the differences of densities, which are listed in
+
+
+Table 2. It can be seen that although the crystallinity
+
+
+varies in a great range after crystallizing at 12  C for
+
+
+different time, the change in density, showing a slight
+
+
+increasing trends, is quite limited. However, when
+
+
+the crystallinity increases, the ratio of the ordered
+
+
+molecular chains in the system increases, leading to
+
+
+the decrease in the volume of the sample. That is why
+
+
+the density of PLLA increases a little with the
+
+
+increasing of crystallinity.
+
+
+The specific heat (Cp) was obtained by DSC Q2  
+(TA Instruments, America) at a heating rate of 1  C/ min. The Cp values of PLLA compression samples
+
+
+with different crystallinity are calculated by Eq. (1):
+
+
+Cp ¼ Cp m  h= mHð Þ ð1Þ 
+where Cp and Cp , m and m , h and H are the specific
+
+
+heat, the weight and the heat flow of PLLA sample
+
+
+and sapphire standard, respectively. The specific heat
+
+
+of sapphire standard is given in the DSC software.
+
+
+The calculated specific heat of PLLA samples is
+
+
+shown in Fig. 2. It shows that the specific heat
+
+
+increases linearly before 5  C. An abrupt increase in
+
+
+the specific heat is observed in the glass transition
+
+
+temperature range (5 –7  C), resulting from the
+
+
+change of free volume of PLLA [47], and then specific
+
+
+heat remains constant for the samples with given
+
+
+crystallinity after Tg. Thermal diffusivities of PLLA
+
+
+samples with different crystallinity were measured
+
+
+by laser flash method, which is a non-contact tran-
+
+
+sient thermal measurement method widely used for
+
+
+measuring the thermal diffusivity (a). With all these
+
+
+parameters, the thermal conductivity of the samples
+
+
+can be derived through Eq. (2):
+
+
+k ¼ a q Cp ð2Þ 
+where q is the bulk density and Cp is the specific heat
+
+
+at a given pressure.
+
+
+The thermal diffusivity and the thermal conduc-
+
+
+tivity of PLLA samples with different crystallinity are Figure 1 XRD profiles of PLLA compression-molded sheets
+
+
+isothermally crystallized at 12  C for different time.
+
+
+1 546 J Mater Sci (2 18) 53:1 543–1 553 
+shown in Fig. 3. Figure 3a shows that the thermal
+
+
+diffusivity of PLLA samples with different crys-
+
+
+tallinity reduces moderately due to the decrease in
+
+
+the phonon mean free path when the temperature
+
+
+rises, but drops abruptly within the glass transition
+
+
+temperature range. Taking 12 -4  as an example, the
+
+
+thermal diffusivity decreases by  . 33 mm2/s from
+
+
+- 7  to 6  C, but decreases by  . 17 mm2/s sharply
+
+
+only from 6  to 8  C. The sudden drop can be
+
+
+explained in terms of molecular mobility [48]. But it
+
+
+should be noted that the abrupt drop trend around Tg
+
+
+becomes gentler with increasing crystallinity of PLLA
+
+
+samples. It can be understood from the fact that the
+
+
+crystallized fractions refine the amorphous phase of
+
+
+PLLA to a certain degree and hinder the molecular
+
+
+motion in amorphous regions which will reduce the
+
+
+phonon mean free path, especially at temperatures
+
+
+near the glass transition.
+
+
+Figure 3b shows the relationship between thermal
+
+
+conductivity of PLLA samples with different crys-
+
+
+tallinity and temperature. It can be found that the
+
+
+environmental temperature affects the thermal con-
+
+
+ductivity obviously. Notably, the glass transition
+
+
+temperature exerts a great influence on the thermal
+
+
+conductivity. In the glass state below Tg, thermal
+
+
+conductivities of all the PLLA samples with different
+
+
+crystallinity increase with temperature. In this tem-
+
+
+perature range, two mechanisms with opposite
+
+
+effects operate [48]. The thermal diffusivity decreases
+
+
+with temperature increasing, while the increase in
+
+
+Table 1 Crystallinity of
+
+
+PLLA samples isothermally
+
+
+crystallized at 12  C for
+
+
+different time
+
+
+Sample code 12 -  12 -5 12 -8 12 -1  12 -11 12 -12 12 -13 12 -4  
+Xc (%)   4 11 19 24 33 4  56 
+Table 2 Density of PLLA
+
+
+samples isothermally
+
+
+crystallized at 12  C for
+
+
+different time
+
+
+Sample code 12 -  12 -5 12 -8 12 -1  12 -11 12 -12 12 -13 12 -4  
+Density (g/cm3) 1.243 1.245 1.245 1.246 1.246 1.248 1.249 1.254 
+Figure 2 Specific heat of PLLA compression-molded sheets with
+
+
+different crystallinity between - 7  and 8  C.
+
+
+Figure 3 Thermal diffusivity (a) and conductivity (b) of PLLA samples with different crystallinity between - 7  and 8  C.
+
+
+J Mater Sci (2 18) 53:1 543–1 553 1 547 
+specific heat attributes more to the thermal conduc-
+
+
+tivity. The net effect is a smooth and moderate
+
+
+increase in thermal conductivity with temperature
+
+
+increasing. When the temperature is further
+
+
+increased, the amorphous phase of PLLA sample gets
+
+
+into rubbery state, and the molecular chains of the
+
+
+amorphous phase begin to move, leading to a great
+
+
+reduction in the phonon mean free path. So, the
+
+
+thermal conductivity decreases remarkably. Such a
+
+
+process produces the maximum of the thermal con-
+
+
+ductivity near the glass transition temperature in the
+
+
+range of the measured temperatures. Meanwhile, it
+
+
+also can be seen that the thermal conductivity of
+
+
+PLLA samples increases with the increase in crys-
+
+
+tallinity of PLLA.
+
+
+To further analyze the effect of the crystallinity on
+
+
+the thermally conductive properties of PLLA, the
+
+
+thermal diffusivity, specific heat and thermal con-
+
+
+ductivity of PLLA samples at different temperatures
+
+
+are presented as a function of crystallinity in Fig. 4. 
+The specific heat changes linearly with the increase in
+
+
+crystallinity of PLLA at different temperatures. The
+
+
+slope of the fitting curve decreases from  .118 to
+
+
+-  .46 with increasing temperature. It shows that the
+
+
+specific heat of PLLA decreases with increasing
+
+
+crystallinity when the temperature is higher than Tg,
+
+
+due to that Cp for amorphous phase is larger than
+
+
+crystal phase [49]. However, specific heat of PLLA
+
+
+samples increases slowly with the increasing crys-
+
+
+tallinity at temperatures below Tg. Thermal diffusiv-
+
+
+ity of PLLA increases linearly with increasing
+
+
+crystallinity, and the increasing rate keeps stable at
+
+
+the temperatures below Tg, while the increasing rate
+
+
+increases after Tg. When the amorphous phase is in
+
+
+the rubber state, the motion of the molecular chains
+
+
+reduces the phonon mean free path obviously, while
+
+
+with the increasing crystallinity, the mean free path
+
+
+increases distinctly. That is why the thermal diffu-
+
+
+sivity increases obviously with increasing crys-
+
+
+tallinity. Therefore, the thermal conductivity of PLLA
+
+
+samples as a result of the specific heat and thermal
+
+
+diffusivity increases with increasing crystallinity.
+
+
+Figure 4 Variation of Cp (a), thermal diffusivity (b) and thermal conductivity (c) of PLLA samples with different degree of crystallinity
+
+
+at given temperatures.
+
+
+1 548 J Mater Sci (2 18) 53:1 543–1 553 
+Though the specific heat decreases with increasing
+
+
+crystallinity after Tg, the thermal diffusivity com-
+
+
+pensates more for the thermal conductivity. The
+
+
+increase in thermal conductivity of PLLA samples
+
+
+with increasing crystallinity is in agreement with that
+
+
+of other semi-crystallized polymers. However, it
+
+
+should be noted that TC of PLLA is not significantly
+
+
+increased with crystallinity. TC of PLLA with the
+
+
+crystallinity of 56% (12 -4 ) is  .196 W/mK at 2  C, only  . 25 W/mK larger than the thermal conduc-
+
+
+tivity of amorphous PLLA (12 - ).
+
+
+Effect of molecular orientation on the thermal conductivity of PLLA
+
+
+To obtain PLLA with different degrees of orientation
+
+
+and to exclude the influence of crystallization,
+
+
+amorphous PLLA rectangle samples (12 -  min)
+
+
+were stretched to different strains uniaxially at 6  C with the stretching rate of 2  mm/min. Different
+
+
+positions were marked on the original bars. It is
+
+
+found in Fig. S2(a) that the strain of every marked
+
+
+length is consistent, which provides us proof for our
+
+
+assumption that the orientation of different positions
+
+
+on the tensile bar is similar. Taking 6 -2 -4 as an
+
+
+example, 2D WAXD patterns of different positions on
+
+
+the tensile bar are shown in Fig. S2(b) to verify the
+
+
+degree of orientation. It shows that WAXD diffrac-
+
+
+tions of the three different positions are almost the
+
+
+same on the meridian and the isotropic scattering
+
+
+halo develops into the two arcs along the meridian.
+
+
+From the azimuth scan curve, it can be seen that the
+
+
+curves of the ‘‘upper, middle, down’’ parts are basi-
+
+
+cally also the same. These results indicate that
+
+
+degrees of orientation of different positions along
+
+
+drawing direction of the tensile bar are the same, and
+
+
+the differences are negligible. This facilitates subse-
+
+
+quent preparation of specimens for tests of in-plane
+
+
+thermal diffusivity.
+
+
+The middle part of PLLA bars stretched to different
+
+
+strains is chosen to measure the degrees of orienta-
+
+
+tion by 2D WAXD. The 2D WAXD patterns are
+
+
+shown in Fig. 5. The un-stretched PLLA shows reg-
+
+
+ular concentric rings, indicating that the initial PLLA
+
+
+bar is amorphous and isotropic. With the increase in
+
+
+tensile strain, the isotropic halo gradually concen-
+
+
+trates to the meridian, which indicates that amor-
+
+
+phous chains of PLLA samples get orientated
+
+
+gradually along the drawing direction, and the
+
+
+strength increases gradually. In this process, no
+
+
+obvious crystal diffraction occurs. The meridian
+
+
+intensity profiles extracted from the WAXD patterns
+
+
+in Fig. 5b also show a very broad scattering peak of
+
+
+amorphous phase without any traces of crystalline
+
+
+phases. These results clearly demonstrated that the
+
+
+stretched PLLA bars with different strains are all
+
+
+amorphous and a series of PLLA with different
+
+
+degrees of orientation have been achieved to further
+
+
+reveal the influence of orientation on the thermal
+
+
+conductivity of PLLA.
+
+
+Both the in-plane and through-plane thermal dif-
+
+
+fusivity of the stretched and un-stretched PLLA
+
+
+samples were measured at 25 C. The thermal
+
+
+Figure 5 2D WAXD patterns (a) of PLLA samples stretched to different strains at 6  C with the speed of 2  mm/min and meridian
+
+
+intensity profiles (b) extracted from the WAXD patterns.
+
+
+J Mater Sci (2 18) 53:1 543–1 553 1 549 
+conductivities are calculated by Eq. (2). Here, the
+
+
+specific heat and the density are constant, which are
+
+
+the values of the aforementioned PLLA 12 -  min
+
+
+(specific heat: 1.195 J/g K, density: 1.243 g/cm3). The
+
+
+results are shown in Fig. 6. The relation between
+
+
+thermal diffusivity in the in-plane direction and
+
+
+tensile strain is opposite to the relation between
+
+
+thermal diffusivity in the through-plane direction
+
+
+and tensile strain. The thermal diffusivity in the in-
+
+
+plane direction increases as the tensile strain increa-
+
+
+ses, while the thermal diffusivity of PLLA samples in
+
+
+the through-plane direction decreases with the
+
+
+increase in tensile strain. This is owing to that the
+
+
+thermal energy transports more efficiently parallel to
+
+
+the tensile direction, i.e., along the polymer chain,
+
+
+which consists of the strong covalent bonds, than
+
+
+perpendicular to the polymer chain, where the ther-
+
+
+mal energy is carried by the means of weak van der
+
+
+Waals interaction of molecules [22]. That is to say, the
+
+
+phonon mean free path along the tensile direction (in-
+
+
+plane direction) is larger than that perpendicular to
+
+
+the tensile direction (through-plane direction).
+
+
+Therefore, with the increase in orientation, the ther-
+
+
+mal diffusivity in the in-plane direction increases,
+
+
+while the one in the through-plane direction decrea-
+
+
+ses. As the specific heat and density are constant, the
+
+
+variation of thermal conductivity (k) with the degree
+
+
+of orientation is consistent with the variation of the
+
+
+thermal diffusivity with the degree of orientation.
+
+
+The thermal conductivity in the in-plane direction
+
+
+(k//) increases linearly with the increase in tensile
+
+
+strain, and thermal conductivity in the through-plane
+
+
+direction (k\) decreases linearly with the increase in
+
+
+tensile strain. When the tensile strain is 4, the TC in
+
+
+the in-plane direction of PLLA is  .348 W/mK, while
+
+
+the TC in the through-plane direction decreases to
+
+
+ .125 W/mK. The relative thermal conductivities (k/
+
+
+k )-strain data are also given in Fig. 7, showing that
+
+
+the relative in-plane thermal conductivity (k///k ) is
+
+
+low, only around 2 when tensile strain reaches to 4. 
+Such a linear relationship between k (k// and k\) and
+
+
+strain and low relative in-plane thermal conductivity
+
+
+have also been observed previously for other amor-
+
+
+phous polymers such as PS, PMMA, PC, etc. [3 , 32].
+
+
+Figure 6 Thermal diffusivity (a) and conductivity of amorphous PLLA stretched samples (b) in through-plane and in-plane direction
+
+
+versus tensile strain.
+
+
+Figure 7 Relative thermal conductivity versus tensile strain for
+
+
+amorphous PLLA samples.
+
+
+1 55  J Mater Sci (2 18) 53:1 543–1 553 
+A specific prediction of relationship between the
+
+
+conductivity of the oriented material and unoriented
+
+
+material has been given as Eq. (3).
+
+
+3=k  ¼ 1=k==  
+
+
+þ ð2=k?Þ ð3Þ 
+TC in the directions parallel and perpendicular to
+
+
+tensile direction would be principal conductivities
+
+
+which would indeed bear the relationship of Eq. (3) 
+to a neutral plane conductivity in uniaxially oriented
+
+
+polymer. However, there is no fundamental reason
+
+
+why this neutral plane conductivity is the same as the
+
+
+conductivity of an unoriented specimen [32]. The
+
+
+corresponding parameters in Eq. 3 of PLLA are listed
+
+
+in Table 3. It is found that the thermal conductivities
+
+
+of the oriented and unoriented PLLA conform with
+
+
+the relationship of Eq. 3. 
+Conclusion
+
+
+In this work, different crystallinity and degree of
+
+
+orientation of PLLA were fabricated by isothermal
+
+
+crystallization at 12  C for different minutes and
+
+
+stretching the amorphous PLLA bars at 6  C at the
+
+
+same speed to different strains, respectively. We have
+
+
+demonstrated the effect of temperature, crystallinity
+
+
+and degree of orientation on the thermal conductivity
+
+
+of bulk PLLA samples. The thermal conductivity of
+
+
+PLLA with different crystallinity was affected obvi-
+
+
+ously by temperature. Before Tg, the thermal con-
+
+
+ductivity of PLLA with different crystallinity
+
+
+increases with temperature, mainly resulting from
+
+
+the increasing specific heat. As the temperature is
+
+
+further increased to be higher than Tg, the thermal
+
+
+conductivity of PLLA with different crystallinity
+
+
+decreases remarkably due to the obvious drop of
+
+
+thermal diffusivity. It demonstrates that thermal
+
+
+conductivity of PLLA increases with the increase in
+
+
+crystallinity, but the increasing rate is quite limited.
+
+
+With orientation, the conductivity was increased in
+
+
+the direction of molecular orientation and decreased
+
+
+in the perpendicular direction. The reciprocal of the
+
+
+two thermal conductivities in different directions of
+
+
+PLLA stretched to different strains fit a linear
+
+
+relationship.
+
+
+Acknowledgements
+
+
+This work was funded by the National Natural Sci-
+
+
+ence Foundation of China (514223 5 and 51721 91) 
+and Sichuan Provincial Science Fund for Distin-
+
+
+guished Young Scholars (2 15JQO  3).
+
+
+Electronic supplementary material: The online
+
+
+version of this article (https://doi.org/1 .1  7/ 
+s1 853- 18-23 6-4) contains supplementary material,
+
+
+which is available to authorized users.
+
+
+References
+
+
+[1] Olowojoba GB, Kopsidas S, Eslava S, Gutierrez ES, Kinloch
+
+
+AJ, Mattevi C, Rocha VG, Taylor AC (2 17) A facile way to
+
+
+produce epoxy nanocomposites having excellent thermal
+
+
+conductivity with low contents of reduced graphene oxide.
+
+
+J Mater Sci 52:7323–7344. https://doi.org/1 .1  7/s1 853- 
+ 17- 969-x
+
+
+[2] Wang Z, Cheng Y, Wang H, Yang M, Shao Y, Chen X,
+
+
+Tanaka T (2 17) Sandwiched epoxy–alumina composites
+
+
+with synergistically enhanced thermal conductivity and
+
+
+breakdown strength. J Mater Sci 52:4299–43 8. https://doi.
+
+
+org/1 .1  7/s1 853- 16- 511-6 
+[3] Yang J, Zhang E, Li XF, Zhang Y, Qu J, Yu Z-Z (2 16) 
+Cellulose/graphene aerogel supported phase change com-
+
+
+posites with high thermal conductivity and good shape sta-
+
+
+bility for thermal energy storage. Carbon 98:5 –57 
+[4] Yang J, Tang LS, Bao RY, Bai L, Liu ZY, Yang W, Xie BH,
+
+
+Yang MB (2 16) Ice-templated assembly strategy to con-
+
+
+struct graphene oxide/boron nitride hybrid porous scaffolds
+
+
+in phase change materials with enhanced thermal conduc-
+
+
+tivity and shape stability for light-thermal-electric energy
+
+
+conversion. J Mater Chem A 4:18841–18851 
+[5] Feng CP, Ni HY, Chen J, Yang W (2 16) A facile method to
+
+
+fabricate highly conductive graphite/PP composite with
+
+
+Table 3 Relationship between the conductivity of the oriented and unoriented PLLA samples
+
+
+Sample code 6 -2 -  6 -2 - .5 6 -2 -1 6 -2 -2 6 -2 -3 6 -2 -4 
+3/k  18.2 
+(1/k//) ? (2/k\) 18.2 17.8 18.1 18.3 18.3 19.3 
+J Mater Sci (2 18) 53:1 543–1 553 1 551 
+network structures. ACS Appl Mater Interfaces
+
+
+8:19732–19738 
+[6] Yang J, Tang LS, Bao RY, Bai L, Liu ZY, Xie BH, Yang MB,
+
+
+Yang W (2 18) Hybrid network structure of boron nitride
+
+
+and graphene oxide in shape-stabilized composite phase
+
+
+change materials with enhanced thermal conductivity and
+
+
+light-to-electric energy conversion capability. Sol Energy
+
+
+Mater Sol Cells 174C:56–64 
+[7] Feng CP, Bai L, Bao RY, Liu ZY, Yang MB, Chen J, Yang W
+
+
+(2 18) Electrically insulating POE/BN elastomeric com-
+
+
+posites with high through-plane thermal conductivity fabri-
+
+
+cated by two-roll milling and hot compression. Adv Compos
+
+
+Hybrid Mater 1:16 –167 
+[8] Chen H, Ginzburg VV, Yang J, Yang Y, Liu W, Huang Y, Du
+
+
+L, Chen B (2 16) Thermal conductivity of polymer-based
+
+
+composites: fundamentals and applications. Prog Polym Sci
+
+
+59:41–85 
+[9] Han Z, Fina A (2 11) Thermal conductivity of carbon nan-
+
+
+otubes and their polymer nanocomposites: a review. Prog
+
+
+Polym Sci 36:914–944 
+[1 ] Shen X, Wang Z, Wu Y, Liu X, He YB, Kim JK (2 16) 
+Multilayer graphene enables higher efficiency in improving
+
+
+thermal conductivities of graphene/epoxy composites. Nano
+
+
+Lett 16(6):3585–3593 
+[11] Noh YJ, Kim SY (2 15) Synergistic improvement of thermal
+
+
+conductivity in polymer composites filled with pitch based
+
+
+carbon fiber and graphene nanoplatelets. Polym Test
+
+
+45:132–138 
+[12] Zhao W, Kong J, Liu H, Zhuang Q, Gu J, Guo Z (2 16) 
+Ultra-high thermally conductive and rapid heat responsive
+
+
+poly(benzobisoxazole) nanocomposites with self-aligned
+
+
+graphene. Nanoscale 8:19984–19993 
+[13] Zhang WB, Zhan ZX, Yang JH et al (2 15) Largely
+
+
+enhanced thermal conductivity of poly(vinylidene fluo-
+
+
+ride)/carbon nanotube composites achieved by adding gra-
+
+
+phene oxide. Carbon 9 :242–254 
+[14] Yang J, Yu P, Tang LS, Bao RY, Liu ZY, Yang MB, Yang W
+
+
+(2 17) Hierarchically well-ordered porous scaffolds for
+
+
+phase change materials with improved thermal conductivity
+
+
+and efficient solar-to-electric energy conversion. Nanoscale
+
+
+9(45):177 4–177 9 
+[15] Yang J, Tang LS, Bao RY, Bai L, Liu ZY, Yang W, Xie BH,
+
+
+Yang MB (2 17) Largely enhanced thermal conductivity of
+
+
+polyethylene glycol/boron nitride composite phase change
+
+
+materials for solar–thermal–electric energy conversion and
+
+
+storage with very low content of graphene nanoplatelets.
+
+
+Chem Eng J 315:481–49  
+[16] Xiao YJ, Wang WY, Lin T, Chen XJ, Zhang YT, Yang JH,
+
+
+Wang Y, Zhou ZW (2 16) Largely enhanced thermal con-
+
+
+ductivity and high dielectric constant of poly(vinylidene
+
+
+fluoride)/boron nitride composites achieved by adding a few
+
+
+carbon nanotubes. J Phys Chem C 12 :6344–6355 
+[17] Anderson DR (1966) Thermal conductivity of polymers.
+
+
+Chem Rev 1966:677–69  
+[18] Hansen D, Bernier GA (1972) Thermal-conductivity of
+
+
+polyethylene: effects of crystal size, density and orientation
+
+
+on thermal-conductivity. Polym Eng Sci 12:2 4–2 8 
+[19] Choy CL, Greig D (1975) Low-temperature thermal-con-
+
+
+ductivity of a semi-crystalline polymer, polyethylene
+
+
+terephthalate. J Phys C Solid State Phys 8:3121–313  
+[2 ] Choy CL, Kwok KW, Leung WP, Lau FP (1994) Thermal-
+
+
+conductivity of poly(ether ether ketone) and its short-fiber
+
+
+composites. J Polym Sci Part B Polym Phys 32:1389–1397 
+[21] Yu J, Sundqvist B, Tonpheng B, Andersson O (2 14) 
+Thermal conductivity of highly crystallized polyethylene.
+
+
+Polymer 55:195–2   
+[22] Kurabayashi K (2  1) Anisotropic thermal properties of
+
+
+solid polymers. Int J Thermophys 22:277–288 
+[23] Choy CL, Luk WH, Chen FC (1978) Thermal-conductivity
+
+
+of highly oriented polyethylene. Polymer 19:155–162 
+[24] Kanamoto T, Tsuruta A, Tanaka K, Takeda M, Porter RS
+
+
+(1988) Superdrawing of ultrahigh molecular-weight poly-
+
+
+ethylene 1 effect of techniques on drawing of single-crystal
+
+
+mats. Macromolecules 21:47 –477 
+[25] Anandakumaran K, Roy SK, Manley RS (1988) Drawing-
+
+
+induced changes in the properties of polyethylene fibers
+
+
+prepared by gelation crystallization. Macromolecules
+
+
+21:1746–1751 
+[26] Choy CL, Fei Y, Xi TG (1993) Thermal-conductivity of gel-
+
+
+spun polyethylene fibers. J Polym Sci Part B Polym Phys
+
+
+31:365–37  
+[27] Mergenthaler DB, Pietralla M, Roy S, Kilian HG (1992) 
+Thermal-conductivity in ultraoriented polyethylene. Macro-
+
+
+molecules 25:35  –35 2 
+[28] Saeidijavash M, Garg J, Grady B, Smith B, Li Z, Young RJ,
+
+
+Tarannum F, Bel Bekri N (2 17) High thermal conductivity
+
+
+through simultaneously aligned polyethylene lamellae and
+
+
+graphene nanoplatelets. Nanoscale 9:12867–12873 
+[29] Choy CL, Chen FC, Luk WH (198 ) Thermal-conductivity
+
+
+of oriented crystalline polymers. J Polym Sci Part B Polym
+
+
+Phys 18:1187–12 7 
+[3 ] Hennig J (1967) Anisotropy and structure in uniaxially
+
+
+stretched amorphous high polymers. J Polym Sci Part C
+
+
+Polym Symp 16:2751–2761 
+[31] Choy CL (1977) Thermal-conductivity of polymers. Poly-
+
+
+mer 18:984–1  4 
+[32] Washo BD, Hansen D (1969) Heat conduction in linear
+
+
+amorphous high polymers-orientation anisotropy. J Appl
+
+
+Phys 4 :2423–2427 
+1 552 J Mater Sci (2 18) 53:1 543–1 553 
+[33] Algaer EA, Alaghemandi M, Boehm MC, Mueller-Plathe F
+
+
+(2  9) Anisotropy of the thermal conductivity of stretched
+
+
+amorphous polystyrene in supercritical carbon dioxide
+
+
+studied by reverse nonequilibrium molecular dynamics
+
+
+simulations. J Phys Chem B 113:14596–146 3 
+[34] Singh V, Bougher TL, Weathers A, Cai Y, Bi K, Pettes MT,
+
+
+McMenamin SA, Lv W, Resler DP, Gattuso TR, Altman DH,
+
+
+Sandhage KH, Shi L, Henry A, Cola BA (2 14) High
+
+
+thermal conductivity of chain-oriented amorphous poly-
+
+
+thiophene. Nat Nanotechnol 9:384–39  
+[35] Lu C, Chiang SW, Du H, Li J, Gan L, Zhang X, Chu X, Yao
+
+
+Y, Li B, Kang F (2 17) Thermal conductivity of electro-
+
+
+spinning chain-aligned polyethylene oxide (PEO). Polymer
+
+
+115:52–59 
+[36] Takagi H, Kako S, Kusano K, Ousaka A (2  7) Thermal
+
+
+conductivity of PLA-bamboo fiber composites. Adv Compos
+
+
+Mater 16:377–384 
+[37] Nakamura A, Iji M (2 11) Factors affecting the magnitudes
+
+
+and anisotropies of the thermal and electrical conductivities
+
+
+of poly(L-lactic) acid composites with carbon fibers of var-
+
+
+ious sizes. J Mater Sci 46:747–751. https://doi.org/1 .1  7/ 
+s1 853- 1 -48 7-7 
+[38] Tarawneh MA, Shahdan D, Ahmad SH (2 13) Investigation
+
+
+on the effect of NiZn Ferrite on the mechanical and thermal
+
+
+conductivity of PLA/LNR nanocomposites. J Nanomater.
+
+
+https://doi.org/1 .1155/2 13/3 6961 
+[39] Huang J, Zhu Y, Xu L, Chen J, Jiang W, Nie X (2 16) 
+Massive enhancement in the thermal conductivity of poly-
+
+
+mer composites by trapping graphene at the interface of a
+
+
+polymer blend. Compos Sci Technol 129:16 –165 
+[4 ] Mosanenzadeh SG, Khalid S, Cui Y, Naguib HE (2 16) 
+High thermally conductive PLA based composites with tai-
+
+
+lored hybrid network of hexagonal boron nitride and gra-
+
+
+phene nanoplatelets. Polym Compos 37:2196–22 5 
+[41] Lebedev SM, Gefle OS, Amitov ET, Berchuk DY, Zhuravlev
+
+
+DV (2 17) Poly(lactic acid)-based polymer composites with
+
+
+high electric and thermal conductivity and their characteri-
+
+
+zation. Polym Test 58:241–248 
+[42] Luyt AS, Gasmi S (2 16) Influence of blending and blend
+
+
+morphology on the thermal properties and crystallization
+
+
+behaviour of PLA and PCL in PLA/PCL blends. J Mater Sci
+
+
+51:467 –4681. https://doi.org/1 .1  7/s1 853- 16-9784-z
+
+
+[43] Li L, Cao ZQ, Bao RY, Xie BH, Yang MB, Yang W (2 17) 
+Poly(L-lactic acid)-polyethylene glycol-poly(L-lactic acid)
+
+
+triblock copolymer: a novel macromolecular plasticizer to
+
+
+enhance the crystallization of poly(L-lactic acid). Eur Polym
+
+
+J 97:272–281 
+[44] Meng XT, Bocharova V, Tekinalp H, Cheng SW, Kisliuk A,
+
+
+Sokolov AP, Kunc V, Peter WH, Ozcan S (2 18) Toughen-
+
+
+ing of nanocellulose/PLA composites via bio-epoxy inter-
+
+
+action: mechanistic study. Mater Des 139(5):188–197 
+[45] Bao RY, Yang W, Jiang WR, Liu ZY, Xie BH, Yang MB
+
+
+(2 13) Polymorphism of racemic poly(L-lactide)/poly(D-
+
+
+lactide) blend: effect of melt and cold crystallization. J Phys
+
+
+Chem B 117:3667–3674 
+[46] Renouf-Glauser AC, Rose J, Farrar DF, Cameron RE (2  5) 
+The effect of crystallinity on the deformation mechanism and
+
+
+bulk mechanical properties of PLLA. Biomaterials
+
+
+26:5771–5782 
+[47] Zhang L, Zhang W, Cai G, Fu X (2 12) Study on the thermal
+
+
+property parameters of PLA. China Plast Ind 4 :68–71 
+[48] dos Santos WN, de Sousa JA, Gregorio R Jr (2 13) Thermal
+
+
+conductivity behaviour of polymers around glass transition
+
+
+and crystalline melting temperatures. Polym Test
+
+
+32:987–994 
+[49] Zarandi MB, Bioki HA, Mirbagheri ZA, Tabbakh F, Mirjalili
+
+
+G (2 12) Effect of crystallinity and irradiation on thermal
+
+
+properties and specific heat capacity of LDPE & LDPE/EVA.
+
+
+Appl Radiat Isot 7 :1–5 

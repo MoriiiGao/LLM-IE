@@ -1,0 +1,16 @@
+Journal Ref
+DOI
+Corresponding author
+Corresponding author's affiliation
+Title	
+Polymer type and information
+Orientation
+Crystallinity
+chain structure
+Filler information
+Filler content
+Filler treatment
+Filler orientation
+Sample preparation method
+An instrument or method for testing thermal conductivity
+Thermal conductivity

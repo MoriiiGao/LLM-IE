@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Display File Content</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $.ajax({
+                url: 'C:\Users\yilu660\OneDrive - The University of Auckland\Desktop\jquery.min.js', // 文件的URL
+                dataType: 'text',
+                success: function(data) {
+                    $('#file-content').text(data);
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+    <pre id="file-content"></pre> <!-- 文件内容将在这里显示 -->
+</body>
+</html>
